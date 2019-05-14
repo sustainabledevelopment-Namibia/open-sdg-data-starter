@@ -72,16 +72,6 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
-      - name: "local_definition"
-        field:
-            element: text
-            label: "Local definition"
-            scope: national
-       - name: "global_definition"
-        field:
-            element: text
-            label: "Global definition"
-            scope: national
        - name: "national_indicator_available"
         field:
             element: text
