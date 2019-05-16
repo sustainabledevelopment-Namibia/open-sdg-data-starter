@@ -75,7 +75,7 @@ prose:
       - name: "national_indicator_available"
         field:
             element: text
-            label: "Indicator available"
+            label: "Indicator"
             scope: national
       - name: "national_indicator_description"
         field:
