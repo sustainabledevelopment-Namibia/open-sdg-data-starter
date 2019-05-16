@@ -72,66 +72,66 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
-      - name: "national_indicator_available"
-        field:
-            element: text
-            label: "Indicator available"
-            scope: national
-      - name: "national_indicator_definition"
+      #- name: "national_indicator_available"
+      #  field:
+      #      element: text
+      #      label: "Indicator available"
+      #      scope: national
+      - name: "national_global_indicator_definition"
         field:
             element: text
             label: "Global indicator definition"
             scope: national
-      - name: "national_indicator_description"
+      - name: "national_local_indicator_definition"
         field:
             element: text
-            label: "Indicator description"
-            scope: national
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
+            label: "Local indicator definition"
             scope: national
       - name: "computation_units"
         field:
             element: text
             label: "Unit of measurement"
             scope: national
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Definitions"
-            scope: national
-      - name: "computation_calculations"
+      - name: "disaggregation_level"
         field:
             element: text
-            label: "Calculations"
-            scope: national
-      - name: "comments_limitations"
+            label: "Disaggregation level"
+            scope: national    
+      - name: "data_source"
         field:
             element: text
-            label: "Other information"
+            label: "Data source"
+            scope: national
+      - name: "frequency"
+        field:
+            element: text
+            label: "Frequency"
+            scope: national
+      - name: "data_provider"
+        field:
+            element: text
+            label: "Data provider"
             scope: national
       - name: "national_data_update_url"
         field:
             element: hidden
             label: "Data last updated"
             scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
+      #- name: "national_data_update_url_text"
+      #  field:
+      #      element: hidden
+      #      label: "Data last updated"
+      #      scope: national
       - name: "national_metadata_update_url"
         field:
             element: hidden
             label: "Metadata last updated"
             scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
+      #- name: "national_metadata_update_url_text"
+      #  field:
+      #      element: hidden
+      #      label: "Metadata last updated"
+      #      scope: national
        ######### Data Info #########
       - name: "reporting_status"
         field:
