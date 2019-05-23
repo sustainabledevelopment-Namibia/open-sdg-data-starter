@@ -77,12 +77,12 @@ prose:
       #      element: text
       #      label: "Indicator available"
       #      scope: national
-      - name: "national_global_indicator_definition"
+      - name: "global_indicator_definition"
         field:
             element: text
             label: "Global indicator definition"
             scope: national
-      - name: "national_local_indicator_definition"
+      - name: "local_indicator_definition"
         field:
             element: text
             label: "Local indicator definition"
