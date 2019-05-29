@@ -200,7 +200,7 @@ prose:
             scope: graph
       ######### National Sources #########
       ## Source 1
-      - name: source_active_1
+      #- name: source_active_1
         field:
             element: checkbox
             label: Source 1 active
@@ -231,7 +231,7 @@ prose:
             element: text
             label: "Link to data source"
             scope: source_1
-      - name: "source_url_text_1"
+      #- name: "source_url_text_1"
         field:
             element: text
             label: "Link to data source text"
@@ -267,7 +267,7 @@ prose:
             label: "Other information"
             scope: source_1
       ## Source 2
-      - name: source_active_2
+      #- name: source_active_2
         field:
             element: checkbox
             label: Source 2 active
@@ -298,7 +298,7 @@ prose:
             element: text
             label: "Link to data source"
             scope: source_2
-      - name: "source_url_text_2"
+      #- name: "source_url_text_2"
         field:
             element: text
             label: "Link to data source text"
@@ -334,7 +334,7 @@ prose:
             label: "Other information"
             scope: source_2
       ## Source 3
-      - name: source_active_3
+      #- name: source_active_3
         field:
             element: checkbox
             label: Source 3 active
@@ -366,7 +366,7 @@ prose:
             label: "Link to data source"
             value: "Link to source"
             scope: source_3
-      - name: "source_url_text_3"
+      #- name: "source_url_text_3"
         field:
             element: text
             label: "Link to data source text"
@@ -401,7 +401,7 @@ prose:
             label: "Other information"
             scope: source_3
       ## Source 4
-      - name: source_active_4
+      #- name: source_active_4
         field:
             element: checkbox
             label: Source 4 active
@@ -427,7 +427,7 @@ prose:
             element: text
             label: "Geographical coverage"
             scope: source_4
-      - name: "source_url_4"
+      #- name: "source_url_4"
         field:
             element: text
             label: "Link to data source"
@@ -468,7 +468,7 @@ prose:
             label: "Other information"
             scope: source_4
       ## Source 5
-      - name: source_active_5
+      #- name: source_active_5
         field:
             element: checkbox
             label: Source 5 active
@@ -499,7 +499,7 @@ prose:
             element: text
             label: "Link to data source"
             scope: source_5
-      - name: "source_url_text_5"
+      #- name: "source_url_text_5"
         field:
             element: text
             label: "Link to data source text"
@@ -535,7 +535,7 @@ prose:
             label: "Other information"
             scope: source_5
       ## Source 6
-      - name: source_active_6
+      #- name: source_active_6
         field:
             element: checkbox
             label: Source 6 active
@@ -566,7 +566,7 @@ prose:
             element: text
             label: "Link to data source"
             scope: source_6
-      - name: "source_url_text_6"
+      #- name: "source_url_text_6"
         field:
             element: text
             label: "Link to data source text"
