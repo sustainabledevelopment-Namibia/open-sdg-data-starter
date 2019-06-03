@@ -87,7 +87,7 @@ prose:
             element: text
             label: "Local indicator definition"
             scope: national
-      - name: "computation_units"
+      - name: "unit_of_measurement"
         field:
             element: text
             label: "Unit of measurement"
