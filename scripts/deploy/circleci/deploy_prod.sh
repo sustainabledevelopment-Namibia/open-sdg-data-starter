@@ -6,11 +6,11 @@
 # This is the Github organisation or username of your fork. For example, if
 # your fork is located at https://github.com/xyz/open-sdg-site-starter, then
 # you should put "xyz" here. Changing this is required.
-GH_ORG_PROD="CHANGEME"
+GH_ORG_PROD="sustainabledevelopment-Namibia"
 # These variables only control the name/email on the automated Git commits.
 # Changing this is optional.
 GH_NAME="CircleCI"
-GH_EMAIL="no-reply@example.com"
+GH_EMAIL="vshikongo@nsa.org.na"
 ###################################
 
 # There is probably no need to modify anything below this point.
@@ -24,11 +24,11 @@ git clone git@gh-prod:$GH_ORG_PROD/$CIRCLE_PROJECT_REPONAME.git out
 
 cd out
 git checkout gh-pages || git checkout --orphan gh-pages
-git rm -rfq .
+git rm -rfq prod
 cd ..
 
 # The fully built site is already available at /tmp/build.
-cp -a /tmp/build/_site/. out/.
+cp -a /tmp/build/_site/ prod
 
 mkdir -p out/.circleci && cp -a .circleci/. out/.circleci/.
 cd out
