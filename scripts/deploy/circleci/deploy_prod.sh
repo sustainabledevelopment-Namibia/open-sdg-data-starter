@@ -24,14 +24,9 @@ git clone git@gh-prod:$GH_ORG_PROD/$CIRCLE_PROJECT_REPONAME.git out
 
 cd out
 git checkout gh-pages || git checkout --orphan gh-pages
+# Clear the "prod" subfolder and copy the built site into it.
 git rm -rfq prod
-cd ..
-
-# The fully built site is already available at /tmp/build.
-cp -a /tmp/build/_site/ prod
-
-mkdir -p out/.circleci && cp -a .circleci/. out/.circleci/.
-cd out
+cp -a /tmp/build/_site prod
 
 git add -A
 git commit -m "Automated deployment to GitHub Pages: ${CIRCLE_SHA1}" --allow-empty
