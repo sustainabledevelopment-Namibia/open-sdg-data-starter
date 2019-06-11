@@ -1,7 +1,116 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2006,,,,,
+2013,,,,,
+2016,,,,,
+2006,%,b) DPT Total,,,81
+2006,%,a) DPT Female,,,82.2
+2006,%,a) DPT Male,,,84.1
+2006,%,a) DPT Urban,,,86.1
+2006,%,a) DPT Rural,,,81.3
+2006,%,b) Polio Total ,,,76.5
+2006,%,a) Polio Female,,,78.6
+2006,%,a) Polio Male,,,78.6
+2006,%,a) Polio Urban,,,80.5
+2006,%,a) Polio Rural,,,77.4
+2006,%,b) Measles Total,,,78
+2006,%,a) Measles Female,,,84.8
+2006,%,a) Measles Male,,,82.8
+2006,%,a) Measles Urban,,,86.1
+2006,%,a) Measles Rural,,,82.2
+2006,%,b) DPT Total,Erongo,2,96.4
+2006,%,b) Polio Total ,Erongo,2,91
+2006,%,b) Measles Total,Erongo,2,84.4
+2006,%,b) DPT Total,Hardap,3,84.9
+2006,%,b) Polio Total ,Hardap,3,82.8
+2006,%,b) Measles Total,Hardap,3,88
+2006,%,b) DPT Total,Kavango East,4,72.1
+2006,%,b) Polio Total ,Kavango East,4,72.5
+2006,%,b) Measles Total,Kavango East,4,55
+2006,%,b) DPT Total,Kavango West,5,72.1
+2006,%,b) Polio Total ,Kavango West,5,72.5
+2006,%,b) Measles Total,Kavango West,5,55
+2006,%,b) DPT Total,Khomas,6,87.9
+2006,%,b) Polio Total ,Khomas,6,81.7
+2006,%,b) Measles Total,Khomas,6,86.6
+2006,%,b) DPT Total,Kunene,7,51.5
+2006,%,b) Polio Total ,Kunene,7,40.9
+2006,%,b) Measles Total,Kunene,7,60.9
+2006,%,b) DPT Total,Ohangwena,8,78.5
+2006,%,b) Polio Total ,Ohangwena,8,75.7
+2006,%,b) Measles Total,Ohangwena,8,91.8
+2006,%,b) DPT Total,Omaheke,9,80.6
+2006,%,b) Polio Total ,Omaheke,9,81.4
+2006,%,b) Measles Total,Omaheke,9,89.1
+2006,%,b) DPT Total,Omusati,10,90.6
+2006,%,b) Polio Total ,Omusati,10,88.5
+2006,%,b) Measles Total,Omusati,10,94.5
+2006,%,b) DPT Total,Oshana,11,83.6
+2006,%,b) Polio Total ,Oshana,11,75.4
+2006,%,b) Measles Total,Oshana,11,97.7
+2006,%,b) DPT Total,Oshikoto,12,89.1
+2006,%,b) Polio Total ,Oshikoto,12,83.3
+2006,%,b) Measles Total,Oshikoto,12,83.9
+2006,%,b) DPT Total,Otjozondjupa,13,84.7
+2006,%,b) Polio Total ,Otjozondjupa,13,81.6
+2006,%,b) Measles Total,Otjozondjupa,13,90
+2006,%,b) DPT Total,Zambezi ,14,89.5
+2006,%,b) Polio Total ,Zambezi ,14,77
+2006,%,b) Measles Total,Zambezi ,14,89.5
+2013,%,b) DPT Total,,,83.5
+2013,%,a) DPT Female,,,81.4
+2013,%,a) DPT Male,,,85.9
+2013,%,a) DPT Urban,,,78.3
+2013,%,a) DPT Rural,,,88.6
+2013,%,b) Polio Total ,,,73.2
+2013,%,a) Polio Female,,,74.2
+2013,%,a) Polio Male,,,74.5
+2013,%,a) Polio Urban,,,66.4
+2013,%,a) Polio Rural,,,82.1
+2013,%,b) Measles Total,,,82.9
+2013,%,a) Measles Female,,,87.8
+2013,%,a) Measles Male,,,91.4
+2013,%,a) Measles Urban,,,85.7
+2013,%,a) Measles Rural,,,93.2
+2013,%,b) DPT Total,!Karas,1,81.4
+2013,%,b) Polio Total ,!Karas,1,68.7
+2013,%,b) Measles Total,!Karas,1,91.8
+2013,%,b) DPT Total,Erongo,2,80.4
+2013,%,b) Polio Total ,Erongo,2,71.9
+2013,%,b) Measles Total,Erongo,2,93.3
+2013,%,b) DPT Total,Hardap,3,97.5
+2013,%,b) Polio Total ,Hardap,3,87.8
+2013,%,b) Measles Total,Hardap,3,97.5
+2013,%,b) DPT Total,Kavango East,4,80.6
+2013,%,b) Polio Total ,Kavango East,4,78
+2013,%,b) Measles Total,Kavango East,4,89
+2013,%,b) DPT Total,Kavango West,5,80.6
+2013,%,b) Polio Total ,Kavango West,5,78
+2013,%,b) Measles Total,Kavango West,5,89
+2013,%,b) DPT Total,Khomas,6,64.4
+2013,%,b) Polio Total ,Khomas,6,52.6
+2013,%,b) Measles Total,Khomas,6,75.1
+2013,%,b) DPT Total,Kunene,7,78.7
+2013,%,b) Polio Total ,Kunene,7,60.7
+2013,%,b) Measles Total,Kunene,7,88.2
+2013,%,b) DPT Total,Ohangwena,8,92.6
+2013,%,b) Polio Total ,Ohangwena,8,79.1
+2013,%,b) Measles Total,Ohangwena,8,95.7
+2013,%,b) DPT Total,Omaheke,9,87.9
+2013,%,b) Polio Total ,Omaheke,9,78.2
+2013,%,b) Measles Total,Omaheke,9,87.3
+2013,%,b) DPT Total,Omusati,10,93
+2013,%,b) Polio Total ,Omusati,10,91.8
+2013,%,b) Measles Total,Omusati,10,91.7
+2013,%,b) DPT Total,Oshana,11,80.9
+2013,%,b) Polio Total ,Oshana,11,66.5
+2013,%,b) Measles Total,Oshana,11,89.8
+2013,%,b) DPT Total,Oshikoto,12,90.8
+2013,%,b) Polio Total ,Oshikoto,12,83.8
+2013,%,b) Measles Total,Oshikoto,12,98.7
+2013,%,b) DPT Total,Otjozondjupa,13,93.5
+2013,%,b) Polio Total ,Otjozondjupa,13,83.5
+2013,%,b) Measles Total,Otjozondjupa,13,90.9
+2013,%,b) DPT Total,Zambezi ,14,88.8
+2013,%,b) Polio Total ,Zambezi ,14,81.7
+2013,%,b) Measles Total,Zambezi ,14,91.7
+2016,%,b) DPT Total,,,92
