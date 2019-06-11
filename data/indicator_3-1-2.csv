@@ -1,7 +1,33 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2006,%,,,,81.4
+2013,%,,,,88.2
+2006,%,Urban,,,93.9
+2006,%,Rural,,,72.5
+2006,%,Total ,!Karas,1,93.7
+2006,%,Total ,Erongo,2,92.6
+2006,%,Total ,Hardap,3,90.5
+2006,%,Total ,Kavango East,4,63.5
+2006,%,Total ,Kavango West,5,63.5
+2006,%,Total ,Khomas,6,95.3
+2006,%,Total ,Kunene,7,54.4
+2006,%,Total ,Ohangwena,8,71.3
+2006,%,Total ,Omaheke,9,76.2
+2006,%,Total ,Omusati,10,87.6
+2006,%,Total ,Oshana,11,88.8
+2006,%,Total ,Oshikoto,12,78.5
+2006,%,Total ,Otjozondjupa,13,80.4
+2013,%,Urban,,,94.9
+2013,%,Rural,,,81.7
+2013,%,Total ,!Karas,1,93.3
+2013,%,Total ,Erongo,2,97.9
+2013,%,Total ,Hardap,3,95.3
+2013,%,Total ,Kavango East,4,75
+2013,%,Total ,Kavango West,5,75
+2013,%,Total ,Khomas,6,96.2
+2013,%,Total ,Kunene,7,74
+2013,%,Total ,Ohangwena,8,85.9
+2013,%,Total ,Omaheke,9,76.2
+2013,%,Total ,Omusati,10,87
+2013,%,Total ,Oshana,11,94.8
+2013,%,Total ,Oshikoto,12,89.7
+2013,%,Total ,Otjozondjupa,13,86.1
