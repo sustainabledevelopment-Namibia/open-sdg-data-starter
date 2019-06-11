@@ -1,7 +1,8 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2015,,,,,
+2015,per 100 000,Doctors ,,,40.2
+2015,per 100 000,Registered Nurses ,,,304.8
+2015,per 100 000,Pharmacists,,,24.4
+2021,per 100 000,NDP Target Doctors,,,61.53846154
+2021,per 100 000,NDP Target Nurses,,,350.877193
+2021,per 100 000,NDP Target Pharmacists,,,38.95597974
