@@ -1,4 +1,18 @@
-Year,Region,GeoCode,Value
-2004,Erongo,2,11.0
-2010,Erongo,2,7.2
-2016,Erongo,2,6.1
+Year,Units,Disaggregation,Region,GeoCode,Value
+2004,%,,,,11.0
+2010,%,,,,7.2
+2016,%,,,,6.1
+2016,%,Total (Ind. Level),Karas,1.0,3.6
+2016,%,Total (Ind. Level),Erongo,2.0,0.4
+2016,%,Total (Ind. Level),Hardap,3.0,2.2
+2016,%,Total (Ind. Level),Kavango East,4.0,22.9
+2016,%,Total (Ind. Level),Kavango West,5.0,11.8
+2016,%,Total (Ind. Level),Khomas,6.0,1.2
+2016,%,Total (Ind. Level),Kunene,7.0,14.9
+2016,%,Total (Ind. Level),Ohangwena,8.0,3.1
+2016,%,Total (Ind. Level),Omaheke,9.0,19.9
+2016,%,Total (Ind. Level),Omusati,10.0,4.6
+2016,%,Total (Ind. Level),Oshana,11.0,0.9
+2016,%,Total (Ind. Level),Oshikoto,12.0,3.6
+2016,%,Total (Ind. Level),Otjozondjupa,13.0,8.8
+2016,%,Total (Ind. Level),Zambezi,14.0,15.0
