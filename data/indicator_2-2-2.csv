@@ -20,7 +20,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2000,%,Total (Wasting),Oshana,11,13.5
 2000,%,Total (Wasting),Oshikoto,12,9.4
 2000,%,Total (Wasting),Otjozondjupa,13,6.9
-2000,%,Total (Wasting),Zambezi ,14,7.4
+2000,%,Total (Wasting),Zambezi,14,7.4
 2006,%,Total F (Wasting),,,7.6
 2006,%,Total M (Wasting),,,7.3
 2006,%,Urban (Wasting),,,5.6
@@ -43,7 +43,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2006,%,Total (Wasting),Oshana,11,9.6
 2006,%,Total (Wasting),Oshikoto,12,11.2
 2006,%,Total (Wasting),Otjozondjupa,13,8.6
-2006,%,Total (Wasting),Zambezi ,14,5.3
+2006,%,Total (Wasting),Zambezi,14,5.3
 2013,%,Total M (Wasting),,,8.6
 2013,%,Urban (Wasting),,,5
 2013,%,Rural (Wasting),,,6.9
@@ -65,4 +65,4 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2013,%,Total (Wasting),Oshana,11,4.5
 2013,%,Total (Wasting),Oshikoto,12,8.5
 2013,%,Total (Wasting),Otjozondjupa,13,4.3
-2013,%,Total (Wasting),Zambezi ,14,5.7
+2013,%,Total (Wasting),Zambezi,14,5.7
