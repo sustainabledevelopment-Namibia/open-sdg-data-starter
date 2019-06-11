@@ -35,8 +35,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2004,%,"Total Pop  (severely poor) ",Oshikoto,12,24.2
 2004,%,Total Pop  (poor),Otjozondjupa,13,39
 2004,%,"Total Pop  (severely poor) ",Otjozondjupa,13,26.5
-2004,%,Total Pop  (poor),"Zambezi ",14,36.5
-2004,%,"Total Pop  (severely poor) ","Zambezi ",14,20.3
+2004,%,Total Pop  (poor),Zambezi,14,36.5
+2004,%,"Total Pop  (severely poor) ",Zambezi,14,20.3
 2010,%,"Total Pop  (severely poor) ",,,15.3
 2010,%,F Pop (head of HH/ poor),,,32.2
 2010,%,M Pop (head of HH/ poor),,,26.2
