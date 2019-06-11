@@ -1,44 +1,44 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2000,per 1000 ,Total ,,,20
-2013,per 1000 ,Total ,,,20
-2000,per 1000 ,Female,,,16.3
-2000,per 1000 ,Male,,,28.5
-2000,per 1000 ,Urban ,,,12.7
-2000,per 1000 ,Rural ,,,27.7
-2006,per 1000 ,Total ,,,24
-2006,per 1000 ,Female,,,19
-2006,per 1000 ,Male,,,32
-2006,per 1000 ,Urban ,,,24
-2006,per 1000 ,Rural ,,,27
-2006,per 1000 ,Total ,!Karas,1,20
-2006,per 1000 ,Total ,Erongo,2,18
-2006,per 1000 ,Total ,Hardap,3,25
-2006,per 1000 ,Total ,Kavango East,4,21
-2006,per 1000 ,Total ,Kavango West,5,21
-2006,per 1000 ,Total ,Khomas,6,28
-2006,per 1000 ,Total ,Kunene,7,10
-2006,per 1000 ,Total ,Ohangwena,8,37
-2006,per 1000 ,Total ,Omaheke,9,21
-2006,per 1000 ,Total ,Omusati,10,31
-2006,per 1000 ,Total ,Oshana,11,29
-2006,per 1000 ,Total ,Oshikoto,12,17
-2006,per 1000 ,Total ,Otjozondjupa,13,19
-2006,per 1000 ,Total ,Zambezi ,14,39
-2013,per 1000 ,Female,,,14
-2013,per 1000 ,Male,,,23
-2013,per 1000 ,Urban ,,,16
-2013,per 1000 ,Rural ,,,22
-2013,per 1000 ,Total ,!Karas,1,17
-2013,per 1000 ,Total ,Erongo,2,19
-2013,per 1000 ,Total ,Hardap,3,11
-2013,per 1000 ,Total ,Kavango East,4,27
-2013,per 1000 ,Total ,Kavango West,5,27
-2013,per 1000 ,Total ,Khomas,6,12
-2013,per 1000 ,Total ,Kunene,7,25
-2013,per 1000 ,Total ,Ohangwena,8,22
-2013,per 1000 ,Total ,Omaheke,9,30
-2013,per 1000 ,Total ,Omusati,10,11
-2013,per 1000 ,Total ,Oshana,11,13
-2013,per 1000 ,Total ,Oshikoto,12,27
-2013,per 1000 ,Total ,Otjozondjupa,13,15
-2013,per 1000 ,Total ,Zambezi ,14,23
+2000,per 1000,Total,,,20
+2013,per 1000,Total,,,20
+2000,per 1000,Female,,,16.3
+2000,per 1000,Male,,,28.5
+2000,per 1000,Urban,,,12.7
+2000,per 1000,Rural,,,27.7
+2006,per 1000,Total,,,24
+2006,per 1000,Female,,,19
+2006,per 1000,Male,,,32
+2006,per 1000,Urban,,,24
+2006,per 1000,Rural,,,27
+2006,per 1000,Total,!Karas,1,20
+2006,per 1000,Total,Erongo,2,18
+2006,per 1000,Total,Hardap,3,25
+2006,per 1000,Total,Kavango East,4,21
+2006,per 1000,Total,Kavango West,5,21
+2006,per 1000,Total,Khomas,6,28
+2006,per 1000,Total,Kunene,7,10
+2006,per 1000,Total,Ohangwena,8,37
+2006,per 1000,Total,Omaheke,9,21
+2006,per 1000,Total,Omusati,10,31
+2006,per 1000,Total,Oshana,11,29
+2006,per 1000,Total,Oshikoto,12,17
+2006,per 1000,Total,Otjozondjupa,13,19
+2006,per 1000,Total,Zambezi,14,39
+2013,per 1000,Female,,,14
+2013,per 1000,Male,,,23
+2013,per 1000,Urban,,,16
+2013,per 1000,Rural,,,22
+2013,per 1000,Total,!Karas,1,17
+2013,per 1000,Total,Erongo,2,19
+2013,per 1000,Total,Hardap,3,11
+2013,per 1000,Total,Kavango East,4,27
+2013,per 1000,Total,Kavango West,5,27
+2013,per 1000,Total,Khomas,6,12
+2013,per 1000,Total,Kunene,7,25
+2013,per 1000,Total,Ohangwena,8,22
+2013,per 1000,Total,Omaheke,9,30
+2013,per 1000,Total,Omusati,10,11
+2013,per 1000,Total,Oshana,11,13
+2013,per 1000,Total,Oshikoto,12,27
+2013,per 1000,Total,Otjozondjupa,13,15
+2013,per 1000,Total,Zambezi,14,23
