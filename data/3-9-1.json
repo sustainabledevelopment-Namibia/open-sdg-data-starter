@@ -1,1 +1,1 @@
-{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]}
+{"Year":[2016,2016,2016],"Units":[null,"per 100000","per 100000"],"Disaggregation":[null,"Death Rate","Age Standardized Mortality Rate"],"Region":[null,null,null],"GeoCode":[null,null,null],"Value":[null,74.8,145.0]}
