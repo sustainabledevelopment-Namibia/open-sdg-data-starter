@@ -1,7 +1,16 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2013,%,,,,11.8
+2013,%,Hepatitis B Prevalance,!Karas,1,9.3
+2013,%,Hepatitis B Prevalance,Erongo,2,8.3
+2013,%,Hepatitis B Prevalance,Hardap,3,9.1
+2013,%,Hepatitis B Prevalance,Kavango East,4,16.3
+2013,%,Hepatitis B Prevalance,Kavango West,5,16.3
+2013,%,Hepatitis B Prevalance,Khomas,6,9
+2013,%,Hepatitis B Prevalance,Kunene,7,12.1
+2013,%,Hepatitis B Prevalance,Ohangwena,8,11.2
+2013,%,Hepatitis B Prevalance,Omaheke,9,9.1
+2013,%,Hepatitis B Prevalance,Omusati,10,16.1
+2013,%,Hepatitis B Prevalance,Oshana,11,13
+2013,%,Hepatitis B Prevalance,Oshikoto,12,13.4
+2013,%,Hepatitis B Prevalance,Otjozondjupa,13,10.9
+2013,%,Hepatitis B Prevalance,Zambezi ,14,11.4
