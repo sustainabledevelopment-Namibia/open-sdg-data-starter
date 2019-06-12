@@ -1,7 +1,14 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2007,,,,,
+2011,,,,,
+2017,,,,,
+2007,%,Formally Banked,,,45.0
+2007,%,Financially Excluded,,,51.0
+2011,%,Formally Banked,,,62.0
+2011,%,Financially Excluded,,,31.0
+2017,%,Formally Banked,,,67.9
+2017,%,Financially Excluded,,,22.0
+2017,%,Financially Exlcluded (F),,,20.2
+2017,%,Financially Exlcluded (M),,,23.9
+2017,%,Financially Exlcluded (U),,,17.5
+2017,%,Financially Exlcluded (R),,,27.1
