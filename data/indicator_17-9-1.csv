@@ -1,7 +1,14 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2004,Mio Constant USD 2016,,,,33.3656
+2005,Mio Constant USD 2016,,,,29.327
+2006,Mio Constant USD 2016,,,,26.72485
+2007,Mio Constant USD 2016,,,,23.55606
+2008,Mio Constant USD 2016,,,,21.20586
+2009,Mio Constant USD 2016,,,,17.6994
+2010,Mio Constant USD 2016,,,,21.53013
+2011,Mio Constant USD 2016,,,,29.13807
+2012,Mio Constant USD 2016,,,,44.02444
+2013,Mio Constant USD 2016,,,,43.33488
+2014,Mio Constant USD 2016,,,,46.90032
+2015,Mio Constant USD 2016,,,,26.43787
+2016,Mio Constant USD 2016,,,,17.07539
