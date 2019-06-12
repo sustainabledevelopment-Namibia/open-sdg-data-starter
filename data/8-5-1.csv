@@ -1,7 +1,17 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2013,N$,Total,,,6802.0
+2013,N$,Total F,,,6125.0
+2013,N$,Total M,,,7315.0
+2013,N$,Parity Index,,,1.19428571428571
+2014,N$,Total,,,6626.0
+2014,N$,Total F,,,6164.0
+2014,N$,Total M,,,6965.0
+2014,N$,Parity Index,,,1.12994808565866
+2016,N$,Total,,,6759.0
+2016,N$,Total F,,,6642.0
+2016,N$,Total M,,,6850.0
+2016,N$,Parity Index,,,1.03131586871424
+2018,N$,Total,,,7935.0
+2018,N$,Total F,,,7789.0
+2018,N$,Total M,,,8052.0
+2018,N$,Parity Index,,,1.03376556682501

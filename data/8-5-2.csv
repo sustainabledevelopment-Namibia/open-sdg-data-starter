@@ -1,7 +1,190 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2012,%,,,,27.4
+2013,%,,,,29.6
+2014,%,,,,28.1
+2016,%,Total,,,34.0
+2012,%,Total F,,,31.8
+2012,%,Total M,,,22.9
+2012,%,Urban,,,28.3
+2012,%,Rural,,,26.2
+2012,%,Total,!Karas,1.0,23.9
+2012,%,Total F,!Karas,1.0,30.7
+2012,%,Total M,!Karas,1.0,17.6
+2012,%,Total,Erongo,2.0,25.5
+2012,%,Total F,Erongo,2.0,34.5
+2012,%,Total M,Erongo,2.0,18.9
+2012,%,Total,Hardap,3.0,28.8
+2012,%,Total F,Hardap,3.0,39.0
+2012,%,Total M,Hardap,3.0,21.5
+2012,%,Total,Kavango East,4.0,29.8
+2012,%,Total F,Kavango East,4.0,31.7
+2012,%,Total M,Kavango East,4.0,27.3
+2012,%,Total,Kavango West,5.0,29.8
+2012,%,Total F,Kavango West,5.0,31.7
+2012,%,Total M,Kavango West,5.0,27.3
+2012,%,Total,Khomas,6.0,26.5
+2012,%,Total F,Khomas,6.0,31.0
+2012,%,Total M,Khomas,6.0,22.7
+2012,%,Total,Kunene,7.0,27.0
+2012,%,Total F,Kunene,7.0,35.4
+2012,%,Total M,Kunene,7.0,20.0
+2012,%,Total,Ohangwena,8.0,34.6
+2012,%,Total F,Ohangwena,8.0,34.9
+2012,%,Total M,Ohangwena,8.0,34.2
+2012,%,Total,Omaheke,9.0,34.1
+2012,%,Total F,Omaheke,9.0,47.1
+2012,%,Total M,Omaheke,9.0,23.6
+2012,%,Total,Omusati,10.0,28.9
+2012,%,Total F,Omusati,10.0,29.1
+2012,%,Total M,Omusati,10.0,28.7
+2012,%,Total,Oshana,11.0,24.5
+2012,%,Total F,Oshana,11.0,23.5
+2012,%,Total M,Oshana,11.0,26.1
+2012,%,Total,Oshikoto,12.0,26.4
+2012,%,Total F,Oshikoto,12.0,28.1
+2012,%,Total M,Oshikoto,12.0,24.1
+2012,%,Total,Otjozondjupa,13.0,25.3
+2012,%,Total F,Otjozondjupa,13.0,37.9
+2012,%,Total M,Otjozondjupa,13.0,15.4
+2012,%,Total,Zambezi,14.0,28.0
+2012,%,Total F,Zambezi,14.0,33.5
+2012,%,Total M,Zambezi,14.0,21.3
+2013,%,Total F,,,33.1
+2013,%,Total M,,,25.8
+2013,%,Urban,,,29.1
+2013,%,Rural,,,30.2
+2013,%,Total,!Karas,1.0,21.6
+2013,%,Total F,!Karas,1.0,30.0
+2013,%,Total M,!Karas,1.0,21.6
+2013,%,Total,Erongo,2.0,23.7
+2013,%,Total F,Erongo,2.0,32.4
+2013,%,Total M,Erongo,2.0,16.3
+2013,%,Total,Hardap,3.0,32.2
+2013,%,Total F,Hardap,3.0,41.2
+2013,%,Total M,Hardap,3.0,32.2
+2013,%,Total,Kavango East,4.0,35.6
+2013,%,Total F,Kavango East,4.0,35.3
+2013,%,Total M,Kavango East,4.0,35.6
+2013,%,Total,Kavango West,5.0,35.6
+2013,%,Total F,Kavango West,5.0,35.3
+2013,%,Total M,Kavango West,5.0,35.6
+2013,%,Total,Khomas,6.0,27.7
+2013,%,Total F,Khomas,6.0,32.2
+2013,%,Total M,Khomas,6.0,23.4
+2013,%,Total,Kunene,7.0,39.8
+2013,%,Total F,Kunene,7.0,51.8
+2013,%,Total M,Kunene,7.0,27.4
+2013,%,Total,Ohangwena,8.0,32.7
+2013,%,Total F,Ohangwena,8.0,28.6
+2013,%,Total M,Ohangwena,8.0,40.1
+2013,%,Total,Omaheke,9.0,26.1
+2013,%,Total F,Omaheke,9.0,35.2
+2013,%,Total M,Omaheke,9.0,18.4
+2013,%,Total,Omusati,10.0,28.8
+2013,%,Total F,Omusati,10.0,24.3
+2013,%,Total M,Omusati,10.0,37.1
+2013,%,Total,Oshana,11.0,33.6
+2013,%,Total F,Oshana,11.0,33.9
+2013,%,Total M,Oshana,11.0,33.1
+2013,%,Total,Oshikoto,12.0,31.5
+2013,%,Total F,Oshikoto,12.0,34.6
+2013,%,Total M,Oshikoto,12.0,27.9
+2013,%,Total,Otjozondjupa,13.0,25.3
+2013,%,Total F,Otjozondjupa,13.0,36.7
+2013,%,Total M,Otjozondjupa,13.0,16.5
+2013,%,Total,Zambezi,14.0,29.5
+2013,%,Total F,Zambezi,14.0,35.8
+2013,%,Total M,Zambezi,14.0,35.8
+2014,%,Total F,,,31.7
+2014,%,Total M,,,24.3
+2014,%,Urban,,,26.2
+2014,%,Rural,,,30.2
+2014,%,Total,!Karas,1.0,25.0
+2014,%,Total F,!Karas,1.0,31.7
+2014,%,Total M,!Karas,1.0,19.6
+2014,%,Total,Erongo,2.0,23.9
+2014,%,Total F,Erongo,2.0,31.9
+2014,%,Total M,Erongo,2.0,18.0
+2014,%,Total,Hardap,3.0,29.7
+2014,%,Total F,Hardap,3.0,39.3
+2014,%,Total M,Hardap,3.0,21.7
+2014,%,Total,Kavango East,4.0,36.3
+2014,%,Total F,Kavango East,4.0,39.2
+2014,%,Total M,Kavango East,4.0,32.4
+2014,%,Total,Kavango West,5.0,26.4
+2014,%,Total F,Kavango West,5.0,28.5
+2014,%,Total M,Kavango West,5.0,23.9
+2014,%,Total,Khomas,6.0,22.3
+2014,%,Total F,Khomas,6.0,26.0
+2014,%,Total M,Khomas,6.0,19.0
+2014,%,Total,Kunene,7.0,32.6
+2014,%,Total F,Kunene,7.0,39.6
+2014,%,Total M,Kunene,7.0,26.5
+2014,%,Total,Ohangwena,8.0,38.2
+2014,%,Total F,Ohangwena,8.0,32.7
+2014,%,Total M,Ohangwena,8.0,46.2
+2014,%,Total,Omaheke,9.0,26.9
+2014,%,Total F,Omaheke,9.0,42.3
+2014,%,Total M,Omaheke,9.0,15.2
+2014,%,Total,Omusati,10.0,22.9
+2014,%,Total F,Omusati,10.0,20.5
+2014,%,Total M,Omusati,10.0,26.8
+2014,%,Total,Oshana,11.0,32.6
+2014,%,Total F,Oshana,11.0,32.8
+2014,%,Total M,Oshana,11.0,32.3
+2014,%,Total,Oshikoto,12.0,27.6
+2014,%,Total F,Oshikoto,12.0,30.9
+2014,%,Total M,Oshikoto,12.0,23.8
+2014,%,Total,Otjozondjupa,13.0,33.2
+2014,%,Total F,Otjozondjupa,13.0,46.2
+2014,%,Total M,Otjozondjupa,13.0,22.8
+2014,%,Total,Zambezi,14.0,31.9
+2014,%,Total F,Zambezi,14.0,37.3
+2014,%,Total M,Zambezi,14.0,26.3
+2016,%,Total F,,,38.3
+2016,%,Total M,,,29.8
+2016,%,Urban,,,30.3
+2016,%,Rural,,,39.2
+2016,%,Total,!Karas,1.0,23.0
+2016,%,Total F,!Karas,1.0,30.5
+2016,%,Total M,!Karas,1.0,16.7
+2016,%,Total,Erongo,2.0,29.2
+2016,%,Total F,Erongo,2.0,29.2
+2016,%,Total M,Erongo,2.0,16.2
+2016,%,Total,Hardap,3.0,37.7
+2016,%,Total F,Hardap,3.0,47.9
+2016,%,Total M,Hardap,3.0,29.6
+2016,%,Total,Kavango East,4.0,39.6
+2016,%,Total F,Kavango East,4.0,42.8
+2016,%,Total M,Kavango East,4.0,35.2
+2016,%,Total,Kavango West,5.0,36.4
+2016,%,Total F,Kavango West,5.0,40.2
+2016,%,Total M,Kavango West,5.0,31.5
+2016,%,Total,Khomas,6.0,28.4
+2016,%,Total F,Khomas,6.0,30.3
+2016,%,Total M,Khomas,6.0,26.7
+2016,%,Total,Kunene,7.0,52.2
+2016,%,Total F,Kunene,7.0,62.8
+2016,%,Total M,Kunene,7.0,42.9
+2016,%,Total,Ohangwena,8.0,45.4
+2016,%,Total F,Ohangwena,8.0,46.6
+2016,%,Total M,Ohangwena,8.0,43.9
+2016,%,Total,Omaheke,9.0,26.9
+2016,%,Total F,Omaheke,9.0,39.3
+2016,%,Total M,Omaheke,9.0,17.7
+2016,%,Total,Omusati,10.0,40.2
+2016,%,Total F,Omusati,10.0,37.6
+2016,%,Total M,Omusati,10.0,43.8
+2016,%,Total,Oshana,11.0,29.5
+2016,%,Total F,Oshana,11.0,28.7
+2016,%,Total M,Oshana,11.0,30.4
+2016,%,Total,Oshikoto,12.0,39.8
+2016,%,Total F,Oshikoto,12.0,44.0
+2016,%,Total M,Oshikoto,12.0,35.4
+2016,%,Total,Otjozondjupa,13.0,35.9
+2016,%,Total F,Otjozondjupa,13.0,45.0
+2016,%,Total M,Otjozondjupa,13.0,28.5
+2016,%,Total,Zambezi,14.0,48.0
+2016,%,Total F,Zambezi,14.0,58.3
+2016,%,Total M,Zambezi,14.0,48.0
+2021,%,NDP5 Target,,,24.2
