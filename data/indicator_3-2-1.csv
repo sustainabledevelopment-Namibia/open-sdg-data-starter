@@ -1,7 +1,44 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2000,per 1000,,,,62
+2006,per 1000,,,,69
+2013,per 1000,,,,
+2000,per 1000,<5y Mortality (F),,,54
+2000,per 1000,<5y Mortality (M),,,66.5
+2000,per 1000,<5y Mortality (U),,,49.5
+2000,per 1000,<5y Mortality (R),,,66.1
+2006,per 1000,<5y Mortality (F),,,58
+2006,per 1000,<5y Mortality (M),,,79
+2006,per 1000,<5y Mortality (U),,,60
+2006,per 1000,<5y Mortality (R),,,76
+2006,per 1000,<5y Mortality (T),!Karas,1,59
+2006,per 1000,<5y Mortality (T),Erongo,2,65
+2006,per 1000,<5y Mortality (T),Hardap,3,73
+2006,per 1000,<5y Mortality (T),Kavango East,4,67
+2006,per 1000,<5y Mortality (T),Kavango West,5,67
+2006,per 1000,<5y Mortality (T),Khomas,6,52
+2006,per 1000,<5y Mortality (T),Kunene,7,49
+2006,per 1000,<5y Mortality (T),Ohangwena,8,95
+2006,per 1000,<5y Mortality (T),Omaheke,9,63
+2006,per 1000,<5y Mortality (T),Omusati,10,76
+2006,per 1000,<5y Mortality (T),Oshana,11,74
+2006,per 1000,<5y Mortality (T),Oshikoto,12,64
+2006,per 1000,<5y Mortality (T),Otjozondjupa,13,67
+2006,per 1000,<5y Mortality (T),Zambezi,14,93
+2013,per 1000,<5y Mortality (F),,,54
+2013,per 1000,<5y Mortality (M),,,64
+2013,per 1000,<5y Mortality (U),,,54
+2013,per 1000,<5y Mortality (R),,,64
+2013,per 1000,<5y Mortality (T),!Karas,1,44
+2013,per 1000,<5y Mortality (T),Erongo,2,53
+2013,per 1000,<5y Mortality (T),Hardap,3,38
+2013,per 1000,<5y Mortality (T),Kavango East,4,97
+2013,per 1000,<5y Mortality (T),Kavango West,5,97
+2013,per 1000,<5y Mortality (T),Khomas,6,41
+2013,per 1000,<5y Mortality (T),Kunene,7,45
+2013,per 1000,<5y Mortality (T),Ohangwena,8,79
+2013,per 1000,<5y Mortality (T),Omaheke,9,46
+2013,per 1000,<5y Mortality (T),Omusati,10,45
+2013,per 1000,<5y Mortality (T),Oshana,11,46
+2013,per 1000,<5y Mortality (T),Oshikoto,12,68
+2013,per 1000,<5y Mortality (T),Otjozondjupa,13,51
+2013,per 1000,<5y Mortality (T),Zambezi,14,73
