@@ -13,69 +13,69 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2012,%,Male,,,94.06881486
 2012,%,Primary,,,91.49381666
 2012,%,Secondary,,,97.11052251
-2012,%,Total ,!Karas,1,88.2566586
-2012,%,Total ,Erongo,2,94.609375
-2012,%,Total ,Hardap,3,92.07100592
-2012,%,Total ,Khomas,6,95.64197117
-2012,%,Total ,Kunene,7,90.33412888
-2012,%,Total ,Ohangwena,8,94.18298743
-2012,%,Total ,Omaheke,9,86.11898017
-2012,%,Total ,Omusati,10,95.01651982
-2012,%,Total ,Oshana,11,95.92887225
-2012,%,Total ,Oshikoto,12,93.02035729
-2012,%,Total ,Otjozondjupa,13,90.11406844
-2012,%,Total ,Zambezi ,14,96.41319943
+2012,%,Total,!Karas,1,88.2566586
+2012,%,Total,Erongo,2,94.609375
+2012,%,Total,Hardap,3,92.07100592
+2012,%,Total,Khomas,6,95.64197117
+2012,%,Total,Kunene,7,90.33412888
+2012,%,Total,Ohangwena,8,94.18298743
+2012,%,Total,Omaheke,9,86.11898017
+2012,%,Total,Omusati,10,95.01651982
+2012,%,Total,Oshana,11,95.92887225
+2012,%,Total,Oshikoto,12,93.02035729
+2012,%,Total,Otjozondjupa,13,90.11406844
+2012,%,Total,Zambezi,14,96.41319943
 2015,%,Female,,,86.5
 2015,%,Male,,,89.6
 2015,%,Primary,,,85.8
 2015,%,Secondary,,,94
-2015,%,Total ,!Karas,1,80.304679
-2015,%,Total ,Erongo,2,92.37576583
-2015,%,Total ,Hardap,3,84.17721519
-2015,%,Total ,Kavango East,4,83.52331606
-2015,%,Total ,Kavango West,5,76.6407904
-2015,%,Total ,Khomas,6,93.71617559
-2015,%,Total ,Kunene,7,77.61061947
-2015,%,Total ,Ohangwena,8,84.91981376
-2015,%,Total ,Omaheke,9,79.24297924
-2015,%,Total ,Omusati,10,91.16607774
-2015,%,Total ,Oshana,11,94.3839791
-2015,%,Total ,Oshikoto,12,85.0675429
-2015,%,Total ,Otjozondjupa,13,87.34824281
-2015,%,Total ,Zambezi ,14,95.00935745
+2015,%,Total,!Karas,1,80.304679
+2015,%,Total,Erongo,2,92.37576583
+2015,%,Total,Hardap,3,84.17721519
+2015,%,Total,Kavango East,4,83.52331606
+2015,%,Total,Kavango West,5,76.6407904
+2015,%,Total,Khomas,6,93.71617559
+2015,%,Total,Kunene,7,77.61061947
+2015,%,Total,Ohangwena,8,84.91981376
+2015,%,Total,Omaheke,9,79.24297924
+2015,%,Total,Omusati,10,91.16607774
+2015,%,Total,Oshana,11,94.3839791
+2015,%,Total,Oshikoto,12,85.0675429
+2015,%,Total,Otjozondjupa,13,87.34824281
+2015,%,Total,Zambezi,14,95.00935745
 2016,%,Female,,,85.5
 2016,%,Male,,,89.5
 2016,%,Primary,,,85.13405133
 2016,%,Secondary,,,93.42257826
-2016,%,Total ,!Karas,1,78.64693446
-2016,%,Total ,Erongo,2,91.7843389
-2016,%,Total ,Hardap,3,81.97556008
-2016,%,Total ,Kavango East,4,82.35294118
-2016,%,Total ,Kavango West,5,73.07162534
-2016,%,Total ,Khomas,6,93.70424597
-2016,%,Total ,Kunene,7,77.92207792
-2016,%,Total ,Ohangwena,8,83.7777224
-2016,%,Total ,Omaheke,9,78.7456446
-2016,%,Total ,Omusati,10,91.24051872
-2016,%,Total ,Oshana,11,95.46263345
-2016,%,Total ,Oshikoto,12,82.95104416
-2016,%,Total ,Otjozondjupa,13,88.10810811
-2016,%,Total ,Zambezi ,14,94.71766849
+2016,%,Total,!Karas,1,78.64693446
+2016,%,Total,Erongo,2,91.7843389
+2016,%,Total,Hardap,3,81.97556008
+2016,%,Total,Kavango East,4,82.35294118
+2016,%,Total,Kavango West,5,73.07162534
+2016,%,Total,Khomas,6,93.70424597
+2016,%,Total,Kunene,7,77.92207792
+2016,%,Total,Ohangwena,8,83.7777224
+2016,%,Total,Omaheke,9,78.7456446
+2016,%,Total,Omusati,10,91.24051872
+2016,%,Total,Oshana,11,95.46263345
+2016,%,Total,Oshikoto,12,82.95104416
+2016,%,Total,Otjozondjupa,13,88.10810811
+2016,%,Total,Zambezi,14,94.71766849
 2017,%,Female,,,86
 2017,%,Male,,,89.6
 2017,%,Primary,,,85.5
 2017,%,Secondary,,,93.9
-2017,%,Total ,!Karas,1,79.85462098
-2017,%,Total ,Erongo,2,89.99397227
-2017,%,Total ,Hardap,3,80.8531746
-2017,%,Total ,Kavango East,4,83.12256809
-2017,%,Total ,Kavango West,5,74.5301361
-2017,%,Total ,Khomas,6,93.78437844
-2017,%,Total ,Kunene,7,80.6779661
-2017,%,Total ,Ohangwena,8,83.78640777
-2017,%,Total ,Omaheke,9,78.82219706
-2017,%,Total ,Omusati,10,92.44698594
-2017,%,Total ,Oshana,11,95.26730938
-2017,%,Total ,Oshikoto,12,84.00802944
-2017,%,Total ,Otjozondjupa,13,87.04784131
-2017,%,Total ,Zambezi ,14,95.10774607
+2017,%,Total,!Karas,1,79.85462098
+2017,%,Total,Erongo,2,89.99397227
+2017,%,Total,Hardap,3,80.8531746
+2017,%,Total,Kavango East,4,83.12256809
+2017,%,Total,Kavango West,5,74.5301361
+2017,%,Total,Khomas,6,93.78437844
+2017,%,Total,Kunene,7,80.6779661
+2017,%,Total,Ohangwena,8,83.78640777
+2017,%,Total,Omaheke,9,78.82219706
+2017,%,Total,Omusati,10,92.44698594
+2017,%,Total,Oshana,11,95.26730938
+2017,%,Total,Oshikoto,12,84.00802944
+2017,%,Total,Otjozondjupa,13,87.04784131
+2017,%,Total,Zambezi,14,95.10774607
