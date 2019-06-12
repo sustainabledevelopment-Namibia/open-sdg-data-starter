@@ -1,7 +1,172 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2004,%,Tree Covered Area,,,9.23
+2004,%,Tree Covered Area,!Karas,1.0,0.541086724762099
+2004,%,Tree Covered Area,Erongo,2.0,0.22001975966659099
+2004,%,Tree Covered Area,Hardap,3.0,0.668055878376667
+2004,%,Tree Covered Area,Kavango East,4.0,21.516232801651803
+2004,%,Tree Covered Area,Kavango West,5.0,21.516232801651803
+2004,%,Tree Covered Area,Khomas,6.0,10.784004093844302
+2004,%,Tree Covered Area,Kunene,7.0,15.557717920018401
+2004,%,Tree Covered Area,Ohangwena,8.0,30.5422705736056
+2004,%,Tree Covered Area,Omaheke,9.0,2.1856005551481203
+2004,%,Tree Covered Area,Omusati,10.0,33.192971087185995
+2004,%,Tree Covered Area,Oshana,11.0,21.408055099520602
+2004,%,Tree Covered Area,Oshikoto,12.0,22.2737614145009
+2004,%,Tree Covered Area,Otjozondjupa,13.0,12.001043729631501
+2005,%,Forest Covered Area,,,9.31
+2005,%,Tree Covered Area,,,9.25
+2005,%,Tree Covered Area,!Karas,1.0,0.541086724762098
+2005,%,Tree Covered Area,Erongo,2.0,0.220473107710184
+2005,%,Tree Covered Area,Hardap,3.0,0.668055878376667
+2005,%,Tree Covered Area,Kavango East,4.0,21.637224877864497
+2005,%,Tree Covered Area,Kavango West,5.0,21.637224877864497
+2005,%,Tree Covered Area,Khomas,6.0,10.784004093844302
+2005,%,Tree Covered Area,Kunene,7.0,15.5658646889669
+2005,%,Tree Covered Area,Ohangwena,8.0,30.677424127750502
+2005,%,Tree Covered Area,Omaheke,9.0,2.1856005551481203
+2005,%,Tree Covered Area,Omusati,10.0,33.192971087185995
+2005,%,Tree Covered Area,Oshana,11.0,21.408055099520602
+2005,%,Tree Covered Area,Oshikoto,12.0,22.303868973885002
+2005,%,Tree Covered Area,Otjozondjupa,13.0,12.0597080587021
+2006,%,Tree Covered Area,,,9.29
+2006,%,Tree Covered Area,!Karas,1.0,0.541086724762099
+2006,%,Tree Covered Area,Erongo,2.0,0.22682231159400798
+2006,%,Tree Covered Area,Hardap,3.0,0.668107261277979
+2006,%,Tree Covered Area,Kavango East,4.0,21.6938824916429
+2006,%,Tree Covered Area,Kavango West,5.0,21.6938824916429
+2006,%,Tree Covered Area,Khomas,6.0,10.821951923171598
+2006,%,Tree Covered Area,Kunene,7.0,15.570715104732802
+2006,%,Tree Covered Area,Ohangwena,8.0,30.8468257206921
+2006,%,Tree Covered Area,Omaheke,9.0,2.1856005551481203
+2006,%,Tree Covered Area,Omusati,10.0,33.192971087185995
+2006,%,Tree Covered Area,Oshana,11.0,21.5241189907849
+2006,%,Tree Covered Area,Oshikoto,12.0,22.3350537371844
+2006,%,Tree Covered Area,Otjozondjupa,13.0,12.226797534512698
+2007,%,Tree Covered Area,,,9.3
+2007,%,Tree Covered Area,!Karas,1.0,0.541155320560209
+2007,%,Tree Covered Area,Erongo,2.0,0.22682231159400798
+2007,%,Tree Covered Area,Hardap,3.0,0.668107261277979
+2007,%,Tree Covered Area,Kavango East,4.0,21.7727809207973
+2007,%,Tree Covered Area,Kavango West,5.0,21.7727809207973
+2007,%,Tree Covered Area,Khomas,6.0,10.821795169223002
+2007,%,Tree Covered Area,Kunene,7.0,15.5688451222804
+2007,%,Tree Covered Area,Ohangwena,8.0,30.8788724871652
+2007,%,Tree Covered Area,Omaheke,9.0,2.1856005551481203
+2007,%,Tree Covered Area,Omusati,10.0,33.192971087185995
+2007,%,Tree Covered Area,Oshana,11.0,21.5241189907849
+2007,%,Tree Covered Area,Oshikoto,12.0,22.337444463345104
+2007,%,Tree Covered Area,Otjozondjupa,13.0,12.2329786059435
+2008,%,Tree Covered Area,,,9.39
+2008,%,Tree Covered Area,!Karas,1.0,0.541155320560209
+2008,%,Tree Covered Area,Erongo,2.0,0.236151796866475
+2008,%,Tree Covered Area,Hardap,3.0,0.668107261277979
+2008,%,Tree Covered Area,Kavango East,4.0,22.2390341379652
+2008,%,Tree Covered Area,Kavango West,5.0,22.2390341379652
+2008,%,Tree Covered Area,Khomas,6.0,10.9247657005392
+2008,%,Tree Covered Area,Kunene,7.0,15.590611323699
+2008,%,Tree Covered Area,Ohangwena,8.0,31.0471385753161
+2008,%,Tree Covered Area,Omaheke,9.0,2.1856005551481203
+2008,%,Tree Covered Area,Omusati,10.0,33.192971087185995
+2008,%,Tree Covered Area,Oshana,11.0,21.525926498551
+2008,%,Tree Covered Area,Oshikoto,12.0,22.4575742078657
+2008,%,Tree Covered Area,Otjozondjupa,13.0,12.5033935838393
+2009,%,Tree Covered Area,,,9.45
+2009,%,Tree Covered Area,!Karas,1.0,0.5411553205602101
+2009,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
+2009,%,Tree Covered Area,Hardap,3.0,0.668107261277979
+2009,%,Tree Covered Area,Kavango East,4.0,22.5036970899528
+2009,%,Tree Covered Area,Kavango West,5.0,22.5036970899528
+2009,%,Tree Covered Area,Khomas,6.0,10.9479876932115
+2009,%,Tree Covered Area,Kunene,7.0,15.598406958364698
+2009,%,Tree Covered Area,Ohangwena,8.0,31.3148143400247
+2009,%,Tree Covered Area,Omaheke,9.0,2.19003980343368
+2009,%,Tree Covered Area,Omusati,10.0,33.192971087185995
+2009,%,Tree Covered Area,Oshana,11.0,21.525926498551
+2009,%,Tree Covered Area,Oshikoto,12.0,22.624079434699503
+2009,%,Tree Covered Area,Otjozondjupa,13.0,12.6254926990613
+2010,%,Forest Covered Area,,,8.85
+2010,%,Tree Covered Area,,,9.45
+2010,%,Tree Covered Area,!Karas,1.0,0.5411553205602101
+2010,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
+2010,%,Tree Covered Area,Hardap,3.0,0.668107261277979
+2010,%,Tree Covered Area,Kavango East,4.0,22.5458837196006
+2010,%,Tree Covered Area,Kavango West,5.0,22.5458837196006
+2010,%,Tree Covered Area,Khomas,6.0,10.947830924296902
+2010,%,Tree Covered Area,Kunene,7.0,15.597798784132
+2010,%,Tree Covered Area,Ohangwena,8.0,31.459778328325502
+2010,%,Tree Covered Area,Omaheke,9.0,2.19003980343368
+2010,%,Tree Covered Area,Omusati,10.0,33.193853975932
+2010,%,Tree Covered Area,Oshana,11.0,21.5265290072261
+2010,%,Tree Covered Area,Oshikoto,12.0,22.624263786658396
+2010,%,Tree Covered Area,Otjozondjupa,13.0,12.629556219085
+2011,%,Tree Covered Area,,,9.46
+2011,%,Tree Covered Area,!Karas,1.0,0.541155320560209
+2011,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
+2011,%,Tree Covered Area,Hardap,3.0,0.668055894621974
+2011,%,Tree Covered Area,Kavango East,4.0,22.581164146956397
+2011,%,Tree Covered Area,Kavango West,5.0,22.581164146956397
+2011,%,Tree Covered Area,Khomas,6.0,10.972438938431198
+2011,%,Tree Covered Area,Kunene,7.0,15.5979000868433
+2011,%,Tree Covered Area,Ohangwena,8.0,31.514644670026197
+2011,%,Tree Covered Area,Omaheke,9.0,2.19003980343368
+2011,%,Tree Covered Area,Omusati,10.0,33.1941487209825
+2011,%,Tree Covered Area,Oshana,11.0,21.532965477311002
+2011,%,Tree Covered Area,Oshikoto,12.0,22.669418209361897
+2011,%,Tree Covered Area,Otjozondjupa,13.0,12.6552500999574
+2012,%,Tree Covered Area,,,9.46
+2012,%,Tree Covered Area,!Karas,1.0,0.541155132435043
+2012,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
+2012,%,Tree Covered Area,Hardap,3.0,0.668055894621975
+2012,%,Tree Covered Area,Kavango East,4.0,22.589241497044895
+2012,%,Tree Covered Area,Kavango West,5.0,22.589241497044895
+2012,%,Tree Covered Area,Khomas,6.0,10.972125440514901
+2012,%,Tree Covered Area,Kunene,7.0,15.588069586092999
+2012,%,Tree Covered Area,Ohangwena,8.0,31.514644670026197
+2012,%,Tree Covered Area,Omaheke,9.0,2.19003980343368
+2012,%,Tree Covered Area,Omusati,10.0,33.1941487209825
+2012,%,Tree Covered Area,Oshana,11.0,21.532965477311002
+2012,%,Tree Covered Area,Oshikoto,12.0,22.6881487018017
+2012,%,Tree Covered Area,Otjozondjupa,13.0,12.6408481877952
+2013,%,Tree Covered Area,,,9.46
+2013,%,Tree Covered Area,!Karas,1.0,0.541155132435044
+2013,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
+2013,%,Tree Covered Area,Hardap,3.0,0.668055894621975
+2013,%,Tree Covered Area,Kavango East,4.0,22.602102501402396
+2013,%,Tree Covered Area,Kavango West,5.0,22.602102501402396
+2013,%,Tree Covered Area,Khomas,6.0,10.9716550964622
+2013,%,Tree Covered Area,Kunene,7.0,15.587917885347302
+2013,%,Tree Covered Area,Ohangwena,8.0,31.5433935213422
+2013,%,Tree Covered Area,Omaheke,9.0,2.19003980343368
+2013,%,Tree Covered Area,Omusati,10.0,33.1941487209825
+2013,%,Tree Covered Area,Oshana,11.0,21.534322271922804
+2013,%,Tree Covered Area,Oshikoto,12.0,22.7157267794574
+2013,%,Tree Covered Area,Otjozondjupa,13.0,12.6429920010584
+2014,%,Tree Covered Area,,,9.55
+2014,%,Tree Covered Area,!Karas,1.0,0.541155132435043
+2014,%,Tree Covered Area,Erongo,2.0,0.6766373551186259
+2014,%,Tree Covered Area,Hardap,3.0,0.668055894621975
+2014,%,Tree Covered Area,Kavango East,4.0,22.6661106002615
+2014,%,Tree Covered Area,Kavango West,5.0,22.6661106002615
+2014,%,Tree Covered Area,Khomas,6.0,11.2405829959778
+2014,%,Tree Covered Area,Kunene,7.0,15.587968691884802
+2014,%,Tree Covered Area,Ohangwena,8.0,31.577025544610898
+2014,%,Tree Covered Area,Omaheke,9.0,2.28095185051905
+2014,%,Tree Covered Area,Omusati,10.0,33.1941487209825
+2014,%,Tree Covered Area,Oshana,11.0,21.534322271922804
+2014,%,Tree Covered Area,Oshikoto,12.0,22.725228604724197
+2014,%,Tree Covered Area,Otjozondjupa,13.0,12.868535258327999
+2015,%,Forest Covered Area,,,8.4
+2015,%,Tree Covered Area,,,9.55
+2015,%,Tree Covered Area,!Karas,1.0,0.541155132435043
+2015,%,Tree Covered Area,Erongo,2.0,0.6766373551186259
+2015,%,Tree Covered Area,Hardap,3.0,0.668055894621975
+2015,%,Tree Covered Area,Kavango East,4.0,22.664877912401
+2015,%,Tree Covered Area,Kavango West,5.0,22.664877912401
+2015,%,Tree Covered Area,Khomas,6.0,11.2405829959778
+2015,%,Tree Covered Area,Kunene,7.0,15.587968691884802
+2015,%,Tree Covered Area,Ohangwena,8.0,31.577025544610898
+2015,%,Tree Covered Area,Omaheke,9.0,2.28095185051905
+2015,%,Tree Covered Area,Omusati,10.0,33.1941487209825
+2015,%,Tree Covered Area,Oshana,11.0,21.534322271922804
+2015,%,Tree Covered Area,Oshikoto,12.0,22.725228604724197
+2015,%,Tree Covered Area,Otjozondjupa,13.0,12.868422934000401
