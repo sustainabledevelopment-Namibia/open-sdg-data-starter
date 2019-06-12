@@ -1,7 +1,93 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2005,,,,,
+2006,,,,,
+2007,,,,,
+2008,,,,,
+2009,,,,,
+2010,,,,,
+2011,,,,,
+2012,,,,,
+2013,,,,,
+2014,,,,,
+2015,,,,,
+2016,,,,,
+2005,%,Agriculture (MAX),,,35.6
+2005,%,Agriculture (MIN),,,28.6
+2005,%,Arms (MAX),,,2.1
+2005,%,Arms (MIN),,,0.2
+2005,%,Clothing (MAX),,,12.2
+2005,%,Clothing (MIN),,,2.2
+2005,%,Industry (MAX),,,2.3
+2005,%,Industry (MIN),,,0.4
+2005,%,Textile (MAX),,,6.5
+2005,%,Textile (MIN),,,2.6
+2010,%,Agriculture (MAX),,,35.5
+2010,%,Agriculture (MIN),,,7.5
+2010,%,Arms (MAX),,,2.7
+2010,%,Arms (MIN),,,0.5
+2010,%,Clothing (MAX),,,12.1
+2010,%,Clothing (MIN),,,2.2
+2010,%,Industry (MAX),,,2.4
+2010,%,Industry (MIN),,,0.4
+2010,%,Textile (MAX),,,6.4
+2010,%,Textile (MIN),,,2.4
+2011,%,Agriculture (MAX),,,35.5
+2011,%,Agriculture (MIN),,,7.5
+2011,%,Arms (MAX),,,2.7
+2011,%,Arms (MIN),,,0.5
+2011,%,Clothing (MAX),,,12.1
+2011,%,Clothing (MIN),,,2.2
+2011,%,Industry (MAX),,,2.4
+2011,%,Industry (MIN),,,0.4
+2011,%,Textile (MAX),,,6.4
+2011,%,Textile (MIN),,,2.5
+2012,%,Agriculture (MAX),,,34.5
+2012,%,Agriculture (MIN),,,7.3
+2012,%,Arms (MAX),,,2.7
+2012,%,Arms (MIN),,,0.5
+2012,%,Clothing (MAX),,,12.1
+2012,%,Clothing (MIN),,,2.1
+2012,%,Industry (MAX),,,2.4
+2012,%,Industry (MIN),,,0.5
+2012,%,Textile (MAX),,,6.4
+2012,%,Textile (MIN),,,2.5
+2013,%,Agriculture (MAX),,,34.5
+2013,%,Agriculture (MIN),,,7.3
+2013,%,Arms (MAX),,,2.7
+2013,%,Arms (MIN),,,0.5
+2013,%,Clothing (MAX),,,12.1
+2013,%,Clothing (MIN),,,2.1
+2013,%,Industry (MAX),,,2.4
+2013,%,Industry (MIN),,,0.5
+2013,%,Textile (MAX),,,6.4
+2013,%,Textile (MIN),,,2.5
+2014,%,Agriculture (MAX),,,34.6
+2014,%,Agriculture (MIN),,,7.3
+2014,%,Arms (MAX),,,2.7
+2014,%,Arms (MIN),,,0.5
+2014,%,Clothing (MAX),,,12.1
+2014,%,Clothing (MIN),,,2.1
+2014,%,Industry (MAX),,,2.4
+2014,%,Industry (MIN),,,0.5
+2014,%,Textile (MAX),,,6.4
+2014,%,Textile (MIN),,,2.5
+2015,%,Agriculture (MAX),,,34.6
+2015,%,Agriculture (MIN),,,7.3
+2015,%,Arms (MAX),,,2.7
+2015,%,Arms (MIN),,,0.5
+2015,%,Clothing (MAX),,,12.1
+2015,%,Clothing (MIN),,,2.0
+2015,%,Industry (MAX),,,2.4
+2015,%,Industry (MIN),,,0.5
+2015,%,Textile (MAX),,,6.5
+2015,%,Textile (MIN),,,2.6
+2016,%,Agriculture (MAX),,,35.0
+2016,%,Agriculture (MIN),,,7.4
+2016,%,Arms (MAX),,,2.7
+2016,%,Arms (MIN),,,0.5
+2016,%,Clothing (MAX),,,12.1
+2016,%,Clothing (MIN),,,2.0
+2016,%,Industry (MAX),,,2.4
+2016,%,Industry (MIN),,,0.5
+2016,%,Textile (MAX),,,6.5
+2016,%,Textile (MIN),,,2.6
