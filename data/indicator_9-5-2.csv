@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2014,per million inhabitants,,,,343
+2017,per million inhabitants,,,,141
+2018,per million inhabitants,,,,143
+2014,per million inhabitants,From Employed Person [per 1000],,,0.5
