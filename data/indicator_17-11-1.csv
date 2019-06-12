@@ -1,7 +1,23 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2007,Constant 2010 Prices N$ millions,,,39430,
+2008,Constant 2010 Prices N$ millions,,,37713,
+2009,Constant 2010 Prices N$ millions,,,38385,
+2010,Constant 2010 Prices N$ millions,,,39447,
+2011,Constant 2010 Prices N$ millions,,,38148,
+2012,Constant 2010 Prices N$ millions,,,38531,
+2013,Constant 2010 Prices N$ millions,,,39610,
+2014,Constant 2010 Prices N$ millions,,,39421,
+2015,Constant 2010 Prices N$ millions,,,39283,
+2016,Constant 2010 Prices N$ millions,,,42305,
+2017,Constant 2010 Prices N$ millions,,,37184,
+2007,Constant 2010 Prices N$ millions,Export of Services,,5532,
+2008,Constant 2010 Prices N$ millions,Export of Services,,5024,
+2009,Constant 2010 Prices N$ millions,Export of Services,,5547,
+2010,Constant 2010 Prices N$ millions,Export of Services,,4982,
+2011,Constant 2010 Prices N$ millions,Export of Services,,5282,
+2012,Constant 2010 Prices N$ millions,Export of Services,,4989,
+2013,Constant 2010 Prices N$ millions,Export of Services,,4750,
+2014,Constant 2010 Prices N$ millions,Export of Services,,5583,
+2015,Constant 2010 Prices N$ millions,Export of Services,,5309,
+2016,Constant 2010 Prices N$ millions,Export of Services,,4603,
+2017,Constant 2010 Prices N$ millions,Export of Services,,2595,

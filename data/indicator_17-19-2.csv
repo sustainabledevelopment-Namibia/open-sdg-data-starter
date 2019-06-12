@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2011,%,,,,92
+2016,%,,,,89.3
+2016,%,Urban Coverage,,,93.5
+2016,%,Rural Coverage,,,85.5
+2011,%,Total Coverage,!Karas,1,97.8
+2011,%,Total Coverage,Erongo,2,96.7
+2011,%,Total Coverage,Hardap,3,97.1
+2011,%,Total Coverage,Kavango East,4,78
+2011,%,Total Coverage,Kavango West,5,78
+2011,%,Total Coverage,Khomas,6,96.7
+2011,%,Total Coverage,Kunene,7,90.3
+2011,%,Total Coverage,Ohangwena,8,89.7
+2011,%,Total Coverage,Omaheke,9,93.6
+2011,%,Total Coverage,Omusati,10,92
+2011,%,Total Coverage,Oshana,11,96.4
+2011,%,Total Coverage,Oshikoto,12,91.5
+2011,%,Total Coverage,Otjozondjupa,13,93
+2011,%,Total Coverage,Zambezi,14,91.1

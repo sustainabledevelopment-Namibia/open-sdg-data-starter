@@ -1,7 +1,8 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2013,%,,,,33
+2014,%,,,,35.42662939
+2017,%,,,,33
+2015,%,,,,34.8
+2016,%,,,,30.98576963
+2016,%,Tax Revenue Proportion,,,29.02239333
+2014,%,Tax Revenue Proportion,,,33.23210966
