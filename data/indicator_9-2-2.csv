@@ -1,26 +1,26 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2012,%,"Total ",,,4.5
+2012,%,Total,,,4.5
 2012,%,Female,,,3.1
 2012,%,Male,,,5.8
-2013,%,"Total ",,,4.8
+2013,%,Total,,,4.8
 2013,%,Female,,,3.1
 2013,%,Male,,,6.4
-2013,%,"Total ",!Karas,1,10
-2013,%,"Total ",Erongo,2,12.3
-2013,%,"Total ",Hardap,3,2.8
-2013,%,"Total ",Kavango East,4,0.7
-2013,%,"Total ",Kavango West,5,0.7
-2013,%,"Total ",Khomas,6,7.2
-2013,%,"Total ",Kunene,7,5.4
-2013,%,"Total ",Ohangwena,8,1.1
-2013,%,"Total ",Omaheke,9,3.6
-2013,%,"Total ",Omusati,10,1.2
-2013,%,"Total ",Oshana,11,5
-2013,%,"Total ",Oshikoto,12,2.3
-2013,%,"Total ",Otjozondjupa,13,3.6
-2016,%,"Total ",,,6.6
+2013,%,Total,!Karas,1,10
+2013,%,Total,Erongo,2,12.3
+2013,%,Total,Hardap,3,2.8
+2013,%,Total,Kavango East,4,0.7
+2013,%,Total,Kavango West,5,0.7
+2013,%,Total,Khomas,6,7.2
+2013,%,Total,Kunene,7,5.4
+2013,%,Total,Ohangwena,8,1.1
+2013,%,Total,Omaheke,9,3.6
+2013,%,Total,Omusati,10,1.2
+2013,%,Total,Oshana,11,5
+2013,%,Total,Oshikoto,12,2.3
+2013,%,Total,Otjozondjupa,13,3.6
+2016,%,Total,,,6.6
 2016,%,Female,,,4.6
 2016,%,Male,,,8.3
-2018,%,"Total ",,,6.2
+2018,%,Total,,,6.2
 2018,%,Female,,,4.6
 2018,%,Male,,,7.8
