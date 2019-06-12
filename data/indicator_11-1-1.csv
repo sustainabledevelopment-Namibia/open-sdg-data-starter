@@ -1,7 +1,35 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2011,%,,,,16
+2016,%,,,,26.6
+2011,%,Urban,,,27.2
+2011,%,Rural,,,5
+2011,%,Total ,!Karas,1,26
+2011,%,Total ,Erongo,2,32.5
+2011,%,Total ,Hardap,3,24.7
+2011,%,Total ,Kavango East,4,4.3
+2011,%,Total ,Kavango West,5,4.3
+2011,%,Total ,Khomas,6,30.6
+2011,%,Total ,Kunene,7,8.7
+2011,%,Total ,Ohangwena,8,5.1
+2011,%,Total ,Omaheke,9,18.4
+2011,%,Total ,Omusati,10,1.1
+2011,%,Total ,Oshana,11,7.5
+2011,%,Total ,Oshikoto,12,4.8
+2011,%,Total ,Otjozondjupa,13,17.7
+2011,%,Total ,Zambezi ,14,13.6
+2016,%,Urban,,,39.7
+2016,%,Rural,,,10.6
+2016,%,Total ,!Karas,1,25.2
+2016,%,Total ,Erongo,2,43.6
+2016,%,Total ,Hardap,3,52.8
+2016,%,Total ,Kavango East,4,46.7
+2016,%,Total ,Kavango West,5,13.7
+2016,%,Total ,Khomas,6,42.3
+2016,%,Total ,Kunene,7,22.6
+2016,%,Total ,Ohangwena,8,4.8
+2016,%,Total ,Omaheke,9,34.3
+2016,%,Total ,Omusati,10,3
+2016,%,Total ,Oshana,11,13.2
+2016,%,Total ,Oshikoto,12,10.5
+2016,%,Total ,Otjozondjupa,13,30.3
+2016,%,Total ,Zambezi ,14,2.7
