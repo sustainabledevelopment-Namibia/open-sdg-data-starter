@@ -1,7 +1,46 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2004,,,,,
+2005,,,,,
+2006,,,,,
+2007,,,,,
+2008,,,,,
+2009,,,,,
+2010,,,,,
+2011,,,,,
+2012,,,,,
+2013,,,,,
+2014,,,,,
+2015,,,,,
+2016,,,,,
+2017,,,,,
+2018,,,,,
+2004,%,freshwater biodiversity covered by protected areas,,,50.45317
+2004,%,terrestrial biodiversity  covered by protected areas,,,43.70799
+2005,%,freshwater biodiversity covered by protected areas,,,53.59502
+2005,%,terrestrial biodiversity  covered by protected areas,,,44.58072
+2006,%,freshwater biodiversity covered by protected areas,,,64.99648
+2006,%,terrestrial biodiversity  covered by protected areas,,,47.7478
+2007,%,freshwater biodiversity covered by protected areas,,,76.11362
+2007,%,terrestrial biodiversity  covered by protected areas,,,50.83589
+2008,%,freshwater biodiversity covered by protected areas,,,76.11362
+2008,%,terrestrial biodiversity  covered by protected areas,,,56.92416
+2009,%,freshwater biodiversity covered by protected areas,,,77.37996
+2009,%,terrestrial biodiversity  covered by protected areas,,,73.1664
+2010,%,freshwater biodiversity covered by protected areas,,,77.37996
+2010,%,terrestrial biodiversity  covered by protected areas,,,82.36914
+2011,%,freshwater biodiversity covered by protected areas,,,78.86191
+2011,%,terrestrial biodiversity  covered by protected areas,,,83.45794
+2012,%,freshwater biodiversity covered by protected areas,,,85.28327
+2012,%,terrestrial biodiversity  covered by protected areas,,,85.24165
+2013,%,freshwater biodiversity covered by protected areas,,,85.35525
+2013,%,terrestrial biodiversity  covered by protected areas,,,85.37727
+2014,%,freshwater biodiversity covered by protected areas,,,85.35525
+2014,%,terrestrial biodiversity  covered by protected areas,,,85.37727
+2015,%,freshwater biodiversity covered by protected areas,,,85.35525
+2015,%,terrestrial biodiversity  covered by protected areas,,,85.37727
+2016,%,freshwater biodiversity covered by protected areas,,,85.35525
+2016,%,terrestrial biodiversity  covered by protected areas,,,85.37727
+2017,%,freshwater biodiversity covered by protected areas,,,85.35525
+2017,%,terrestrial biodiversity  covered by protected areas,,,85.37727
+2018,%,freshwater biodiversity covered by protected areas,,,85.35525
+2018,%,terrestrial biodiversity  covered by protected areas,,,85.37727
