@@ -17,7 +17,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2004,%,Total,Oshana,11,90.9
 2004,%,Total,Oshikoto,12,84.3
 2004,%,Total,Otjozondjupa,13,75.9
-2004,%,Total,Zambezi ,14,80
+2004,%,Total,Zambezi,14,80
 2010,%,Total,,,87.7
 2010,%,Male,,,88.4
 2010,%,Female,,,87.1
@@ -36,7 +36,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2010,%,Total,Oshana,11,93.5
 2010,%,Total,Oshikoto,12,87
 2010,%,Total,Otjozondjupa,13,77.7
-2010,%,Total,Zambezi ,14,85.8
+2010,%,Total,Zambezi,14,85.8
 2011,%,Total,,,85.3
 2011,%,Male,,,85.4
 2011,%,Female,,,85.1
@@ -55,7 +55,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2011,%,Total,Oshana,11,93.5
 2011,%,Total,Oshikoto,12,84.6
 2011,%,Total,Otjozondjupa,13,79.6
-2011,%,Total,Zambezi ,14,78.6
+2011,%,Total,Zambezi,14,78.6
 2016,%,Total,,,88.7
 2016,%,Male,,,89.4
 2016,%,Female,,,87.9
@@ -74,4 +74,4 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2016,%,Total,Oshana,11,94
 2016,%,Total,Oshikoto,12,88
 2016,%,Total,Otjozondjupa,13,83
-2016,%,Total,Zambezi ,14,85.5
+2016,%,Total,Zambezi,14,85.5
