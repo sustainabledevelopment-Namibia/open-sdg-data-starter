@@ -1,113 +1,261 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2004,%,,,,37.7
-2010,%,,,,28.7
-2016,%,,,,17.4
-2004,%,Total Pop  (severely poor),,,21.9
+2004,%,Total Pop  (poor),,,37.7
+2004,%,Total Pop  (severely poor) ,,,21.9
 2004,%,F Pop (head of HH/ poor),,,40.4
-2004,%,M Pop (head of HH/ poor),,,36.0
-2004,%,Urban Pop (poor),,,17.0
-2004,%,Urban Pop (severely poor),,,10.0
+2004,%,M Pop (head of HH/ poor),,,36
+2004,%,Urban Pop (poor),,,17
+2004,%,Urban Pop (severely poor) ,,,10
 2004,%,Rural Pop (poor),,,48.7
-2004,%,Rural Pop (severely poor),,,28.3
-2004,%,Total Pop  (poor),Karas,1.0,32.7
-2004,%,Total Pop  (severely poor),Karas,1.0,21.7
-2004,%,Total Pop  (poor),Erongo,2.0,14.3
-2004,%,Total Pop  (severely poor),Erongo,2.0,8.7
-2004,%,Total Pop  (poor),Hardap,3.0,42.0
-2004,%,Total Pop  (severely poor),Hardap,3.0,31.8
-2004,%,Total Pop  (poor),Kavango East,4.0,64.1
-2004,%,Total Pop  (severely poor),Kavango East,4.0,47.1
-2004,%,Total Pop  (poor),Kavango West,5.0,64.1
-2004,%,Total Pop  (severely poor),Kavango West,5.0,47.1
-2004,%,Total Pop  (poor),Khomas,6.0,8.1
-2004,%,Total Pop  (severely poor),Khomas,6.0,3.7
-2004,%,Total Pop  (poor),Kunene,7.0,36.8
-2004,%,Total Pop  (severely poor),Kunene,7.0,27.2
-2004,%,Total Pop  (poor),Ohangwena,8.0,55.5
-2004,%,Total Pop  (severely poor),Ohangwena,8.0,28.1
-2004,%,Total Pop  (poor),Omaheke,9.0,41.1
-2004,%,Total Pop  (severely poor),Omaheke,9.0,28.1
-2004,%,Total Pop  (poor),Omusati,10.0,38.4
-2004,%,Total Pop  (severely poor),Omusati,10.0,17.5
-2004,%,Total Pop  (poor),Oshana,11.0,25.7
-2004,%,Total Pop  (severely poor),Oshana,11.0,11.2
-2004,%,Total Pop  (poor),Oshikoto,12.0,49.4
-2004,%,Total Pop  (severely poor),Oshikoto,12.0,24.2
-2004,%,Total Pop  (poor),Otjozondjupa,13.0,39.0
-2004,%,Total Pop  (severely poor),Otjozondjupa,13.0,26.5
-2004,%,Total Pop  (poor),Zambezi,14.0,36.5
-2004,%,Total Pop  (severely poor),Zambezi,14.0,20.3
-2010,%,Total Pop  (severely poor),,,15.3
+2004,%,Rural Pop (severely poor) ,,,28.3
+2004,%,Total Pop  (poor),Karas,1,32.7
+2004,%,Total Pop  (severely poor) ,Karas,1,21.7
+2004,%,Total Pop  (poor),Erongo,2,14.3
+2004,%,Total Pop  (severely poor) ,Erongo,2,8.7
+2004,%,Total Pop  (poor),Hardap,3,42
+2004,%,Total Pop  (severely poor) ,Hardap,3,31.8
+2004,%,Total Pop  (poor),Kavango East,4,64.1
+2004,%,Total Pop  (severely poor) ,Kavango East,4,47.1
+2004,%,Total Pop  (poor),Kavango West,5,64.1
+2004,%,Total Pop  (severely poor) ,Kavango West,5,47.1
+2004,%,Total Pop  (poor),Khomas,6,8.1
+2004,%,Total Pop  (severely poor) ,Khomas,6,3.7
+2004,%,Total Pop  (poor),Kunene,7,36.8
+2004,%,Total Pop  (severely poor) ,Kunene,7,27.2
+2004,%,Total Pop  (poor),Ohangwena,8,55.5
+2004,%,Total Pop  (severely poor) ,Ohangwena,8,28.1
+2004,%,Total Pop  (poor),Omaheke,9,41.1
+2004,%,Total Pop  (severely poor) ,Omaheke,9,28.1
+2004,%,Total Pop  (poor),Omusati,10,38.4
+2004,%,Total Pop  (severely poor) ,Omusati,10,17.5
+2004,%,Total Pop  (poor),Oshana,11,25.7
+2004,%,Total Pop  (severely poor) ,Oshana,11,11.2
+2004,%,Total Pop  (poor),Oshikoto,12,49.4
+2004,%,Total Pop  (severely poor) ,Oshikoto,12,24.2
+2004,%,Total Pop  (poor),Otjozondjupa,13,39
+2004,%,Total Pop  (severely poor) ,Otjozondjupa,13,26.5
+2004,%,Total Pop  (poor),Zambezi ,14,36.5
+2004,%,Total Pop  (severely poor) ,Zambezi ,14,20.3
+2010,%,Total Pop  (poor),,,28.7
+2010,%,Total Pop  (severely poor) ,,,15.3
 2010,%,F Pop (head of HH/ poor),,,32.2
 2010,%,M Pop (head of HH/ poor),,,26.2
 2010,%,Urban Pop (poor),,,14.6
-2010,%,Urban Pop (severely poor),,,7.0
+2010,%,Urban Pop (severely poor) ,,,7
 2010,%,Rural Pop (poor),,,37.4
-2010,%,Rural Pop (severely poor),,,20.4
-2010,%,Total Pop  (poor),Karas,1.0,26.9
-2010,%,Total Pop  (severely poor),Karas,1.0,16.8
-2010,%,Total Pop  (poor),Erongo,2.0,7.1
-2010,%,Total Pop  (severely poor),Erongo,2.0,2.9
-2010,%,Total Pop  (poor),Hardap,3.0,26.0
-2010,%,Total Pop  (severely poor),Hardap,3.0,15.1
-2010,%,Total Pop  (poor),Kavango East,4.0,55.2
-2010,%,Total Pop  (severely poor),Kavango East,4.0,34.6
-2010,%,Total Pop  (poor),Kavango West,5.0,55.2
-2010,%,Total Pop  (severely poor),Kavango West,5.0,34.6
-2010,%,Total Pop  (poor),Khomas,6.0,10.7
-2010,%,Total Pop  (severely poor),Khomas,6.0,4.0
-2010,%,Total Pop  (poor),Kunene,7.0,30.2
-2010,%,Total Pop  (severely poor),Kunene,7.0,15.9
-2010,%,Total Pop  (poor),Ohangwena,8.0,30.1
-2010,%,Total Pop  (severely poor),Ohangwena,8.0,11.9
-2010,%,Total Pop  (poor),Omaheke,9.0,31.1
-2010,%,Total Pop  (severely poor),Omaheke,9.0,19.0
-2010,%,Total Pop  (poor),Omusati,10.0,19.1
-2010,%,Total Pop  (severely poor),Omusati,10.0,7.3
-2010,%,Total Pop  (poor),Oshana,11.0,19.4
-2010,%,Total Pop  (severely poor),Oshana,11.0,7.2
-2010,%,Total Pop  (poor),Oshikoto,12.0,44.2
-2010,%,Total Pop  (severely poor),Oshikoto,12.0,21.8
-2010,%,Total Pop  (poor),Otjozondjupa,13.0,33.7
-2010,%,Total Pop  (severely poor),Otjozondjupa,13.0,22.2
-2010,%,Total Pop  (poor),Zambezi,14.0,50.2
-2010,%,Total Pop  (severely poor),Zambezi,14.0,35.2
-2016,%,Total Pop  (severely poor),,,10.7
+2010,%,Rural Pop (severely poor) ,,,20.4
+2010,%,Total Pop  (poor),Karas,1,26.9
+2010,%,Total Pop  (severely poor) ,Karas,1,16.8
+2010,%,Total Pop  (poor),Erongo,2,7.1
+2010,%,Total Pop  (severely poor) ,Erongo,2,2.9
+2010,%,Total Pop  (poor),Hardap,3,26
+2010,%,Total Pop  (severely poor) ,Hardap,3,15.1
+2010,%,Total Pop  (poor),Kavango East,4,55.2
+2010,%,Total Pop  (severely poor) ,Kavango East,4,34.6
+2010,%,Total Pop  (poor),Kavango West,5,55.2
+2010,%,Total Pop  (severely poor) ,Kavango West,5,34.6
+2010,%,Total Pop  (poor),Khomas,6,10.7
+2010,%,Total Pop  (severely poor) ,Khomas,6,4
+2010,%,Total Pop  (poor),Kunene,7,30.2
+2010,%,Total Pop  (severely poor) ,Kunene,7,15.9
+2010,%,Total Pop  (poor),Ohangwena,8,30.1
+2010,%,Total Pop  (severely poor) ,Ohangwena,8,11.9
+2010,%,Total Pop  (poor),Omaheke,9,31.1
+2010,%,Total Pop  (severely poor) ,Omaheke,9,19
+2010,%,Total Pop  (poor),Omusati,10,19.1
+2010,%,Total Pop  (severely poor) ,Omusati,10,7.3
+2010,%,Total Pop  (poor),Oshana,11,19.4
+2010,%,Total Pop  (severely poor) ,Oshana,11,7.2
+2010,%,Total Pop  (poor),Oshikoto,12,44.2
+2010,%,Total Pop  (severely poor) ,Oshikoto,12,21.8
+2010,%,Total Pop  (poor),Otjozondjupa,13,33.7
+2010,%,Total Pop  (severely poor) ,Otjozondjupa,13,22.2
+2010,%,Total Pop  (poor),Zambezi ,14,50.2
+2010,%,Total Pop  (severely poor) ,Zambezi ,14,35.2
+2016,%,Total Pop  (poor),,,17.4
+2016,%,Total Pop  (severely poor) ,,,10.7
 2016,%,F Pop (head of HH/ poor),,,19.2
 2016,%,F Pop (head of HH/ severely poor),,,11.2
 2016,%,M Pop (head of HH/ poor),,,15.8
 2016,%,M Pop (head of HH/ severely poor),,,9.9
 2016,%,Urban Pop (poor),,,8.6
-2016,%,Urban Pop (severely poor),,,4.8
+2016,%,Urban Pop (severely poor) ,,,4.8
 2016,%,Rural Pop (poor),,,25.1
-2016,%,Rural Pop (severely poor),,,15.9
-2016,%,Total Pop  (poor),Karas,1.0,8.8
-2016,%,Total Pop  (severely poor),Karas,1.0,6.3
-2016,%,Total Pop  (poor),Erongo,2.0,4.4
-2016,%,Total Pop  (severely poor),Erongo,2.0,1.1
-2016,%,Total Pop  (poor),Hardap,3.0,11.0
-2016,%,Total Pop  (severely poor),Hardap,3.0,7.7
-2016,%,Total Pop  (poor),Kavango East,4.0,42.8
-2016,%,Total Pop  (severely poor),Kavango East,4.0,33.4
-2016,%,Total Pop  (poor),Kavango West,5.0,27.9
-2016,%,Total Pop  (severely poor),Kavango West,5.0,17.6
-2016,%,Total Pop  (poor),Khomas,6.0,4.8
-2016,%,Total Pop  (severely poor),Khomas,6.0,2.2
-2016,%,Total Pop  (poor),Kunene,7.0,41.1
-2016,%,Total Pop  (severely poor),Kunene,7.0,25.0
-2016,%,Total Pop  (poor),Ohangwena,8.0,15.3
-2016,%,Total Pop  (severely poor),Ohangwena,8.0,8.4
-2016,%,Total Pop  (poor),Omaheke,9.0,35.3
-2016,%,Total Pop  (severely poor),Omaheke,9.0,28.1
-2016,%,Total Pop  (poor),Omusati,10.0,20.7
-2016,%,Total Pop  (severely poor),Omusati,10.0,10.0
-2016,%,Total Pop  (poor),Oshana,11.0,10.9
-2016,%,Total Pop  (severely poor),Oshana,11.0,5.4
-2016,%,Total Pop  (poor),Oshikoto,12.0,14.3
-2016,%,Total Pop  (severely poor),Oshikoto,12.0,7.8
-2016,%,Total Pop  (poor),Otjozondjupa,13.0,19.5
-2016,%,Total Pop  (severely poor),Otjozondjupa,13.0,11.4
-2016,%,Total Pop  (poor),Zambezi,14.0,33.7
-2016,%,Total Pop  (severely poor),Zambezi,14.0,25.1
-2018,%,NDP Target (poor),,,13.0
-2018,%,NDP Target (extreme poor),,,7.0
+2016,%,Rural Pop (severely poor) ,,,15.9
+2016,%,Total Pop  (poor),Karas,1,8.8
+2016,%,Total Pop  (severely poor) ,Karas,1,6.3
+2016,%,Total Pop  (poor),Erongo,2,4.4
+2016,%,Total Pop  (severely poor) ,Erongo,2,1.1
+2016,%,Total Pop  (poor),Hardap,3,11
+2016,%,Total Pop  (severely poor) ,Hardap,3,7.7
+2016,%,Total Pop  (poor),Kavango East,4,42.8
+2016,%,Total Pop  (severely poor) ,Kavango East,4,33.4
+2016,%,Total Pop  (poor),Kavango West,5,27.9
+2016,%,Total Pop  (severely poor) ,Kavango West,5,17.6
+2016,%,Total Pop  (poor),Khomas,6,4.8
+2016,%,Total Pop  (severely poor) ,Khomas,6,2.2
+2016,%,Total Pop  (poor),Kunene,7,41.1
+2016,%,Total Pop  (severely poor) ,Kunene,7,25
+2016,%,Total Pop  (poor),Ohangwena,8,15.3
+2016,%,Total Pop  (severely poor) ,Ohangwena,8,8.4
+2016,%,Total Pop  (poor),Omaheke,9,35.3
+2016,%,Total Pop  (severely poor) ,Omaheke,9,28.1
+2016,%,Total Pop  (poor),Omusati,10,20.7
+2016,%,Total Pop  (severely poor) ,Omusati,10,10
+2016,%,Total Pop  (poor),Oshana,11,10.9
+2016,%,Total Pop  (severely poor) ,Oshana,11,5.4
+2016,%,Total Pop  (poor),Oshikoto,12,14.3
+2016,%,Total Pop  (severely poor) ,Oshikoto,12,7.8
+2016,%,Total Pop  (poor),Otjozondjupa,13,19.5
+2016,%,Total Pop  (severely poor) ,Otjozondjupa,13,11.4
+2016,%,Total Pop  (poor),Zambezi ,14,33.7
+2016,%,Total Pop  (severely poor) ,Zambezi ,14,25.1
+2018,%,NDP Target (poor),,,13
+2018,%,NDP Target (extreme poor),,,7
+,%,Total Pop  (poor),Karas,1,D2
+,%,Total Pop  (poor),Erongo,2,Total Pop  (severely poor) 
+,%,Total Pop  (poor),Karas,1,R1
+,%,Total Pop  (poor),Erongo,2,R2
+,%,Total Pop  (poor),Hardap,3,R3
+,%,Total Pop  (poor),Kavango East,4,R4
+,%,Total Pop  (poor),Kavango West,5,R5
+,%,Total Pop  (poor),Khomas,6,R6
+,%,Total Pop  (poor),Kunene,7,R7
+,%,Total Pop  (poor),Ohangwena,8,R8
+,%,Total Pop  (poor),Omaheke,9,R9
+,%,Total Pop  (poor),Omusati,10,R10
+,%,Total Pop  (poor),Oshana,11,R11
+,%,Total Pop  (poor),Oshikoto,12,R12
+,%,Total Pop  (poor),Otjozondjupa,13,R13
+,%,Total Pop  (poor),Zambezi ,14,R14
+,%,Total Pop  (poor),Karas,1,Karas
+,%,Total Pop  (poor),Erongo,2,Erongo
+,%,Total Pop  (poor),Hardap,3,Hardap
+,%,Total Pop  (poor),Kavango East,4,Kavango East
+,%,Total Pop  (poor),Kavango West,5,Kavango West
+,%,Total Pop  (poor),Khomas,6,Khomas
+,%,Total Pop  (poor),Kunene,7,Kunene
+,%,Total Pop  (poor),Ohangwena,8,Ohangwena
+,%,Total Pop  (poor),Omaheke,9,Omaheke
+,%,Total Pop  (poor),Omusati,10,Omusati
+,%,Total Pop  (poor),Oshana,11,Oshana
+,%,Total Pop  (poor),Oshikoto,12,Oshikoto
+,%,Total Pop  (poor),Otjozondjupa,13,Otjozondjupa
+,%,Total Pop  (poor),Zambezi ,14,Zambezi 
+,%,Total Pop  (poor),Karas,1,21.7
+,%,Total Pop  (poor),Erongo,2,8.7
+,%,Total Pop  (poor),Hardap,3,31.8
+,%,Total Pop  (poor),Kavango East,4,47.1
+,%,Total Pop  (poor),Kavango West,5,47.1
+,%,Total Pop  (poor),Khomas,6,3.7
+,%,Total Pop  (poor),Kunene,7,27.2
+,%,Total Pop  (poor),Ohangwena,8,28.1
+,%,Total Pop  (poor),Omaheke,9,28.1
+,%,Total Pop  (poor),Omusati,10,17.5
+,%,Total Pop  (poor),Oshana,11,11.2
+,%,Total Pop  (poor),Oshikoto,12,24.2
+,%,Total Pop  (poor),Otjozondjupa,13,26.5
+,%,Total Pop  (poor),Zambezi ,14,20.3
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
