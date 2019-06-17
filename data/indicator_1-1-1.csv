@@ -1,40 +1,41 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2005,Per 1000,Total Employed (>15y),,,21.1
-2005,Per 1000,Total Employed F (>15y),,,24
-2005,%,Total Employed M (>15y),,,18.7
-2006,%,Total Employed (>15y),,,18.7
-2006,%,Total Employed F (>15y),,,21.3
-2006,%,Total Employed M (>15y),,,16.5
-2007,%,Total Employed (>15y),,,16.6
-2007,%,Total Employed F (>15y),,,19
-2007,%,Total Employed M (>15y),,,14.6
-2008,%,Total Employed (>15y),,,15.8
-2008,%,Total Employed F (>15y),,,18
-2008,%,Total Employed M (>15y),,,13.8
-2009,%,Total Employed (>15y),,,15.8
-2009,%,Total Employed F (>15y),,,17.9
-2009,%,Total Employed M (>15y),,,13.8
-2010,%,Total Employed (>15y),,,14.6
-2010,%,Total Employed F (>15y),,,16.6
-2010,%,Total Employed M (>15y),,,12.8
-2011,%,Total Employed (>15y),,,13.2
-2011,%,Total Employed F (>15y),,,15
-2011,%,Total Employed M (>15y),,,11.6
-2012,%,Total Employed (>15y),,,12.5
-2012,%,Total Employed F (>15y),,,14.2
-2012,%,Total Employed M (>15y),,,11
-2013,%,Total Employed (>15y),,,11.6
-2013,%,Total Employed F (>15y),,,13.2
-2013,%,Total Employed M (>15y),,,10.2
-2014,%,Total Employed (>15y),,,10.6
-2014,%,Total Employed F (>15y),,,12
-2014,%,Total Employed M (>15y),,,9.3
-2015,%,Total Employed (>15y),,,9.8
-2015,%,Total Employed F (>15y),,,11.1
-2015,%,Total Employed M (>15y),,,8.6
-2016,%,Total Employed (>15y),,,9.8
-2016,%,Total Employed F (>15y),,,11.2
-2016,%,Total Employed M (>15y),,,8.6
-2017,%,Total Employed (>15y),,,10
-2017,%,Total Employed F (>15y),,,11.4
-2017,%,Total Employed M (>15y),,,8.7
+Year,Disaggregation,Region,GeoCode,Value
+2005,Total Employed (>15y),,,21.1
+2005,Total Employed F (>15y),,,24
+2005,Total Employed M (>15y),,,18.7
+2006,Total Employed (>15y),,,18.7
+2006,Total Employed F (>15y),,,21.3
+2006,Total Employed M (>15y),,,16.5
+2007,Total Employed (>15y),,,16.6
+2007,Total Employed F (>15y),,,19
+2007,Total Employed M (>15y),,,14.6
+2008,Total Employed (>15y),,,15.8
+2008,Total Employed F (>15y),,,18
+2008,Total Employed M (>15y),,,13.8
+2009,Total,,,22.6
+2009,Total Employed (>15y),,,15.8
+2009,Total Employed F (>15y),,,17.9
+2009,Total Employed M (>15y),,,13.8
+2010,Total Employed (>15y),,,14.6
+2010,Total Employed F (>15y),,,16.6
+2010,Total Employed M (>15y),,,12.8
+2011,Total Employed (>15y),,,13.2
+2011,Total Employed F (>15y),,,15
+2011,Total Employed M (>15y),,,11.6
+2012,Total Employed (>15y),,,12.5
+2012,Total Employed F (>15y),,,14.2
+2012,Total Employed M (>15y),,,11
+2013,Total Employed (>15y),,,11.6
+2013,Total Employed F (>15y),,,13.2
+2013,Total Employed M (>15y),,,10.2
+2014,Total Employed (>15y),,,10.6
+2014,Total Employed F (>15y),,,12
+2014,Total Employed M (>15y),,,9.3
+2015,Total Employed (>15y),,,9.8
+2015,Total Employed F (>15y),,,11.1
+2015,Total Employed M (>15y),,,8.6
+2016,Total Employed (>15y),,,9.8
+2016,Total Employed F (>15y),,,11.2
+2016,Total Employed M (>15y),,,8.6
+2017,Total Employed (>15y),,,10
+2017,Total Employed F (>15y),,,11.4
+2017,Total Employed M (>15y),,,
