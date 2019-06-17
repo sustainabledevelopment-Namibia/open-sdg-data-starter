@@ -1,28 +1,25 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2009,,,,,
-2010,,,,,
-2011,,,,,
-2013,-,,,,1405150.0
-2014,-,,,,1295150.0
-2015,-,,,,1375150.0
-2016,-,,,,1374500.0
-2017,-,,,,582502.0
-2018,-,,,,582502.0
-2009,-,Persons affected by floods,,,432300.0
-2010,-,Persons affected by floods,,,540000.0
-2011,-,Persons affected by floods,,,1025000.0
-2012,-,Persons affected by floods,,,960650.0
-2013,-,Persons affected by floods,,,625150.0
-2013,-,Persons affected by drought,,,780000.0
-2014,-,HH affected by floods,,,9132.0
-2014,-,HH affected by drought,,,55267.0
-2014,-,Persons affected by floods,,,515150.0
-2014,-,Persons affected by drought,,,780000.0
-2015,-,Persons affected by floods,,,15150.0
-2015,-,Persons affected by drought,,,1360000.0
-2016,-,Persons affected by floods,,,14500.0
-2016,-,Persons affected by drought,,,1360000.0
-2017,-,Persons affected by floods,,,2502.0
-2017,-,Persons affected by drought,,,580000.0
-2018,-,Persons affected by floods,,,2502.0
-2018,-,Persons affected by drought,,,580000.0
+2009,-,Persons affected by floods,,,432300
+2010,-,Persons affected by floods,,,540000
+2011,-,Persons affected by floods,,,1025000
+2012,-,Persons affected by floods,,,960650
+2013,-,Persons affected by floods,,,625150
+2013,-,Persons affected by drought,,,780000
+2013,-,Persons affected by all disasters,,,1405150
+2014,-,HH affected by floods,,,9132
+2014,-,HH affected by drought,,,55267
+2014,-,Persons affected by floods,,,515150
+2014,-,Persons affected by drought,,,780000
+2014,-,Persons affected by all disasters,,,1295150
+2015,-,Persons affected by floods,,,15150
+2015,-,Persons affected by drought,,,1360000
+2015,-,Persons affected by all disasters,,,1375150
+2016,-,Persons affected by floods,,,14500
+2016,-,Persons affected by drought,,,1360000
+2016,-,Persons affected by all disasters,,,1374500
+2017,-,Persons affected by floods,,,2502
+2017,-,Persons affected by drought,,,580000
+2017,-,Persons affected by all disasters,,,582502
+2018,-,Persons affected by floods,,,2502
+2018,-,Persons affected by drought,,,580000
+2018,-,Persons affected by all disasters,,,582502
