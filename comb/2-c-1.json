@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2016,2016],"Units":[null,"Score","Score"],"Disaggregation":[null,"Indicator of Food Price Anomalies (IFPA)","Indicator of Food Price Anomalies (IFPA)"],"Region":[null,"millet","wheat"],"GeoCode":[null,null,null],"Value":[null,1.98,0.55]},"edges":{"From":["Disaggregation"],"To":["Region"]}}
+{"data":{"Year":[2016,2016],"Units":["Score","Score"],"Disaggregation":["Indicator of Food Price Anomalies (IFPA)","Indicator of Food Price Anomalies (IFPA)"],"Value":[1.98,0.55]},"edges":[]}

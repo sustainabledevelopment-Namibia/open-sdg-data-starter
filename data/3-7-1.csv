@@ -1,7 +1,5 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2000,%,,,,74.9
-2006,%,,,,83.3
-2013,%,,,,80.4
+2000,%,Total,,,74.9
 2000,%,Currently married,,,63.5
 2000,%,Urban,,,78.3
 2000,%,Rural,,,71.5
@@ -19,6 +17,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2000,%,Total,Oshikoto,12.0,74.9
 2000,%,Total,Otjozondjupa,13.0,86.5
 2000,%,Total,Zambezi,14.0,76.2
+2006,%,Total,,,83.3
 2006,%,Currently married,,,72.8
 2006,%,sexually active unmarried,,,92.9
 2006,%,Urban,,,88.6
@@ -37,6 +36,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2006,%,Total,Oshikoto,12.0,81.5
 2006,%,Total,Otjozondjupa,13.0,70.0
 2006,%,Total,Zambezi,14.0,76.5
+2013,%,Total,,,80.4
 2013,%,Currently married,,,75.0
 2013,%,sexually active unmarried,,,84.1
 2013,%,Urban,,,84.8

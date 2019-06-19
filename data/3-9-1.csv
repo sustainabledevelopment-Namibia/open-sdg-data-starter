@@ -1,4 +1,3 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2016,,,,,
-2016,per 100000,Death Rate,,,74.8
-2016,per 100000,Age Standardized Mortality Rate,,,145.0
+Year,Units,Disaggregation,Value
+2016,per 100000,Death Rate,74.8
+2016,per 100000,Age Standardized Mortality Rate,145.0

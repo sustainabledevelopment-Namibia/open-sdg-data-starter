@@ -1,1 +1,1 @@
-{"Year":[2010,2016,2010,2016],"Units":["N$","N$","N$","N$"],"Disaggregation":[null,null,"Total (current prices)","Total (current prices)"],"Region":[null,null,null,null],"GeoCode":[null,null,null,null],"Value":[6254.0,10062.54545,6254.0,13836.0]}
+{"Year":[2010,2010,2016,2016],"Units":["N$","N$","N$","N$"],"Disaggregation":["Total (current prices)","Total (2010 prices)","Total (current prices)","Total (2010 prices)"],"Value":[6254.0,6254.0,13836.0,10062.54545]}

@@ -1,7 +1,11 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Value
+2014,%,being at risk of extinction,50
+2014,%,being not-at-risk of extinction,30
+2015,%,being at risk of extinction,50
+2015,%,being not-at-risk of extinction,30
+2016,%,being at risk of extinction,50
+2016,%,being not-at-risk of extinction,30
+2017,%,being at risk of extinction,50
+2017,%,being not-at-risk of extinction,30
+2018,%,being at risk of extinction,50
+2018,%,being not-at-risk of extinction,30
