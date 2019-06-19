@@ -1,54 +1,45 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2009,,,,,
-2010,,,,,
-2011,,,,,
-2012,,,,,
-2013,,,,,
-2014,,,,,
-2015,,,,,
-2016,,,,,
-2017,,,,,
-2009,%,Capital Adequacy Ratio - Tier 1 leverage ratio,,,7.8
-2009,%,Capital Adequacy Ratio - RWCR,,,11.7
-2009,%,Asset Quality Ratio - NPL/gross loans,,,2.7
-2009,%,Asset Quality Ratio - Total Provision/NPL,,,66.2
-2009,%,Profitability Ratio (Return on Equity),,,21.2
-2009,%,Liquidity Ratio (Liquid Assets to total Assets),,,10
-2010,%,Capital Adequacy Ratio - Tier 1 leverage ratio,,,8.3
-2010,%,Capital Adequacy Ratio - RWCR,,,11.1
-2010,%,Asset Quality Ratio - NPL/gross loans,,,2
-2010,%,Asset Quality Ratio - Total Provision/NPL,,,78.6
-2010,%,Profitability Ratio (Return on Equity),,,23.6
-2010,%,Liquidity Ratio (Liquid Assets to total Assets),,,10.7
-2011,%,Capital Adequacy Ratio - Tier 1 leverage ratio,,,7.8
-2011,%,Capital Adequacy Ratio - RWCR,,,10.8
-2011,%,Asset Quality Ratio - NPL/gross loans,,,1.5
-2011,%,Asset Quality Ratio - Total Provision/NPL,,,94
-2011,%,Profitability Ratio (Return on Equity),,,26.4
-2011,%,Liquidity Ratio (Liquid Assets to total Assets),,,12.4
-2012,%,Capital Adequacy Ratio - Tier 1 leverage ratio,,,8
-2012,%,Capital Adequacy Ratio - RWCR,,,10.9
-2012,%,Asset Quality Ratio - NPL/gross loans,,,1.3
-2012,%,Asset Quality Ratio - Total Provision/NPL,,,91.6
-2012,%,Profitability Ratio (Return on Equity),,,22.7
-2012,%,Liquidity Ratio (Liquid Assets to total Assets),,,10.9
-2013,%,Capital Adequacy Ratio - Tier 1 leverage ratio,,,8.5
-2013,%,Capital Adequacy Ratio - RWCR,,,11.5
-2013,%,Asset Quality Ratio - NPL/gross loans,,,1.3
-2013,%,Asset Quality Ratio - Total Provision/NPL,,,92.8
-2013,%,Profitability Ratio (Return on Equity),,,24
-2013,%,Liquidity Ratio (Liquid Assets to total Assets),,,10.7
-2014,%,Capital Adequacy Ratio - Tier 1 leverage ratio,,,8.9
-2014,%,Capital Adequacy Ratio - RWCR,,,11.9
-2014,%,Asset Quality Ratio - NPL/gross loans,,,1.2
-2014,%,Asset Quality Ratio - Total Provision/NPL,,,82.3
-2014,%,Profitability Ratio (Return on Equity),,,24
-2014,%,Liquidity Ratio (Liquid Assets to total Assets),,,11.5
-2015,%,Capital Adequacy Ratio - Tier 1 leverage ratio,,,9.4
-2015,%,Capital Adequacy Ratio - RWCR,,,11.8
-2015,%,Asset Quality Ratio - NPL/gross loans,,,1.6
-2015,%,Asset Quality Ratio - Total Provision/NPL,,,81.2
-2015,%,Profitability Ratio (Return on Equity),,,24.5
-2015,%,Liquidity Ratio (Liquid Assets to total Assets),,,11.3
-2016,%,Capital Adequacy Ratio - RWCR,,,12.7
-2017,%,Capital Adequacy Ratio - RWCR,,,12.6
+Year,Units,Disaggregation,Value
+2009,%,Capital Adequacy Ratio - Tier 1 leverage ratio,7.8
+2009,%,Capital Adequacy Ratio - RWCR,11.7
+2009,%,Asset Quality Ratio - NPL/gross loans,2.7
+2009,%,Asset Quality Ratio - Total Provision/NPL,66.2
+2009,%,Profitability Ratio (Return on Equity),21.2
+2009,%,Liquidity Ratio (Liquid Assets to total Assets),10
+2010,%,Capital Adequacy Ratio - Tier 1 leverage ratio,8.3
+2010,%,Capital Adequacy Ratio - RWCR,11.1
+2010,%,Asset Quality Ratio - NPL/gross loans,2
+2010,%,Asset Quality Ratio - Total Provision/NPL,78.6
+2010,%,Profitability Ratio (Return on Equity),23.6
+2010,%,Liquidity Ratio (Liquid Assets to total Assets),10.7
+2011,%,Capital Adequacy Ratio - Tier 1 leverage ratio,7.8
+2011,%,Capital Adequacy Ratio - RWCR,10.8
+2011,%,Asset Quality Ratio - NPL/gross loans,1.5
+2011,%,Asset Quality Ratio - Total Provision/NPL,94
+2011,%,Profitability Ratio (Return on Equity),26.4
+2011,%,Liquidity Ratio (Liquid Assets to total Assets),12.4
+2012,%,Capital Adequacy Ratio - Tier 1 leverage ratio,8
+2012,%,Capital Adequacy Ratio - RWCR,10.9
+2012,%,Asset Quality Ratio - NPL/gross loans,1.3
+2012,%,Asset Quality Ratio - Total Provision/NPL,91.6
+2012,%,Profitability Ratio (Return on Equity),22.7
+2012,%,Liquidity Ratio (Liquid Assets to total Assets),10.9
+2013,%,Capital Adequacy Ratio - Tier 1 leverage ratio,8.5
+2013,%,Capital Adequacy Ratio - RWCR,11.5
+2013,%,Asset Quality Ratio - NPL/gross loans,1.3
+2013,%,Asset Quality Ratio - Total Provision/NPL,92.8
+2013,%,Profitability Ratio (Return on Equity),24
+2013,%,Liquidity Ratio (Liquid Assets to total Assets),10.7
+2014,%,Capital Adequacy Ratio - Tier 1 leverage ratio,8.9
+2014,%,Capital Adequacy Ratio - RWCR,11.9
+2014,%,Asset Quality Ratio - NPL/gross loans,1.2
+2014,%,Asset Quality Ratio - Total Provision/NPL,82.3
+2014,%,Profitability Ratio (Return on Equity),24
+2014,%,Liquidity Ratio (Liquid Assets to total Assets),11.5
+2015,%,Capital Adequacy Ratio - Tier 1 leverage ratio,9.4
+2015,%,Capital Adequacy Ratio - RWCR,11.8
+2015,%,Asset Quality Ratio - NPL/gross loans,1.6
+2015,%,Asset Quality Ratio - Total Provision/NPL,81.2
+2015,%,Profitability Ratio (Return on Equity),24.5
+2015,%,Liquidity Ratio (Liquid Assets to total Assets),11.3
+2016,%,Capital Adequacy Ratio - RWCR,12.7
+2017,%,Capital Adequacy Ratio - RWCR,12.6
