@@ -1,4 +1,4 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2013,per 100000,,,,26.8
-2014,per 100000,,,,28.05
-2015,per 100000,,,,28.26
+Year,Units,Disaggregation,Value
+2013,per 100000,Death rate due to road accident *,26.8
+2014,per 100000,Death rate due to road accident *,28.05
+2015,per 100000,Death rate due to road accident *,28.26

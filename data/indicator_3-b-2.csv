@@ -1,14 +1,14 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2004,Mio USD (constant),,,,1.97928
-2005,Mio USD (constant),,,,2.78496
-2006,Mio USD (constant),,,,7.12635
-2007,Mio USD (constant),,,,9.94366
-2008,Mio USD (constant),,,,3.57981
-2009,Mio USD (constant),,,,12.60048
-2010,Mio USD (constant),,,,4.54256
-2011,Mio USD (constant),,,,4.94897
-2012,Mio USD (constant),,,,5.9318
-2013,Mio USD (constant),,,,7.83512
-2014,Mio USD (constant),,,,8.84388
-2015,Mio USD (constant),,,,4.07232
-2016,Mio USD (constant),,,,9.83868
+Year,Units,Disaggregation,Value
+2004,Mio USD (constant),Total,1.97928
+2005,Mio USD (constant),Total,2.78496
+2006,Mio USD (constant),Total,7.12635
+2007,Mio USD (constant),Total,9.94366
+2008,Mio USD (constant),Total,3.57981
+2009,Mio USD (constant),Total,12.60048
+2010,Mio USD (constant),Total,4.54256
+2011,Mio USD (constant),Total,4.94897
+2012,Mio USD (constant),Total,5.9318
+2013,Mio USD (constant),Total,7.83512
+2014,Mio USD (constant),Total,8.84388
+2015,Mio USD (constant),Total,4.07232
+2016,Mio USD (constant),Total,9.83868

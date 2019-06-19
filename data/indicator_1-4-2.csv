@@ -1,6 +1,6 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2016,%,,,,29.6
-2016,%,Proportion of Dwelling Units with Proof,,,35
-2016,%,Proportion of HH owning land & proof (F),,,31.7
-2016,%,Proportion of HH owning land & proof (M),,,28.1
-2017,%,Proof Of Land Ownership,,,66
+Year,Units,Disaggregation,Value
+2016,%,Proportion of Dwelling Units with Proof,35
+2016,%,Proportion of HH owning land & proof (T),29.6
+2016,%,Proportion of HH owning land & proof (F),31.7
+2016,%,Proportion of HH owning land & proof (M),28.1
+2017,%,Proof Of Land Ownership,66

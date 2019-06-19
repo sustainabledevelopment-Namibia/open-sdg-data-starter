@@ -1,8 +1,8 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2010,Mio,,,,0.999
-2011,Mio,,,,1.01
-2012,Mio,,,,1.044
-2013,Mio,,,,1.04
-2014,Mio,,,,1.048
-2015,Mio,,,,1.073
-2016,Mio,,,,1.097
+Year,Units,Disaggregation,Value
+2010,Mio,Total,0.999
+2011,Mio,Total,1.01
+2012,Mio,Total,1.044
+2013,Mio,Total,1.04
+2014,Mio,Total,1.048
+2015,Mio,Total,1.073
+2016,Mio,Total,1.097

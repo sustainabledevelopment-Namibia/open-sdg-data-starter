@@ -1,4 +1,4 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2014,score,,,,66
-2016,score,,,,80.6
-2017,score,,,,79
+Year,Units,Disaggregation,Value
+2014,score,Total,66
+2016,score,Total,80.6
+2017,score,Total,79

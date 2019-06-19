@@ -1,11 +1,10 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2000,per 1000,,,,62
-2006,per 1000,,,,69
-2013,per 1000,,,,
+2000,per 1000,<5y Mortality (T),,,62
 2000,per 1000,<5y Mortality (F),,,54
 2000,per 1000,<5y Mortality (M),,,66.5
 2000,per 1000,<5y Mortality (U),,,49.5
 2000,per 1000,<5y Mortality (R),,,66.1
+2006,per 1000,<5y Mortality (T),,,69
 2006,per 1000,<5y Mortality (F),,,58
 2006,per 1000,<5y Mortality (M),,,79
 2006,per 1000,<5y Mortality (U),,,60
@@ -28,6 +27,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2013,per 1000,<5y Mortality (M),,,64
 2013,per 1000,<5y Mortality (U),,,54
 2013,per 1000,<5y Mortality (R),,,64
+2013,per 1000,<5y Mortality (T),,,54
 2013,per 1000,<5y Mortality (T),!Karas,1,44
 2013,per 1000,<5y Mortality (T),Erongo,2,53
 2013,per 1000,<5y Mortality (T),Hardap,3,38

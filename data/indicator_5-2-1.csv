@@ -1,7 +1,27 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Region,GeoCode,Value
+2013,%,Emotional Total (Ever),,,25
+2013,%,Emotional Urban (Ever),,,24.5
+2013,%,Emotional Rural (Ever),,,25.6
+2013,%,Emotional Total (12months),,,21
+2013,%,Physical Total (Ever),,,23.4
+2013,%,Physical Urban (Ever),,,22.7
+2013,%,Physical Rural (Ever),,,24.5
+2013,%,Physical Total (12months),,,18.7
+2013,%,Sexual Total (Ever),,,7.6
+2013,%,Sexual Urban (Ever),,,8.1
+2013,%,Sexual Rural (Ever),,,6.9
+2013,%,Sexual Total (12months),,,6.6
+2013,%,Emotional Total (Ever),!Karas,1,37.9
+2013,%,Emotional Total (Ever),Erongo,2,27.9
+2013,%,Emotional Total (Ever),Hardap,3,31.8
+2013,%,Emotional Total (Ever),Kavango East,4,50.6
+2013,%,Emotional Total (Ever),Kavango West,5,50.6
+2013,%,Emotional Total (Ever),Khomas,6,34.4
+2013,%,Emotional Total (Ever),Kunene,7,24.8
+2013,%,Emotional Total (Ever),Ohangwena,8,19.5
+2013,%,Emotional Total (Ever),Omaheke,9,38.3
+2013,%,Emotional Total (Ever),Omusati,10,17.1
+2013,%,Emotional Total (Ever),Oshana,11,11.5
+2013,%,Emotional Total (Ever),Oshikoto,12,43.2
+2013,%,Emotional Total (Ever),Otjozondjupa,13,42.9
+2013,%,Emotional Total (Ever),Zambezi,14,35.9
