@@ -1,7 +1,5 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2004,%,,,,37.7
-2010,%,,,,28.7
-2016,%,,,,17.4
+2004,%,Total Pop  (poor),,,37.7
 2004,%,Total Pop  (severely poor),,,21.9
 2004,%,F Pop (head of HH/ poor),,,40.4
 2004,%,M Pop (head of HH/ poor),,,36.0
@@ -37,6 +35,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2004,%,Total Pop  (severely poor),Otjozondjupa,13.0,26.5
 2004,%,Total Pop  (poor),Zambezi,14.0,36.5
 2004,%,Total Pop  (severely poor),Zambezi,14.0,20.3
+2010,%,Total Pop  (poor),,,28.7
 2010,%,Total Pop  (severely poor),,,15.3
 2010,%,F Pop (head of HH/ poor),,,32.2
 2010,%,M Pop (head of HH/ poor),,,26.2
@@ -72,6 +71,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2010,%,Total Pop  (severely poor),Otjozondjupa,13.0,22.2
 2010,%,Total Pop  (poor),Zambezi,14.0,50.2
 2010,%,Total Pop  (severely poor),Zambezi,14.0,35.2
+2016,%,Total Pop  (poor),,,17.4
 2016,%,Total Pop  (severely poor),,,10.7
 2016,%,F Pop (head of HH/ poor),,,19.2
 2016,%,F Pop (head of HH/ severely poor),,,11.2
