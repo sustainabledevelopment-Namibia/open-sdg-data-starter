@@ -13,6 +13,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2004,%,Tree Covered Area,Oshana,11.0,21.408055099520602
 2004,%,Tree Covered Area,Oshikoto,12.0,22.2737614145009
 2004,%,Tree Covered Area,Otjozondjupa,13.0,12.001043729631501
+2004,%,Tree Covered Area,Zambezi,14.0,32.8057699902845
 2005,%,Forest Covered Area,,,9.31
 2005,%,Tree Covered Area,,,9.25
 2005,%,Tree Covered Area,!Karas,1.0,0.541086724762098
@@ -28,6 +29,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2005,%,Tree Covered Area,Oshana,11.0,21.408055099520602
 2005,%,Tree Covered Area,Oshikoto,12.0,22.303868973885002
 2005,%,Tree Covered Area,Otjozondjupa,13.0,12.0597080587021
+2005,%,Tree Covered Area,Zambezi,14.0,32.8882337188873
 2006,%,Tree Covered Area,,,9.29
 2006,%,Tree Covered Area,!Karas,1.0,0.541086724762099
 2006,%,Tree Covered Area,Erongo,2.0,0.22682231159400798
@@ -42,6 +44,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2006,%,Tree Covered Area,Oshana,11.0,21.5241189907849
 2006,%,Tree Covered Area,Oshikoto,12.0,22.3350537371844
 2006,%,Tree Covered Area,Otjozondjupa,13.0,12.226797534512698
+2006,%,Tree Covered Area,Zambezi,14.0,33.2412184196923
 2007,%,Tree Covered Area,,,9.3
 2007,%,Tree Covered Area,!Karas,1.0,0.541155320560209
 2007,%,Tree Covered Area,Erongo,2.0,0.22682231159400798
@@ -56,6 +59,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2007,%,Tree Covered Area,Oshana,11.0,21.5241189907849
 2007,%,Tree Covered Area,Oshikoto,12.0,22.337444463345104
 2007,%,Tree Covered Area,Otjozondjupa,13.0,12.2329786059435
+2007,%,Tree Covered Area,Zambezi,14.0,33.5411538222225
 2008,%,Tree Covered Area,,,9.39
 2008,%,Tree Covered Area,!Karas,1.0,0.541155320560209
 2008,%,Tree Covered Area,Erongo,2.0,0.236151796866475
@@ -70,6 +74,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2008,%,Tree Covered Area,Oshana,11.0,21.525926498551
 2008,%,Tree Covered Area,Oshikoto,12.0,22.4575742078657
 2008,%,Tree Covered Area,Otjozondjupa,13.0,12.5033935838393
+2008,%,Tree Covered Area,Zambezi,14.0,34.0249192623729
 2009,%,Tree Covered Area,,,9.45
 2009,%,Tree Covered Area,!Karas,1.0,0.5411553205602101
 2009,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
@@ -84,6 +89,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2009,%,Tree Covered Area,Oshana,11.0,21.525926498551
 2009,%,Tree Covered Area,Oshikoto,12.0,22.624079434699503
 2009,%,Tree Covered Area,Otjozondjupa,13.0,12.6254926990613
+2009,%,Tree Covered Area,Zambezi,14.0,34.4582579251434
 2010,%,Forest Covered Area,,,8.85
 2010,%,Tree Covered Area,,,9.45
 2010,%,Tree Covered Area,!Karas,1.0,0.5411553205602101
@@ -99,6 +105,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2010,%,Tree Covered Area,Oshana,11.0,21.5265290072261
 2010,%,Tree Covered Area,Oshikoto,12.0,22.624263786658396
 2010,%,Tree Covered Area,Otjozondjupa,13.0,12.629556219085
+2010,%,Tree Covered Area,Zambezi,14.0,34.7237488990054
 2011,%,Tree Covered Area,,,9.46
 2011,%,Tree Covered Area,!Karas,1.0,0.541155320560209
 2011,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
@@ -113,6 +120,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2011,%,Tree Covered Area,Oshana,11.0,21.532965477311002
 2011,%,Tree Covered Area,Oshikoto,12.0,22.669418209361897
 2011,%,Tree Covered Area,Otjozondjupa,13.0,12.6552500999574
+2011,%,Tree Covered Area,Zambezi,14.0,34.7837666186022
 2012,%,Tree Covered Area,,,9.46
 2012,%,Tree Covered Area,!Karas,1.0,0.541155132435043
 2012,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
@@ -127,6 +135,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2012,%,Tree Covered Area,Oshana,11.0,21.532965477311002
 2012,%,Tree Covered Area,Oshikoto,12.0,22.6881487018017
 2012,%,Tree Covered Area,Otjozondjupa,13.0,12.6408481877952
+2012,%,Tree Covered Area,Zambezi,14.0,34.7922180344439
 2013,%,Tree Covered Area,,,9.46
 2013,%,Tree Covered Area,!Karas,1.0,0.541155132435044
 2013,%,Tree Covered Area,Erongo,2.0,0.35839270195620904
@@ -141,6 +150,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2013,%,Tree Covered Area,Oshana,11.0,21.534322271922804
 2013,%,Tree Covered Area,Oshikoto,12.0,22.7157267794574
 2013,%,Tree Covered Area,Otjozondjupa,13.0,12.6429920010584
+2013,%,Tree Covered Area,Zambezi,14.0,34.7994485976579
 2014,%,Tree Covered Area,,,9.55
 2014,%,Tree Covered Area,!Karas,1.0,0.541155132435043
 2014,%,Tree Covered Area,Erongo,2.0,0.6766373551186259
@@ -155,6 +165,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2014,%,Tree Covered Area,Oshana,11.0,21.534322271922804
 2014,%,Tree Covered Area,Oshikoto,12.0,22.725228604724197
 2014,%,Tree Covered Area,Otjozondjupa,13.0,12.868535258327999
+2014,%,Tree Covered Area,Zambezi,14.0,34.8549569679518
 2015,%,Forest Covered Area,,,8.4
 2015,%,Tree Covered Area,,,9.55
 2015,%,Tree Covered Area,!Karas,1.0,0.541155132435043
@@ -170,3 +181,4 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2015,%,Tree Covered Area,Oshana,11.0,21.534322271922804
 2015,%,Tree Covered Area,Oshikoto,12.0,22.725228604724197
 2015,%,Tree Covered Area,Otjozondjupa,13.0,12.868422934000401
+2015,%,Tree Covered Area,Zambezi,14.0,34.8546554268205

@@ -1,1 +1,1 @@
-{"Year":[2013,2014,2015,2016,2017],"Units":["%","%","%","%","%"],"Disaggregation":[null,null,null,null,null],"Region":[null,null,null,null,null],"GeoCode":[null,null,null,null,null],"Value":[96.0,99.2,98.3,98.09,100.09]}
+{"Year":[2013,2014,2015,2016,2017],"Units":["%","%","%","%","%"],"Disaggregation":["Total","Total","Total","Total","Total"],"Value":[96.0,99.2,98.3,98.09,100.09]}

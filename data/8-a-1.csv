@@ -1,36 +1,24 @@
-Year,Unnamed: 1,Disaggregation,Region,GeoCode,Value
-2005,Million USD (constant 2016),,,,
-2006,Million USD (constant 2016),,,,
-2007,Million USD (constant 2016),,,,
-2008,Million USD (constant 2016),,,,
-2009,Million USD (constant 2016),,,,
-2010,Million USD (constant 2016),,,,
-2011,Million USD (constant 2016),,,,
-2012,Million USD (constant 2016),,,,
-2013,Million USD (constant 2016),,,,
-2014,Million USD (constant 2016),,,,
-2015,Million USD (constant 2016),,,,
-2016,Million USD (constant 2016),,,,
-2005,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,29.2
-2006,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,107.2
-2007,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,27.2
-2008,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,82.3
-2009,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,140.8
-2010,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,78.6
-2011,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,48.7
-2012,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,46.2
-2013,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,37.0
-2014,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,23.9
-2015,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,89.1
-2016,Million USD (constant 2016),Total official flows commitments for Aid for Trade,,,62.4
-2006,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,21.2
-2007,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,29.8
-2008,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,32.67
-2009,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,55.96
-2010,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,56.08
-2011,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,96.9
-2012,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,46.31
-2013,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,56.87
-2014,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,67.55
-2015,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,51.7
-2016,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,,,56.53
+Year,Units,Disaggregation,Value
+2005,Million USD (constant 2016),Total official flows commitments for Aid for Trade,29.2
+2006,Million USD (constant 2016),Total official flows commitments for Aid for Trade,107.2
+2006,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,21.2
+2007,Million USD (constant 2016),Total official flows commitments for Aid for Trade,27.5
+2007,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,29.8
+2008,Million USD (constant 2016),Total official flows commitments for Aid for Trade,82.3
+2008,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,32.67
+2009,Million USD (constant 2016),Total official flows commitments for Aid for Trade,140.8
+2009,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,55.96
+2010,Million USD (constant 2016),Total official flows commitments for Aid for Trade,78.6
+2010,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,56.08
+2011,Million USD (constant 2016),Total official flows commitments for Aid for Trade,48.7
+2011,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,96.9
+2012,Million USD (constant 2016),Total official flows commitments for Aid for Trade,46.2
+2012,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,46.31
+2013,Million USD (constant 2016),Total official flows commitments for Aid for Trade,37.0
+2013,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,56.87
+2014,Million USD (constant 2016),Total official flows commitments for Aid for Trade,23.9
+2014,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,67.55
+2015,Million USD (constant 2016),Total official flows commitments for Aid for Trade,89.1
+2015,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,51.7
+2016,Million USD (constant 2016),Total official flows commitments for Aid for Trade,62.4
+2016,Million USD (constant 2016),Total official flows disbursed for Aid for Trade,56.53

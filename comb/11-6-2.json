@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2016],"Units":["g/m3","g/m3"],"Disaggregation":[null,"Urban"],"Region":[null,null],"GeoCode":[null,null],"Value":[22.59,20.95]},"edges":[]}
+{"data":{"Year":[2016,2016],"Units":["g/m3","g/m3"],"Disaggregation":["Total","Urban"],"Value":[22.59,20.95]},"edges":[]}

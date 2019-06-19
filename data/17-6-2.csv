@@ -1,14 +1,14 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2005,%,,,,0.006999999999999999
-2006,%,,,,0.01
-2007,%,,,,0.012
-2008,%,,,,0.015
-2009,%,,,,0.022000000000000002
-2010,%,,,,0.434
-2011,%,,,,0.795
-2012,%,,,,1.062
-2013,%,,,,1.5430000000000001
-2014,%,,,,1.7380000000000002
-2015,%,,,,2.903
-2016,%,,,,2.595
-2017,%,,,,2.522
+Year,Units,Disaggregation,Value
+2005,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.006999999999999999
+2006,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.01
+2007,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.012
+2008,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.015
+2009,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.022000000000000002
+2010,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.434
+2011,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.795
+2012,%,Fixed Internet broadband subscriptions per 100 inhabitants,1.062
+2013,%,Fixed Internet broadband subscriptions per 100 inhabitants,1.5430000000000001
+2014,%,Fixed Internet broadband subscriptions per 100 inhabitants,1.7380000000000002
+2015,%,Fixed Internet broadband subscriptions per 100 inhabitants,2.903
+2016,%,Fixed Internet broadband subscriptions per 100 inhabitants,2.595
+2017,%,Fixed Internet broadband subscriptions per 100 inhabitants,2.522

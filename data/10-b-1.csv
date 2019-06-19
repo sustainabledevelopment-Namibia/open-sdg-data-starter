@@ -1,22 +1,64 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2004,,,,,65.0
-2005,,,,,157.72
-2006,,,,,495.1
-2007,,,,,237.74
-2008,,,,,519.52
-2009,,,,,654.45
-2010,,,,,33.59
-2011,,,,,708.08
-2012,,,,,-769.23
-2013,,,,,280.23
-2014,,,,,-776.95
-2015,,,,,394.2
-2016,,,,,443.23
-2013,Billion N$,Foreign Direct Investment (Billion N$),,,7.26
-2014,Mio USD,Official Development Assistance (Mio USD),,,226.2
-2014,Billion N$,Foreign Direct Investment (Billion N$),,,4.63
-2015,Mio USD,Official Development Assistance (Mio USD),,,142.4
-2015,Billion N$,Foreign Direct Investment (Billion N$),,,15.54
-2016,Mio USD,Official Development Assistance (Mio USD),,,170.0
-2016,Billion N$,Foreign Direct Investment (Billion N$),,,5.36
-2017,Mio USD,Foreign Direct Investment (Billion N$),,,6.82
+2004,Mio USD,Total assistance for Development (Mio USD),,,
+Mio USD,,,,,
+Billion N$,,,,65.0,
+2005,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,157.72,
+2006,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,495.1,
+2007,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,237.74,
+2008,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,519.52,
+2009,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,654.45,
+2010,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,33.59,
+2011,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,708.08,
+2012,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,-769.23,
+2013,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,280.23,
+2013,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Foreign Direct Investment (Billion N$),,,7.26,
+2014,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,-776.95,
+2014,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Official Development Assistance (Mio USD),,,226.2,
+2014,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Foreign Direct Investment (Billion N$),,,4.63,
+2015,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,394.2,
+2015,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Official Development Assistance (Mio USD),,,142.4,
+2015,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Foreign Direct Investment (Billion N$),,,15.54,
+2016,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Total assistance for Development (Mio USD),,,443.23,
+2016,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Official Development Assistance (Mio USD),,,170.0,
+2016,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Foreign Direct Investment (Billion N$),,,5.36,
+2017,Mio USD,,,,
+Mio USD,,,,,
+Billion N$,Foreign Direct Investment (Billion N$),,,6.82,

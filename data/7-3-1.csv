@@ -1,13 +1,13 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2004,MJ per USD constant PPP GDP,,,,3.56
-2005,MJ per USD constant PPP GDP,,,,3.76
-2006,MJ per USD constant PPP GDP,,,,3.52
-2007,MJ per USD constant PPP GDP,,,,3.4
-2008,MJ per USD constant PPP GDP,,,,3.52
-2009,MJ per USD constant PPP GDP,,,,3.58
-2010,MJ per USD constant PPP GDP,,,,3.5
-2011,MJ per USD constant PPP GDP,,,,3.44
-2012,MJ per USD constant PPP GDP,,,,3.39
-2013,MJ per USD constant PPP GDP,,,,3.39
-2014,MJ per USD constant PPP GDP,,,,3.31
-2015,MJ per USD constant PPP GDP,,,,3.26
+Year,Units,Disaggregation,Value
+2004,MJ per USD constant PPP GDP,Total,3.56
+2005,MJ per USD constant PPP GDP,Total,3.76
+2006,MJ per USD constant PPP GDP,Total,3.52
+2007,MJ per USD constant PPP GDP,Total,3.4
+2008,MJ per USD constant PPP GDP,Total,3.52
+2009,MJ per USD constant PPP GDP,Total,3.58
+2010,MJ per USD constant PPP GDP,Total,3.5
+2011,MJ per USD constant PPP GDP,Total,3.44
+2012,MJ per USD constant PPP GDP,Total,3.39
+2013,MJ per USD constant PPP GDP,Total,3.39
+2014,MJ per USD constant PPP GDP,Total,3.31
+2015,MJ per USD constant PPP GDP,Total,3.26

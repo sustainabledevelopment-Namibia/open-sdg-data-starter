@@ -1,1 +1,1 @@
-{"data":{"Year":[2012,2015,2018],"Units":["%","%","%"],"Disaggregation":[null,null,null],"Region":[null,null,null],"GeoCode":[null,null,null],"Value":[67.7,57.0,56.3]},"edges":[]}
+{"data":{"Year":[2012,2015,2018],"Units":["%","%","%"],"Disaggregation":["Total","Total","Total"],"Value":[67.7,57.0,56.3]},"edges":[]}

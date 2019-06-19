@@ -1,19 +1,10 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2009,,,,,
-2011,,,,,
-2012,,,,,
-2013,,,,,
-2014,,,,,
-2015,,,,,
-2016,,,,,
-2017,,,,,
-2018,,,,,
-2009,-,Economic Loss of floods to GDP [%],,,1.0
-2011,-,Economic Loss [Mio USD],,,12.0
-2012,-,Economic Loss [Mio USD],,,12.0
-2013,-,Economic Loss [Mio USD],,,76.0
-2014,-,Economic Loss [Mio USD],,,76.0
-2015,-,Economic Loss [Mio USD],,,124.0
-2016,-,Economic Loss [Mio USD],,,124.0
-2017,-,Economic Loss [Mio USD],,,60.0
-2018,-,Economic Loss [Mio USD],,,60.0
+Year,Units,Disaggregation,Value
+2009,-,Economic Loss of floods to GDP [%],1
+2011,-,Economic Loss [Mio USD],12
+2012,-,Economic Loss [Mio USD],12
+2013,-,Economic Loss [Mio USD],76
+2014,-,Economic Loss [Mio USD],76
+2015,-,Economic Loss [Mio USD],124
+2016,-,Economic Loss [Mio USD],124
+2017,-,Economic Loss [Mio USD],60
+2018,-,Economic Loss [Mio USD],60

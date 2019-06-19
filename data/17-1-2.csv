@@ -1,12 +1,12 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2007,%,,,,21.28834256
-2008,%,,,,21.12935203
-2009,%,,,,22.13816577
-2010,%,,,,23.3320016
-2011,%,,,,24.96670662
-2012,%,,,,22.32744423
-2013,%,,,,23.68232458
-2014,%,,,,23.86947529
-2015,%,,,,23.05124498
-2016,%,,,,21.98404185
-2017,%,,,,21.87933917
+Year,Units,Disaggregation,Value
+2007,%,Share of Government Income [%],21.28834256
+2008,%,Share of Government Income [%],21.12935203
+2009,%,Share of Government Income [%],22.13816577
+2010,%,Share of Government Income [%],23.3320016
+2011,%,Share of Government Income [%],24.96670662
+2012,%,Share of Government Income [%],22.32744423
+2013,%,Share of Government Income [%],23.68232458
+2014,%,Share of Government Income [%],23.86947529
+2015,%,Share of Government Income [%],23.05124498
+2016,%,Share of Government Income [%],21.98404185
+2017,%,Share of Government Income [%],21.87933917

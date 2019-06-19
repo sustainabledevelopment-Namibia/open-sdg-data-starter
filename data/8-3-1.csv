@@ -1,6 +1,6 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2013,%,,,,30.6
-2016,%,,,,60.7
-2018,%,,,,48.72641003
-2016,%,Total F,,,61.8
-2016,%,Total M,,,59.6
+Year,Units,Disaggregation,Value
+2013,%,Total,30.6
+2016,%,Total,60.7
+2016,%,Total F,61.8
+2016,%,Total M,59.6
+2018,%,Total,48.72641003

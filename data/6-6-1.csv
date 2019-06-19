@@ -1,20 +1,5 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2000,sqkm,,,,250.98296000000002
-2001,sqkm,,,,259.69746000000004
-2002,sqkm,,,,258.96608
-2003,sqkm,,,,258.94777999999997
-2004,sqkm,,,,259.65652
-2005,sqkm,,,,258.50748
-2006,sqkm,,,,263.55106
-2007,sqkm,,,,264.52324
-2008,sqkm,,,,271.73344
-2010,sqkm,,,,295.50257999999997
-2015,sqkm,,,,336.19338
-2012,sqkm,,,,332.1081
-2009,sqkm,,,,278.80904
-2011,sqkm,,,,312.50886
-2013,sqkm,,,,337.668
-2014,sqkm,,,,344.7002
+2000,sqkm,Permanent Water Body (5y average),,,250.98296000000002
 2000,sqkm,Permanent Water Body (5y average),!Karas,1.0,52.6449
 2000,sqkm,Permanent Water Body (5y average),Erongo,2.0,56.18036
 2000,sqkm,Permanent Water Body (5y average),Hardap,3.0,35.38556
@@ -28,6 +13,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2000,sqkm,Permanent Water Body (5y average),Oshana,11.0,2.17818
 2000,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.41372
 2000,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,8.618960000000001
+2000,sqkm,Permanent Water Body (5y average),Zambezi,14.0,32.07482
+2001,sqkm,Permanent Water Body (5y average),,,259.69746000000004
 2001,sqkm,Permanent Water Body (5y average),!Karas,1.0,55.01954
 2001,sqkm,Permanent Water Body (5y average),Erongo,2.0,56.8842
 2001,sqkm,Permanent Water Body (5y average),Hardap,3.0,37.1599
@@ -41,6 +28,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2001,sqkm,Permanent Water Body (5y average),Oshana,11.0,1.63358
 2001,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.24068
 2001,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,9.4372
+2001,sqkm,Permanent Water Body (5y average),Zambezi,14.0,31.4925
+2002,sqkm,Permanent Water Body (5y average),,,258.96608
 2002,sqkm,Permanent Water Body (5y average),!Karas,1.0,55.281659999999995
 2002,sqkm,Permanent Water Body (5y average),Erongo,2.0,56.97674
 2002,sqkm,Permanent Water Body (5y average),Hardap,3.0,38.32906
@@ -54,6 +43,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2002,sqkm,Permanent Water Body (5y average),Oshana,11.0,1.3073
 2002,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.24472
 2002,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,8.40472
+2002,sqkm,Permanent Water Body (5y average),Zambezi,14.0,31.675340000000002
+2003,sqkm,Permanent Water Body (5y average),,,258.94777999999997
 2003,sqkm,Permanent Water Body (5y average),!Karas,1.0,54.50014
 2003,sqkm,Permanent Water Body (5y average),Erongo,2.0,58.7124
 2003,sqkm,Permanent Water Body (5y average),Hardap,3.0,38.06692
@@ -67,6 +58,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2003,sqkm,Permanent Water Body (5y average),Oshana,11.0,1.26362
 2003,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.31446
 2003,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,7.98402
+2003,sqkm,Permanent Water Body (5y average),Zambezi,14.0,31.539140000000003
+2004,sqkm,Permanent Water Body (5y average),,,259.65652
 2004,sqkm,Permanent Water Body (5y average),!Karas,1.0,53.5669
 2004,sqkm,Permanent Water Body (5y average),Erongo,2.0,60.29716
 2004,sqkm,Permanent Water Body (5y average),Hardap,3.0,37.34212
@@ -80,6 +73,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2004,sqkm,Permanent Water Body (5y average),Oshana,11.0,1.6843400000000002
 2004,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.24472
 2004,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,8.24162
+2004,sqkm,Permanent Water Body (5y average),Zambezi,14.0,31.82018
+2005,sqkm,Permanent Water Body (5y average),,,258.50748
 2005,sqkm,Permanent Water Body (5y average),!Karas,1.0,52.42222
 2005,sqkm,Permanent Water Body (5y average),Erongo,2.0,62.68048
 2005,sqkm,Permanent Water Body (5y average),Hardap,3.0,36.62774
@@ -93,6 +88,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2005,sqkm,Permanent Water Body (5y average),Oshana,11.0,1.80436
 2005,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.15325999999999998
 2005,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,7.12604
+2005,sqkm,Permanent Water Body (5y average),Zambezi,14.0,31.63488
+2006,sqkm,Permanent Water Body (5y average),,,263.55106
 2006,sqkm,Permanent Water Body (5y average),!Karas,1.0,53.30004
 2006,sqkm,Permanent Water Body (5y average),Erongo,2.0,63.92546
 2006,sqkm,Permanent Water Body (5y average),Hardap,3.0,37.1414
@@ -106,6 +103,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2006,sqkm,Permanent Water Body (5y average),Oshana,11.0,2.2637400000000003
 2006,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.17786
 2006,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,8.10856
+2006,sqkm,Permanent Water Body (5y average),Zambezi,14.0,31.8899
+2007,sqkm,Permanent Water Body (5y average),,,264.52324
 2007,sqkm,Permanent Water Body (5y average),!Karas,1.0,52.92236
 2007,sqkm,Permanent Water Body (5y average),Erongo,2.0,64.62312
 2007,sqkm,Permanent Water Body (5y average),Hardap,3.0,36.27328
@@ -119,6 +118,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2007,sqkm,Permanent Water Body (5y average),Oshana,11.0,2.6553400000000003
 2007,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.17194
 2007,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,8.75666
+2007,sqkm,Permanent Water Body (5y average),Zambezi,14.0,32.246140000000004
+2008,sqkm,Permanent Water Body (5y average),,,271.73344
 2008,sqkm,Permanent Water Body (5y average),!Karas,1.0,53.573440000000005
 2008,sqkm,Permanent Water Body (5y average),Erongo,2.0,65.57715999999999
 2008,sqkm,Permanent Water Body (5y average),Hardap,3.0,37.13232
@@ -132,6 +133,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2008,sqkm,Permanent Water Body (5y average),Oshana,11.0,3.14038
 2008,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.09644
 2008,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,10.23586
+2008,sqkm,Permanent Water Body (5y average),Zambezi,14.0,34.92006
+2009,sqkm,Permanent Water Body (5y average),,,278.80904
 2009,sqkm,Permanent Water Body (5y average),!Karas,1.0,53.6003
 2009,sqkm,Permanent Water Body (5y average),Erongo,2.0,65.67728000000001
 2009,sqkm,Permanent Water Body (5y average),Hardap,3.0,38.131040000000006
@@ -145,6 +148,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2009,sqkm,Permanent Water Body (5y average),Oshana,11.0,4.11408
 2009,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.09834
 2009,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,11.40188
+2009,sqkm,Permanent Water Body (5y average),Zambezi,14.0,38.784859999999995
+2010,sqkm,Permanent Water Body (5y average),,,295.50257999999997
 2010,sqkm,Permanent Water Body (5y average),!Karas,1.0,53.760180000000005
 2010,sqkm,Permanent Water Body (5y average),Erongo,2.0,66.609
 2010,sqkm,Permanent Water Body (5y average),Hardap,3.0,39.04984
@@ -158,6 +163,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2010,sqkm,Permanent Water Body (5y average),Oshana,11.0,4.39
 2010,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.10898
 2010,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,12.095
+2010,sqkm,Permanent Water Body (5y average),Zambezi,14.0,52.53832
+2011,sqkm,Permanent Water Body (5y average),,,312.50886
 2011,sqkm,Permanent Water Body (5y average),!Karas,1.0,53.463440000000006
 2011,sqkm,Permanent Water Body (5y average),Erongo,2.0,67.73214
 2011,sqkm,Permanent Water Body (5y average),Hardap,3.0,39.34178
@@ -171,6 +178,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2011,sqkm,Permanent Water Body (5y average),Oshana,11.0,5.02462
 2011,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.11548
 2011,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,12.14708
+2011,sqkm,Permanent Water Body (5y average),Zambezi,14.0,67.84828
+2012,sqkm,Permanent Water Body (5y average),,,332.1081
 2012,sqkm,Permanent Water Body (5y average),!Karas,1.0,53.7244
 2012,sqkm,Permanent Water Body (5y average),Erongo,2.0,67.88248
 2012,sqkm,Permanent Water Body (5y average),Hardap,3.0,40.528459999999995
@@ -184,6 +193,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2012,sqkm,Permanent Water Body (5y average),Oshana,11.0,6.201280000000001
 2012,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.17684
 2012,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,12.84314
+2012,sqkm,Permanent Water Body (5y average),Zambezi,14.0,83.72258000000001
+2013,sqkm,Permanent Water Body (5y average),,,337.668
 2013,sqkm,Permanent Water Body (5y average),!Karas,1.0,52.90996
 2013,sqkm,Permanent Water Body (5y average),Erongo,2.0,67.33476
 2013,sqkm,Permanent Water Body (5y average),Hardap,3.0,39.17982
@@ -197,6 +208,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2013,sqkm,Permanent Water Body (5y average),Oshana,11.0,5.85554
 2013,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.17464000000000002
 2013,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,11.67302
+2013,sqkm,Permanent Water Body (5y average),Zambezi,14.0,95.3766
+2014,sqkm,Permanent Water Body (5y average),,,344.7002
 2014,sqkm,Permanent Water Body (5y average),!Karas,1.0,52.601519999999994
 2014,sqkm,Permanent Water Body (5y average),Erongo,2.0,67.06044
 2014,sqkm,Permanent Water Body (5y average),Hardap,3.0,38.21434
@@ -210,6 +223,8 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2014,sqkm,Permanent Water Body (5y average),Oshana,11.0,5.63936
 2014,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.16088
 2014,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,12.35684
+2014,sqkm,Permanent Water Body (5y average),Zambezi,14.0,105.07988
+2015,sqkm,Permanent Water Body (5y average),,,336.19338
 2015,sqkm,Permanent Water Body (5y average),!Karas,1.0,51.842040000000004
 2015,sqkm,Permanent Water Body (5y average),Erongo,2.0,66.98194000000001
 2015,sqkm,Permanent Water Body (5y average),Hardap,3.0,37.42328
@@ -223,3 +238,4 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2015,sqkm,Permanent Water Body (5y average),Oshana,11.0,4.512980000000001
 2015,sqkm,Permanent Water Body (5y average),Oshikoto,12.0,0.12925999999999999
 2015,sqkm,Permanent Water Body (5y average),Otjozondjupa,13.0,11.26004
+2015,sqkm,Permanent Water Body (5y average),Zambezi,14.0,101.30691999999999
