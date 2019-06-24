@@ -1,8 +1,8 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2012,%,Total,,,4.5
+2012,%,,,,4.5
 2012,%,Female,,,3.1
 2012,%,Male,,,5.8
-2013,%,Total,,,4.8
+2013,%,,,,4.8
 2013,%,Female,,,3.1
 2013,%,Male,,,6.4
 2013,%,Total,!Karas,1,10
@@ -19,6 +19,6 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2013,%,Total,Oshikoto,12,2.3
 2013,%,Total,Otjozondjupa,13,3.6
 2013,%,Total,Zambezi,14,0.8
-2016,%,Total,,,6.6
+2016,%,,,,6.6
 2016,%,Female,,,4.6
 2016,%,Male,,,8.3
