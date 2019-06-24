@@ -1,10 +1,10 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2000,per 1000,Total,,,20
+2000,per 1000,,,,20
 2000,per 1000,Female,,,16.3
 2000,per 1000,Male,,,28.5
 2000,per 1000,Urban,,,12.7
 2000,per 1000,Rural,,,27.7
-2006,per 1000,Total,,,24
+2006,per 1000,,,,24
 2006,per 1000,Female,,,19
 2006,per 1000,Male,,,32
 2006,per 1000,Urban,,,24
@@ -23,7 +23,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2006,per 1000,Total,Oshikoto,12,17
 2006,per 1000,Total,Otjozondjupa,13,19
 2006,per 1000,Total,Zambezi,14,39
-2013,per 1000,Total,,,20
+2013,per 1000,,,,20
 2013,per 1000,Female,,,14
 2013,per 1000,Male,,,23
 2013,per 1000,Urban,,,16
