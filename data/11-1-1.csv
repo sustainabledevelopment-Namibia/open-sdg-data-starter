@@ -1,5 +1,5 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2011,%,Total,,,16.0
+2011,%,,,,16.0
 2011,%,Urban,,,27.2
 2011,%,Rural,,,5.0
 2011,%,Total,!Karas,1.0,26.0
@@ -16,7 +16,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2011,%,Total,Oshikoto,12.0,4.8
 2011,%,Total,Otjozondjupa,13.0,17.7
 2011,%,Total,Zambezi,14.0,13.6
-2016,%,Total,,,26.6
+2016,%,,,,26.6
 2016,%,Urban,,,39.7
 2016,%,Rural,,,10.6
 2016,%,Total,!Karas,1.0,25.2
