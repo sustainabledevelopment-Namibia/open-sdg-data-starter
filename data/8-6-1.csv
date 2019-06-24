@@ -1,5 +1,5 @@
 Year,Units,Disaggregation,Region,GeoCode,Value
-2013,%,Total (15-24y),,,32.0
+2013,%,,,,32.0
 2013,%,Female (15-24y),,,36.6
 2013,%,Male (15-24y),,,27.2
 2013,%,Total (15-34y),,,33.8
@@ -19,7 +19,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2013,%,Total (15-34y),Oshikoto,12.0,30.9
 2013,%,Total (15-34y),Otjozondjupa,13.0,33.1
 2013,%,Total (15-34y),Zambezi,14.0,28.6
-2014,%,Total (15-24y),,,22.0
+2014,%,,,,22.0
 2014,%,Female (15-24y),,,23.9
 2014,%,Male (15-24y),,,20.1
 2014,%,Total (15-34y),,,24.1
@@ -39,7 +39,7 @@ Year,Units,Disaggregation,Region,GeoCode,Value
 2014,%,Total (15-34y),Oshikoto,12.0,20.1
 2014,%,Total (15-34y),Otjozondjupa,13.0,29.7
 2014,%,Total (15-34y),Zambezi,14.0,23.6
-2016,%,Total (15-24y),,,33.4
+2016,%,,,,33.4
 2016,%,Female (15-24y),,,39.3
 2016,%,Male (15-24y),,,27.7
 2016,%,Total (15-34y),,,34.5
