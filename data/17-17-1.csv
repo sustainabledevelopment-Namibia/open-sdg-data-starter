@@ -1,7 +1,7 @@
 Year,Units,Disaggregation,Value
-2010,Mio USD,Total,1
-2010,Mio USD,Electricity,1
-2017,Mio USD,Total,51
-2017,Mio USD,Electricity,51
-2018,Mio USD,Total,77
-2018,Mio USD,Electricity,77
+2010,Million USD,,1
+2010,Million USD,Electricity,1
+2017,Million USD,,51
+2017,Million USD,Electricity,51
+2018,Million USD,,77
+2018,Million USD,Electricity,77
