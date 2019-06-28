@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2016,2016],"Units":["%","%","%"],"Disaggregation":["Total","Total F","Total M"],"Value":[3.0,2.0,3.9]},"edges":[]}
+{"data":{"Year":[2016,2016,2016],"Units":["%","%","%"],"Total":["Total",null,null],"Disaggregation":[null,"Female","Male"],"Value":[3.0,2.0,3.9]},"edges":[]}
