@@ -1,62 +1,62 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2012,Number,Number (Total),,,12340
-2012,Number,Number (F),,,6195
-2012,Number,Number (M),,,6145
-2015,Number,Number (Total),,,23278
-2015,Number,Number (F),,,11879
-2015,Number,Number (M),,,11399
-2015,%,Proportion (T),,,40.38094577
-2015,%,Proportion (F),,,41.53932231
-2015,%,Proportion (M),,,39.24059348
-2015,Number,Number (Total),!Karas,1,923
-2015,Number,Number (Total),Erongo,2,1187
-2015,Number,Number (Total),Hardap,3,1062
-2015,Number,Number (Total),Kavango East,4,1241
-2015,Number,Number (Total),Kavango West,5,1367
-2015,Number,Number (Total),Khomas,6,2174
-2015,Number,Number (Total),Kunene,7,1347
-2015,Number,Number (Total),Ohangwena,8,2517
-2015,Number,Number (Total),Omaheke,9,842
-2015,Number,Number (Total),Omusati,10,2646
-2015,Number,Number (Total),Oshana,11,1923
-2015,Number,Number (Total),Oshikoto,12,2577
-2015,Number,Number (Total),Otjozondjupa,13,1766
-2015,Number,Number (Total),Zambezi,14,1706
-2016,Number,Number (Total),,,27753
-2016,Number,Number (F),,,14192
-2016,Number,Number (M),,,13561
-2016,%,Proportion (T),,,46.48821588
-2016,%,Proportion (F),,,47.92166132
-2016,Number,Proportion (M),,,45.0771174
-2016,Number,Number (Total),!Karas,1,1050
-2016,Number,Number (Total),Erongo,2,1208
-2016,Number,Number (Total),Hardap,3,1168
-2016,Number,Number (Total),Kavango East,4,1727
-2016,Number,Number (Total),Kavango West,5,1655
-2016,Number,Number (Total),Khomas,6,2762
-2016,Number,Number (Total),Kunene,7,1543
-2016,Number,Number (Total),Ohangwena,8,3228
-2016,Number,Number (Total),Omaheke,9,898
-2016,Number,Number (Total),Omusati,10,3657
-2016,Number,Number (Total),Oshana,11,1933
-2016,Number,Number (Total),Oshikoto,12,3008
-2016,Number,Number (Total),Otjozondjupa,13,1920
-2016,Number,Number (Total),Zambezi,14,1996
-2017,Number,Number (Total),,,30624
-2017,Number,Number (F),,,15589
-2017,Number,Number (M),,,15035
-2017,%,Proportion (T),,,49
-2017,Number,Number (Total),!Karas,1,1120
-2017,Number,Number (Total),Erongo,2,1271
-2017,Number,Number (Total),Hardap,3,1227
-2017,Number,Number (Total),Kavango East,4,2153
-2017,Number,Number (Total),Kavango West,5,1868
-2017,Number,Number (Total),Khomas,6,3199
-2017,Number,Number (Total),Kunene,7,1541
-2017,Number,Number (Total),Ohangwena,8,3829
-2017,Number,Number (Total),Omaheke,9,968
-2017,Number,Number (Total),Omusati,10,3763
-2017,Number,Number (Total),Oshana,11,2264
-2017,Number,Number (Total),Oshikoto,12,3306
-2017,Number,Number (Total),Otjozondjupa,13,2096
-2017,Number,Number (Total),Zambezi,14,2019
+Year,Units,Total,Disaggregation,Region,GeoCode,Value
+2012,Number,Total,,,,12340
+2012,Number,,Female,,,6195
+2012,Number,,Male,,,6145
+2015,Number,Total,,,,23278
+2015,Number,,Female,,,11879
+2015,Number,,Male,,,11399
+2015,%,Total,,,,40.38094577
+2015,%,,Female,,,41.53932231
+2015,%,,Male,,,39.24059348
+2015,Number,,,!Karas,1,923
+2015,Number,,,Erongo,2,1187
+2015,Number,,,Hardap,3,1062
+2015,Number,,,Kavango East,4,1241
+2015,Number,,,Kavango West,5,1367
+2015,Number,,,Khomas,6,2174
+2015,Number,,,Kunene,7,1347
+2015,Number,,,Ohangwena,8,2517
+2015,Number,,,Omaheke,9,842
+2015,Number,,,Omusati,10,2646
+2015,Number,,,Oshana,11,1923
+2015,Number,,,Oshikoto,12,2577
+2015,Number,,,Otjozondjupa,13,1766
+2015,Number,,,Zambezi,14,1706
+2016,Number,Total,,,,27753
+2016,Number,,Female,,,14192
+2016,Number,,Male,,,13561
+2016,%,Total,,,,46.48821588
+2016,%,,Female,,,47.92166132
+2016,Number,,Male,,,45.0771174
+2016,Number,,,!Karas,1,1050
+2016,Number,,,Erongo,2,1208
+2016,Number,,,Hardap,3,1168
+2016,Number,,,Kavango East,4,1727
+2016,Number,,,Kavango West,5,1655
+2016,Number,,,Khomas,6,2762
+2016,Number,,,Kunene,7,1543
+2016,Number,,,Ohangwena,8,3228
+2016,Number,,,Omaheke,9,898
+2016,Number,,,Omusati,10,3657
+2016,Number,,,Oshana,11,1933
+2016,Number,,,Oshikoto,12,3008
+2016,Number,,,Otjozondjupa,13,1920
+2016,Number,,,Zambezi,14,1996
+2017,Number,Total,,,,30624
+2017,Number,,Female,,,15589
+2017,Number,,Male,,,15035
+2017,%,Total,,,,49
+2017,Number,,,!Karas,1,1120
+2017,Number,,,Erongo,2,1271
+2017,Number,,,Hardap,3,1227
+2017,Number,,,Kavango East,4,2153
+2017,Number,,,Kavango West,5,1868
+2017,Number,,,Khomas,6,3199
+2017,Number,,,Kunene,7,1541
+2017,Number,,,Ohangwena,8,3829
+2017,Number,,,Omaheke,9,968
+2017,Number,,,Omusati,10,3763
+2017,Number,,,Oshana,11,2264
+2017,Number,,,Oshikoto,12,3306
+2017,Number,,,Otjozondjupa,13,2096
+2017,Number,,,Zambezi,14,2019
