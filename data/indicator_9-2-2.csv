@@ -1,24 +1,24 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2012,%,,,,4.5
-2012,%,Female,,,3.1
-2012,%,Male,,,5.8
-2013,%,,,,4.8
-2013,%,Female,,,3.1
-2013,%,Male,,,6.4
-2013,%,Total,!Karas,1,10
-2013,%,Total,Erongo,2,12.3
-2013,%,Total,Hardap,3,2.8
-2013,%,Total,Kavango East,4,0.7
-2013,%,Total,Kavango West,5,0.7
-2013,%,Total,Khomas,6,7.2
-2013,%,Total,Kunene,7,5.4
-2013,%,Total,Ohangwena,8,1.1
-2013,%,Total,Omaheke,9,3.6
-2013,%,Total,Omusati,10,1.2
-2013,%,Total,Oshana,11,5
-2013,%,Total,Oshikoto,12,2.3
-2013,%,Total,Otjozondjupa,13,3.6
-2013,%,Total,Zambezi,14,0.8
-2016,%,,,,6.6
-2016,%,Female,,,4.6
-2016,%,Male,,,8.3
+Year,Units,Total,Disaggregation,Region,Value
+2012,%,Total,,,4.5
+2012,%,,Female,,3.1
+2012,%,,Male,,5.8
+2013,%,Total,,,4.8
+2013,%,,Female,,3.1
+2013,%,,Male,,6.4
+2013,%,,,!Karas,10
+2013,%,,,Erongo,12.3
+2013,%,,,Hardap,2.8
+2013,%,,,Kavango East,0.7
+2013,%,,,Kavango West,0.7
+2013,%,,,Khomas,7.2
+2013,%,,,Kunene,5.4
+2013,%,,,Ohangwena,1.1
+2013,%,,,Omaheke,3.6
+2013,%,,,Omusati,1.2
+2013,%,,,Oshana,5
+2013,%,,,Oshikoto,2.3
+2013,%,,,Otjozondjupa,3.6
+2013,%,,,Zambezi,0.8
+2016,%,Total,,,6.6
+2016,%,,Female,,4.6
+2016,%,,Male,,8.3
