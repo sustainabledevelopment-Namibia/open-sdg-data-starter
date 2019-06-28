@@ -1,18 +1,18 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2013,%,,,,3.7
-2013,%,Urban,,,3.9
-2013,%,Rural,,,3.5
-2013,%,Total,!Karas,1.0,5.6
-2013,%,Total,Erongo,2.0,4.4
-2013,%,Total,Hardap,3.0,7.2
-2013,%,Total,Kavango East,4.0,10.0
-2013,%,Total,Kavango West,5.0,10.0
-2013,%,Total,Khomas,6.0,3.5
-2013,%,Total,Kunene,7.0,1.4
-2013,%,Total,Ohangwena,8.0,1.5
-2013,%,Total,Omaheke,9.0,7.8
-2013,%,Total,Omusati,10.0,1.5
-2013,%,Total,Oshana,11.0,1.4
-2013,%,Total,Oshikoto,12.0,3.1
-2013,%,Total,Otjozondjupa,13.0,2.3
-2013,%,Total,Zambezi,14.0,4.0
+Year,Units,Total,Disaggregation,Region,GeoCode,Value
+2013,%,Total,,,,3.7
+2013,%,,Urban,,,3.9
+2013,%,,Rural,,,3.5
+2013,%,,,!Karas,1.0,5.6
+2013,%,,,Erongo,2.0,4.4
+2013,%,,,Hardap,3.0,7.2
+2013,%,,,Kavango East,4.0,10.0
+2013,%,,,Kavango West,5.0,10.0
+2013,%,,,Khomas,6.0,3.5
+2013,%,,,Kunene,7.0,1.4
+2013,%,,,Ohangwena,8.0,1.5
+2013,%,,,Omaheke,9.0,7.8
+2013,%,,,Omusati,10.0,1.5
+2013,%,,,Oshana,11.0,1.4
+2013,%,,,Oshikoto,12.0,3.1
+2013,%,,,Otjozondjupa,13.0,2.3
+2013,%,,,Zambezi,14.0,4.0
