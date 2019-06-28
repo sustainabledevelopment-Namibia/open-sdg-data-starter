@@ -1,6 +1,6 @@
-Year,Units,Disaggregation,Value
-2010,per 100000,,14.45
-2011,per 100000,,13.9
-2012,per 100000,,17.14
-2012,per 100000,Male,31.66
-2012,per 100000,Female,3.48
+Year,Units,Total,Disaggregation,Value
+2010,per 100000,Total,,14.45
+2011,per 100000,Total,,13.9
+2012,per 100000,Total,,17.14
+2012,per 100000,,Male,31.66
+2012,per 100000,,Female,3.48
