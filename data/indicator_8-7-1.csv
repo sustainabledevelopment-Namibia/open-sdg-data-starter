@@ -1,4 +1,4 @@
-Year,Units,Disaggregation,Value
-2016,%,Total,3
-2016,%,Total F,2
-2016,%,Total M,3.9
+Year,Units,Total,Disaggregation,Value
+2016,%,Total,,3
+2016,%,,Female,2
+2016,%,,Male,3.9
