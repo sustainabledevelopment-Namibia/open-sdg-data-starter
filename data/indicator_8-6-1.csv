@@ -1,61 +1,61 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2013,%,,,,32
-2013,%,Female (15-24y),,,36.6
-2013,%,Male (15-24y),,,27.2
-2013,%,Total (15-34y),,,33.8
-2013,%,Urban(15y-34y),,,32.5
-2013,%,Rural (15-34y),,,35.2
-2013,%,Total (15-34y),!Karas,1,34.1
-2013,%,Total (15-34y),Erongo,2,29.8
-2013,%,Total (15-34y),Hardap,3,40.8
-2013,%,Total (15-34y),Kavango East,4,38.7
-2013,%,Total (15-34y),Kavango West,5,38.7
-2013,%,Total (15-34y),Khomas,6,30.8
-2013,%,Total (15-34y),Kunene,7,46.2
-2013,%,Total (15-34y),Ohangwena,8,33.8
-2013,%,Total (15-34y),Omaheke,9,33.4
-2013,%,Total (15-34y),Omusati,10,33.6
-2013,%,Total (15-34y),Oshana,11,36.9
-2013,%,Total (15-34y),Oshikoto,12,30.9
-2013,%,Total (15-34y),Otjozondjupa,13,33.1
-2013,%,Total (15-34y),Zambezi,14,28.6
-2014,%,,,,22
-2014,%,Female (15-24y),,,23.9
-2014,%,Male (15-24y),,,20.1
-2014,%,Total (15-34y),,,24.1
-2014,%,Urban(15y-34y),,,23
-2014,%,Rural (15-34y),,,25.3
-2014,%,Total (15-34y),!Karas,1,23.4
-2014,%,Total (15-34y),Erongo,2,24
-2014,%,Total (15-34y),Hardap,3,28.6
-2014,%,Total (15-34y),Kavango East,4,26.2
-2014,%,Total (15-34y),Kavango West,5,19.6
-2014,%,Total (15-34y),Khomas,6,21
-2014,%,Total (15-34y),Kunene,7,30
-2014,%,Total (15-34y),Ohangwena,8,27.7
-2014,%,Total (15-34y),Omaheke,9,22.3
-2014,%,Total (15-34y),Omusati,10,21.2
-2014,%,Total (15-34y),Oshana,11,26.7
-2014,%,Total (15-34y),Oshikoto,12,20.1
-2014,%,Total (15-34y),Otjozondjupa,13,29.7
-2014,%,Total (15-34y),Zambezi,14,23.6
-2016,%,,,,33.4
-2016,%,Female (15-24y),,,39.3
-2016,%,Male (15-24y),,,27.7
-2016,%,Total (15-34y),,,34.5
-2016,%,Urban(15y-34y),,,32.5
-2016,%,Rural (15-34y),,,36.9
-2016,%,Total (15-34y),!Karas,1,33.8
-2016,%,Total (15-34y),Erongo,2,25
-2016,%,Total (15-34y),Hardap,3,44.1
-2016,%,Total (15-34y),Kavango East,4,37.3
-2016,%,Total (15-34y),Kavango West,5,36.4
-2016,%,Total (15-34y),Khomas,6,31.9
-2016,%,Total (15-34y),Kunene,7,58.6
-2016,%,Total (15-34y),Ohangwena,8,34
-2016,%,Total (15-34y),Omaheke,9,33.9
-2016,%,Total (15-34y),Omusati,10,32.4
-2016,%,Total (15-34y),Oshana,11,31.3
-2016,%,Total (15-34y),Oshikoto,12,34.6
-2016,%,Total (15-34y),Otjozondjupa,13,38.6
-2016,%,Total (15-34y),Zambezi,14,39.3
+Year,Units,Total,Disaggregation,Region,Value
+2013,%,Total,,,32
+2013,%,,Female (15-24y),,36.6
+2013,%,,Male (15-24y),,27.2
+2013,%,,Total (15-34y),,33.8
+2013,%,,Urban(15y-34y),,32.5
+2013,%,,Rural (15-34y),,35.2
+2013,%,,,!Karas,34.1
+2013,%,,,Erongo,29.8
+2013,%,,,Hardap,40.8
+2013,%,,,Kavango East,38.7
+2013,%,,,Kavango West,38.7
+2013,%,,,Khomas,30.8
+2013,%,,,Kunene,46.2
+2013,%,,,Ohangwena,33.8
+2013,%,,,Omaheke,33.4
+2013,%,,,Omusati,33.6
+2013,%,,,Oshana,36.9
+2013,%,,,Oshikoto,30.9
+2013,%,,,Otjozondjupa,33.1
+2013,%,,,Zambezi,28.6
+2014,%,Total,,,22
+2014,%,,Female (15-24y),,23.9
+2014,%,,Male (15-24y),,20.1
+2014,%,,Total (15-34y),,24.1
+2014,%,,Urban(15y-34y),,23
+2014,%,,Rural (15-34y),,25.3
+2014,%,,,!Karas,23.4
+2014,%,,,Erongo,24
+2014,%,,,Hardap,28.6
+2014,%,,,Kavango East,26.2
+2014,%,,,Kavango West,19.6
+2014,%,,,Khomas,21
+2014,%,,,Kunene,30
+2014,%,,,Ohangwena,27.7
+2014,%,,,Omaheke,22.3
+2014,%,,,Omusati,21.2
+2014,%,,,Oshana,26.7
+2014,%,,,Oshikoto,20.1
+2014,%,,,Otjozondjupa,29.7
+2014,%,,,Zambezi,23.6
+2016,%,Total,,,33.4
+2016,%,,Female (15-24y),,39.3
+2016,%,,Male (15-24y),,27.7
+2016,%,,Total (15-34y),,34.5
+2016,%,,Urban(15y-34y),,32.5
+2016,%,,Rural (15-34y),,36.9
+2016,%,,,!Karas,33.8
+2016,%,,,Erongo,25
+2016,%,,,Hardap,44.1
+2016,%,,,Kavango East,37.3
+2016,%,,,Kavango West,36.4
+2016,%,,,Khomas,31.9
+2016,%,,,Kunene,58.6
+2016,%,,,Ohangwena,34
+2016,%,,,Omaheke,33.9
+2016,%,,,Omusati,32.4
+2016,%,,,Oshana,31.3
+2016,%,,,Oshikoto,34.6
+2016,%,,,Otjozondjupa,38.6
+2016,%,,,Zambezi,39.3
