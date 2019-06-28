@@ -1,35 +1,35 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2010,%,,,,61.7
-2010,%,Urban,,,88.4
-2010,%,Rural,,,41.3
-2010,%,Total,!Karas,1,59.5
-2010,%,Total,Erongo,2,86.2
-2010,%,Total,Hardap,3,52
-2010,%,Total,Kavango East,4,72.3
-2010,%,Total,Kavango West,5,72.3
-2010,%,Total,Khomas,6,89.1
-2010,%,Total,Kunene,7,33.2
-2010,%,Total,Ohangwena,8,30.7
-2010,%,Total,Omaheke,9,52.2
-2010,%,Total,Omusati,10,44
-2010,%,Total,Oshana,11,62.6
-2010,%,Total,Oshikoto,12,43.2
-2010,%,Total,Otjozondjupa,13,47
-2010,%,Total,Zambezi,14,66.7
-2016,%,,,,65.8
-2016,%,Urban,,,82.6
-2016,%,Rural,,,45.9
-2016,%,Total,!Karas,1,74.1
-2016,%,Total,Erongo,2,89
-2016,%,Total,Hardap,3,48.2
-2016,%,Total,Kavango East,4,74.5
-2016,%,Total,Kavango West,5,68.9
-2016,%,Total,Khomas,6,78.9
-2016,%,Total,Kunene,7,48.7
-2016,%,Total,Ohangwena,8,46
-2016,%,Total,Omaheke,9,50.1
-2016,%,Total,Omusati,10,45.3
-2016,%,Total,Oshana,11,73.9
-2016,%,Total,Oshikoto,12,44.4
-2016,%,Total,Otjozondjupa,13,61.4
-2016,%,Total,Zambezi,14,87.9
+Year,Units,Total,Disaggregation,Region,Value
+2010,%,Total,,,61.7
+2010,%,,Urban,,88.4
+2010,%,,Rural,,41.3
+2010,%,,,!Karas,59.5
+2010,%,,,Erongo,86.2
+2010,%,,,Hardap,52
+2010,%,,,Kavango East,72.3
+2010,%,,,Kavango West,72.3
+2010,%,,,Khomas,89.1
+2010,%,,,Kunene,33.2
+2010,%,,,Ohangwena,30.7
+2010,%,,,Omaheke,52.2
+2010,%,,,Omusati,44
+2010,%,,,Oshana,62.6
+2010,%,,,Oshikoto,43.2
+2010,%,,,Otjozondjupa,47
+2010,%,,,Zambezi,66.7
+2016,%,Total,,,65.8
+2016,%,,Urban,,82.6
+2016,%,,Rural,,45.9
+2016,%,,,!Karas,74.1
+2016,%,,,Erongo,89
+2016,%,,,Hardap,48.2
+2016,%,,,Kavango East,74.5
+2016,%,,,Kavango West,68.9
+2016,%,,,Khomas,78.9
+2016,%,,,Kunene,48.7
+2016,%,,,Ohangwena,46
+2016,%,,,Omaheke,50.1
+2016,%,,,Omusati,45.3
+2016,%,,,Oshana,73.9
+2016,%,,,Oshikoto,44.4
+2016,%,,,Otjozondjupa,61.4
+2016,%,,,Zambezi,87.9
