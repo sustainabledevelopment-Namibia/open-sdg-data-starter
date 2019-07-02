@@ -1,259 +1,259 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2012,%,Electricity,,,71.7
-2012,%,Water,,,97.4
-2012,%,Sanitation for learners,,,90.8
-2012,%,Electricity,!Karas,1,98
-2012,%,Water,!Karas,1,100
-2012,%,Sanitation for learners,!Karas,1,100
-2012,%,Electricity,Erongo,2,90.9
-2012,%,Water,Erongo,2,97
-2012,%,Sanitation for learners,Erongo,2,92.4
-2012,%,Electricity,Hardap,3,98.2
-2012,%,Water,Hardap,3,100
-2012,%,Sanitation for learners,Hardap,3,100
-2012,%,Electricity,Khomas,6,98
-2012,%,Water,Khomas,6,100
-2012,%,Sanitation for learners,Khomas,6,100
-2012,%,Electricity,Kunene,7,71.7
-2012,%,Water,Kunene,7,91.7
-2012,%,Sanitation for learners,Kunene,7,80
-2012,%,Electricity,Ohangwena,8,44
-2012,%,Water,Ohangwena,8,68.7
-2012,%,Sanitation for learners,Ohangwena,8,82.3
-2012,%,Electricity,Omaheke,9,92.9
-2012,%,Water,Omaheke,9,100
-2012,%,Sanitation for learners,Omaheke,9,95.2
-2012,%,Electricity,Omusati,10,49.6
-2012,%,Water,Omusati,10,93.1
-2012,%,Sanitation for learners,Omusati,10,78.8
-2012,%,Electricity,Oshana,11,64.2
-2012,%,Water,Oshana,11,97.8
-2012,%,Sanitation for learners,Oshana,11,95.6
-2012,%,Electricity,Oshikoto,12,52
-2012,%,Water,Oshikoto,12,85.5
-2012,%,Sanitation for learners,Oshikoto,12,65
-2012,%,Electricity,Otjozondjupa,13,84.7
-2012,%,Water,Otjozondjupa,13,97.2
-2012,%,Sanitation for learners,Otjozondjupa,13,91.7
-2012,%,Electricity,Zambezi,14,57.8
-2012,%,Water,Zambezi,14,76.5
-2012,%,Sanitation for learners,Zambezi,14,70.6
-2013,%,Electricity,,,71.3
-2013,%,Water,,,96.8
-2013,%,Sanitation for learners,,,90.5
-2013,%,Electricity,!Karas,1,100
-2013,%,Water,!Karas,1,100
-2013,%,Sanitation for learners,!Karas,1,100
-2013,%,Electricity,Erongo,2,93.8
-2013,%,Water,Erongo,2,100
-2013,%,Sanitation for learners,Erongo,2,96.9
-2013,%,Electricity,Hardap,3,96.4
-2013,%,Water,Hardap,3,98.2
-2013,%,Sanitation for learners,Hardap,3,100
-2013,%,Electricity,Khomas,6,95.1
-2013,%,Water,Khomas,6,97.1
-2013,%,Sanitation for learners,Khomas,6,98.1
-2013,%,Electricity,Kunene,7,68.3
-2013,%,Water,Kunene,7,87.3
-2013,%,Sanitation for learners,Kunene,7,76.2
-2013,%,Electricity,Ohangwena,8,44
-2013,%,Water,Ohangwena,8,68.7
-2013,%,Sanitation for learners,Ohangwena,8,82.3
-2013,%,Electricity,Omaheke,9,92.9
-2013,%,Water,Omaheke,9,100
-2013,%,Sanitation for learners,Omaheke,9,95.2
-2013,%,Electricity,Omusati,10,49.5
-2013,%,Water,Omusati,10,92.7
-2013,%,Sanitation for learners,Omusati,10,78.5
-2013,%,Electricity,Oshana,11,63.3
-2013,%,Water,Oshana,11,96.4
-2013,%,Sanitation for learners,Oshana,11,95.7
-2013,%,Electricity,Oshikoto,12,52
-2013,%,Water,Oshikoto,12,84.7
-2013,%,Sanitation for learners,Oshikoto,12,64.4
-2013,%,Electricity,Otjozondjupa,13,84.7
-2013,%,Water,Otjozondjupa,13,97.2
-2013,%,Sanitation for learners,Otjozondjupa,13,91.7
-2013,%,Electricity,Zambezi,14,57.8
-2013,%,Water,Zambezi,14,76.5
-2013,%,Sanitation for learners,Zambezi,14,70.6
-2014,%,Electricity,,,71.1
-2014,%,Water,,,81.3
-2014,%,Sanitation for learners,,,79.5
-2014,%,Electricity,!Karas,1,100
-2014,%,Water,!Karas,1,100
-2014,%,Sanitation for learners,!Karas,1,98
-2014,%,Electricity,Erongo,2,95.1
-2014,%,Water,Erongo,2,95.1
-2014,%,Sanitation for learners,Erongo,2,96.7
-2014,%,Electricity,Hardap,3,98.2
-2014,%,Water,Hardap,3,98.2
-2014,%,Sanitation for learners,Hardap,3,100
-2014,%,Electricity,Kavango East,4,64.7
-2014,%,Water,Kavango East,4,58.2
-2014,%,Sanitation for learners,Kavango East,4,61.4
-2014,%,Electricity,Kavango West,5,44.8
-2014,%,Water,Kavango West,5,58.7
-2014,%,Sanitation for learners,Kavango West,5,53.5
-2014,%,Electricity,Khomas,6,91.5
-2014,%,Water,Khomas,6,92.5
-2014,%,Sanitation for learners,Khomas,6,96.2
-2014,%,Electricity,Kunene,7,73
-2014,%,Water,Kunene,7,88.9
-2014,%,Sanitation for learners,Kunene,7,96.8
-2014,%,Electricity,Ohangwena,8,65.5
-2014,%,Water,Ohangwena,8,80.3
-2014,%,Sanitation for learners,Ohangwena,8,92
-2014,%,Electricity,Omaheke,9,88.4
-2014,%,Water,Omaheke,9,90.7
-2014,%,Sanitation for learners,Omaheke,9,100
-2014,%,Electricity,Omusati,10,75.2
-2014,%,Water,Omusati,10,93.1
-2014,%,Sanitation for learners,Omusati,10,86.5
-2014,%,Electricity,Oshana,11,89.1
-2014,%,Water,Oshana,11,97.1
-2014,%,Sanitation for learners,Oshana,11,96.4
-2014,%,Electricity,Oshikoto,12,67.5
-2014,%,Water,Oshikoto,12,90.1
-2014,%,Sanitation for learners,Oshikoto,12,79.8
-2014,%,Electricity,Otjozondjupa,13,93.2
-2014,%,Water,Otjozondjupa,13,94.5
-2014,%,Sanitation for learners,Otjozondjupa,13,98.6
-2014,%,Electricity,Zambezi,14,70.8
-2014,%,Water,Zambezi,14,77.4
-2014,%,Sanitation for learners,Zambezi,14,74.5
-2015,%,Electricity,,,78
-2015,%,Water,,,86.6
-2015,%,Sanitation for learners,,,82.4
-2015,%,Electricity,!Karas,1,96
-2015,%,Water,!Karas,1,94
-2015,%,Sanitation for learners,!Karas,1,98
-2015,%,Electricity,Erongo,2,95.2
-2015,%,Water,Erongo,2,98.4
-2015,%,Sanitation for learners,Erongo,2,93.7
-2015,%,Electricity,Hardap,3,96.5
-2015,%,Water,Hardap,3,100
-2015,%,Sanitation for learners,Hardap,3,96.5
-2015,%,Electricity,Kavango East,4,68.4
-2015,%,Water,Kavango East,4,67.1
-2015,%,Sanitation for learners,Kavango East,4,57
-2015,%,Electricity,Kavango West,5,51.7
-2015,%,Water,Kavango West,5,66.5
-2015,%,Sanitation for learners,Kavango West,5,56.3
-2015,%,Electricity,Khomas,6,96.3
-2015,%,Water,Khomas,6,97.2
-2015,%,Sanitation for learners,Khomas,6,94.4
-2015,%,Electricity,Kunene,7,77.9
-2015,%,Water,Kunene,7,86.8
-2015,%,Sanitation for learners,Kunene,7,91.2
-2015,%,Electricity,Ohangwena,8,74.6
-2015,%,Water,Ohangwena,8,84.9
-2015,%,Sanitation for learners,Ohangwena,8,91.7
-2015,%,Electricity,Omaheke,9,97.7
-2015,%,Water,Omaheke,9,97.7
-2015,%,Sanitation for learners,Omaheke,9,100
-2015,%,Electricity,Omusati,10,82.2
-2015,%,Water,Omusati,10,94.6
-2015,%,Sanitation for learners,Omusati,10,88
-2015,%,Electricity,Oshana,11,93.5
-2015,%,Water,Oshana,11,98.6
-2015,%,Sanitation for learners,Oshana,11,92.8
-2015,%,Electricity,Oshikoto,12,64.2
-2015,%,Water,Oshikoto,12,88.7
-2015,%,Sanitation for learners,Oshikoto,12,76.4
-2015,%,Electricity,Otjozondjupa,13,90.8
-2015,%,Water,Otjozondjupa,13,96.1
-2015,%,Sanitation for learners,Otjozondjupa,13,97.4
-2015,%,Electricity,Zambezi,14,75.7
-2015,%,Water,Zambezi,14,72.9
-2015,%,Sanitation for learners,Zambezi,14,68.2
-2016,%,Electricity,,,79.8
-2016,%,Water,,,86.8
-2016,%,Sanitation for learners,,,83.5
-2016,%,Electricity,!Karas,1,100
-2016,%,Water,!Karas,1,100
-2016,%,Sanitation for learners,!Karas,1,96.2
-2016,%,Electricity,Erongo,2,98.5
-2016,%,Water,Erongo,2,98.5
-2016,%,Sanitation for learners,Erongo,2,96.9
-2016,%,Electricity,Hardap,3,100
-2016,%,Water,Hardap,3,100
-2016,%,Sanitation for learners,Hardap,3,98.3
-2016,%,Electricity,Kavango East,4,68.7
-2016,%,Water,Kavango East,4,64.4
-2016,%,Sanitation for learners,Kavango East,4,58.3
-2016,%,Electricity,Kavango West,5,50.6
-2016,%,Water,Kavango West,5,67.6
-2016,%,Sanitation for learners,Kavango West,5,55.7
-2016,%,Electricity,Khomas,6,95.7
-2016,%,Water,Khomas,6,99.1
-2016,%,Sanitation for learners,Khomas,6,95.7
-2016,%,Electricity,Kunene,7,80.8
-2016,%,Water,Kunene,7,90.4
-2016,%,Sanitation for learners,Kunene,7,84.9
-2016,%,Electricity,Ohangwena,8,76.3
-2016,%,Water,Ohangwena,8,85.2
-2016,%,Sanitation for learners,Ohangwena,8,93.8
-2016,%,Electricity,Omaheke,9,95.5
-2016,%,Water,Omaheke,9,95.5
-2016,%,Sanitation for learners,Omaheke,9,95.5
-2016,%,Electricity,Omusati,10,81.1
-2016,%,Water,Omusati,10,92.1
-2016,%,Sanitation for learners,Omusati,10,87.9
-2016,%,Electricity,Oshana,11,95.6
-2016,%,Water,Oshana,11,99.3
-2016,%,Sanitation for learners,Oshana,11,94.1
-2016,%,Electricity,Oshikoto,12,71.7
-2016,%,Water,Oshikoto,12,88.6
-2016,%,Sanitation for learners,Oshikoto,12,78.5
-2016,%,Electricity,Otjozondjupa,13,96.2
-2016,%,Water,Otjozondjupa,13,97.4
-2016,%,Sanitation for learners,Otjozondjupa,13,96.2
-2016,%,Electricity,Zambezi,14,78
-2016,%,Water,Zambezi,14,75.2
-2016,%,Sanitation for learners,Zambezi,14,78
-2017,%,Electricity,,,81.7
-2017,%,Water,,,88.6
-2017,%,Sanitation for learners,,,86.7
-2017,%,Electricity,!Karas,1,100
-2017,%,Water,!Karas,1,100
-2017,%,Sanitation for learners,!Karas,1,98.2
-2017,%,Electricity,Erongo,2,100
-2017,%,Water,Erongo,2,100
-2017,%,Sanitation for learners,Erongo,2,98.6
-2017,%,Electricity,Hardap,3,100
-2017,%,Water,Hardap,3,100
-2017,%,Sanitation for learners,Hardap,3,100
-2017,%,Electricity,Kavango East,4,71.3
-2017,%,Water,Kavango East,4,67.1
-2017,%,Sanitation for learners,Kavango East,4,61.6
-2017,%,Electricity,Kavango West,5,54
-2017,%,Water,Kavango West,5,73.3
-2017,%,Sanitation for learners,Kavango West,5,60.2
-2017,%,Electricity,Khomas,6,95.9
-2017,%,Water,Khomas,6,99.2
-2017,%,Sanitation for learners,Khomas,6,98.3
-2017,%,Electricity,Kunene,7,89.6
-2017,%,Water,Kunene,7,92.5
-2017,%,Sanitation for learners,Kunene,7,94
-2017,%,Electricity,Ohangwena,8,77.9
-2017,%,Water,Ohangwena,8,85.5
-2017,%,Sanitation for learners,Ohangwena,8,94.7
-2017,%,Electricity,Omaheke,9,95.5
-2017,%,Water,Omaheke,9,95.5
-2017,%,Sanitation for learners,Omaheke,9,97.7
-2017,%,Electricity,Omusati,10,82.6
-2017,%,Water,Omusati,10,94.3
-2017,%,Sanitation for learners,Omusati,10,92.6
-2017,%,Electricity,Oshana,11,97.8
-2017,%,Water,Oshana,11,99.3
-2017,%,Sanitation for learners,Oshana,11,96.4
-2017,%,Electricity,Oshikoto,12,72.6
-2017,%,Water,Oshikoto,12,90.4
-2017,%,Sanitation for learners,Oshikoto,12,82.2
-2017,%,Electricity,Otjozondjupa,13,96.2
-2017,%,Water,Otjozondjupa,13,97.5
-2017,%,Sanitation for learners,Otjozondjupa,13,97.5
-2017,%,Electricity,Zambezi,14,79.5
-2017,%,Water,Zambezi,14,78.6
-2017,%,Sanitation for learners,Zambezi,14,79.5
+Year,Units,Total,Disaggregation,Region,GeoCode,Value
+2012,%,Electricity,,,,71.7
+2012,%,Water,,,,97.4
+2012,%,Sanitation for learners,,,,90.8
+2012,%,,Electricity,!Karas,1,98
+2012,%,,Water,!Karas,1,100
+2012,%,,Sanitation for learners,!Karas,1,100
+2012,%,,Electricity,Erongo,2,90.9
+2012,%,,Water,Erongo,2,97
+2012,%,,Sanitation for learners,Erongo,2,92.4
+2012,%,,Electricity,Hardap,3,98.2
+2012,%,,Water,Hardap,3,100
+2012,%,,Sanitation for learners,Hardap,3,100
+2012,%,,Electricity,Khomas,6,98
+2012,%,,Water,Khomas,6,100
+2012,%,,Sanitation for learners,Khomas,6,100
+2012,%,,Electricity,Kunene,7,71.7
+2012,%,,Water,Kunene,7,91.7
+2012,%,,Sanitation for learners,Kunene,7,80
+2012,%,,Electricity,Ohangwena,8,44
+2012,%,,Water,Ohangwena,8,68.7
+2012,%,,Sanitation for learners,Ohangwena,8,82.3
+2012,%,,Electricity,Omaheke,9,92.9
+2012,%,,Water,Omaheke,9,100
+2012,%,,Sanitation for learners,Omaheke,9,95.2
+2012,%,,Electricity,Omusati,10,49.6
+2012,%,,Water,Omusati,10,93.1
+2012,%,,Sanitation for learners,Omusati,10,78.8
+2012,%,,Electricity,Oshana,11,64.2
+2012,%,,Water,Oshana,11,97.8
+2012,%,,Sanitation for learners,Oshana,11,95.6
+2012,%,,Electricity,Oshikoto,12,52
+2012,%,,Water,Oshikoto,12,85.5
+2012,%,,Sanitation for learners,Oshikoto,12,65
+2012,%,,Electricity,Otjozondjupa,13,84.7
+2012,%,,Water,Otjozondjupa,13,97.2
+2012,%,,Sanitation for learners,Otjozondjupa,13,91.7
+2012,%,,Electricity,Zambezi,14,57.8
+2012,%,,Water,Zambezi,14,76.5
+2012,%,,Sanitation for learners,Zambezi,14,70.6
+2013,%,Electricity,,,,71.3
+2013,%,Water,,,,96.8
+2013,%,Sanitation for learners,,,,90.5
+2013,%,,Electricity,!Karas,1,100
+2013,%,,Water,!Karas,1,100
+2013,%,,Sanitation for learners,!Karas,1,100
+2013,%,,Electricity,Erongo,2,93.8
+2013,%,,Water,Erongo,2,100
+2013,%,,Sanitation for learners,Erongo,2,96.9
+2013,%,,Electricity,Hardap,3,96.4
+2013,%,,Water,Hardap,3,98.2
+2013,%,,Sanitation for learners,Hardap,3,100
+2013,%,,Electricity,Khomas,6,95.1
+2013,%,,Water,Khomas,6,97.1
+2013,%,,Sanitation for learners,Khomas,6,98.1
+2013,%,,Electricity,Kunene,7,68.3
+2013,%,,Water,Kunene,7,87.3
+2013,%,,Sanitation for learners,Kunene,7,76.2
+2013,%,,Electricity,Ohangwena,8,44
+2013,%,,Water,Ohangwena,8,68.7
+2013,%,,Sanitation for learners,Ohangwena,8,82.3
+2013,%,,Electricity,Omaheke,9,92.9
+2013,%,,Water,Omaheke,9,100
+2013,%,,Sanitation for learners,Omaheke,9,95.2
+2013,%,,Electricity,Omusati,10,49.5
+2013,%,,Water,Omusati,10,92.7
+2013,%,,Sanitation for learners,Omusati,10,78.5
+2013,%,,Electricity,Oshana,11,63.3
+2013,%,,Water,Oshana,11,96.4
+2013,%,,Sanitation for learners,Oshana,11,95.7
+2013,%,,Electricity,Oshikoto,12,52
+2013,%,,Water,Oshikoto,12,84.7
+2013,%,,Sanitation for learners,Oshikoto,12,64.4
+2013,%,,Electricity,Otjozondjupa,13,84.7
+2013,%,,Water,Otjozondjupa,13,97.2
+2013,%,,Sanitation for learners,Otjozondjupa,13,91.7
+2013,%,,Electricity,Zambezi,14,57.8
+2013,%,,Water,Zambezi,14,76.5
+2013,%,,Sanitation for learners,Zambezi,14,70.6
+2014,%,,Electricity,,,71.1
+2014,%,,Water,,,81.3
+2014,%,,Sanitation for learners,,,79.5
+2014,%,,Electricity,!Karas,1,100
+2014,%,,Water,!Karas,1,100
+2014,%,,Sanitation for learners,!Karas,1,98
+2014,%,,Electricity,Erongo,2,95.1
+2014,%,,Water,Erongo,2,95.1
+2014,%,,Sanitation for learners,Erongo,2,96.7
+2014,%,,Electricity,Hardap,3,98.2
+2014,%,,Water,Hardap,3,98.2
+2014,%,,Sanitation for learners,Hardap,3,100
+2014,%,,Electricity,Kavango East,4,64.7
+2014,%,,Water,Kavango East,4,58.2
+2014,%,,Sanitation for learners,Kavango East,4,61.4
+2014,%,,Electricity,Kavango West,5,44.8
+2014,%,,Water,Kavango West,5,58.7
+2014,%,,Sanitation for learners,Kavango West,5,53.5
+2014,%,,Electricity,Khomas,6,91.5
+2014,%,,Water,Khomas,6,92.5
+2014,%,,Sanitation for learners,Khomas,6,96.2
+2014,%,,Electricity,Kunene,7,73
+2014,%,,Water,Kunene,7,88.9
+2014,%,,Sanitation for learners,Kunene,7,96.8
+2014,%,,Electricity,Ohangwena,8,65.5
+2014,%,,Water,Ohangwena,8,80.3
+2014,%,,Sanitation for learners,Ohangwena,8,92
+2014,%,,Electricity,Omaheke,9,88.4
+2014,%,,Water,Omaheke,9,90.7
+2014,%,,Sanitation for learners,Omaheke,9,100
+2014,%,,Electricity,Omusati,10,75.2
+2014,%,,Water,Omusati,10,93.1
+2014,%,,Sanitation for learners,Omusati,10,86.5
+2014,%,,Electricity,Oshana,11,89.1
+2014,%,,Water,Oshana,11,97.1
+2014,%,,Sanitation for learners,Oshana,11,96.4
+2014,%,,Electricity,Oshikoto,12,67.5
+2014,%,,Water,Oshikoto,12,90.1
+2014,%,,Sanitation for learners,Oshikoto,12,79.8
+2014,%,,Electricity,Otjozondjupa,13,93.2
+2014,%,,Water,Otjozondjupa,13,94.5
+2014,%,,Sanitation for learners,Otjozondjupa,13,98.6
+2014,%,,Electricity,Zambezi,14,70.8
+2014,%,,Water,Zambezi,14,77.4
+2014,%,,Sanitation for learners,Zambezi,14,74.5
+2015,%,Electricity,,,,78
+2015,%,Water,,,,86.6
+2015,%,Sanitation for learners,,,,82.4
+2015,%,,Electricity,!Karas,1,96
+2015,%,,Water,!Karas,1,94
+2015,%,,Sanitation for learners,!Karas,1,98
+2015,%,,Electricity,Erongo,2,95.2
+2015,%,,Water,Erongo,2,98.4
+2015,%,,Sanitation for learners,Erongo,2,93.7
+2015,%,,Electricity,Hardap,3,96.5
+2015,%,,Water,Hardap,3,100
+2015,%,,Sanitation for learners,Hardap,3,96.5
+2015,%,,Electricity,Kavango East,4,68.4
+2015,%,,Water,Kavango East,4,67.1
+2015,%,,Sanitation for learners,Kavango East,4,57
+2015,%,,Electricity,Kavango West,5,51.7
+2015,%,,Water,Kavango West,5,66.5
+2015,%,,Sanitation for learners,Kavango West,5,56.3
+2015,%,,Electricity,Khomas,6,96.3
+2015,%,,Water,Khomas,6,97.2
+2015,%,,Sanitation for learners,Khomas,6,94.4
+2015,%,,Electricity,Kunene,7,77.9
+2015,%,,Water,Kunene,7,86.8
+2015,%,,Sanitation for learners,Kunene,7,91.2
+2015,%,,Electricity,Ohangwena,8,74.6
+2015,%,,Water,Ohangwena,8,84.9
+2015,%,,Sanitation for learners,Ohangwena,8,91.7
+2015,%,,Electricity,Omaheke,9,97.7
+2015,%,,Water,Omaheke,9,97.7
+2015,%,,Sanitation for learners,Omaheke,9,100
+2015,%,,Electricity,Omusati,10,82.2
+2015,%,,Water,Omusati,10,94.6
+2015,%,,Sanitation for learners,Omusati,10,88
+2015,%,,Electricity,Oshana,11,93.5
+2015,%,,Water,Oshana,11,98.6
+2015,%,,Sanitation for learners,Oshana,11,92.8
+2015,%,,Electricity,Oshikoto,12,64.2
+2015,%,,Water,Oshikoto,12,88.7
+2015,%,,Sanitation for learners,Oshikoto,12,76.4
+2015,%,,Electricity,Otjozondjupa,13,90.8
+2015,%,,Water,Otjozondjupa,13,96.1
+2015,%,,Sanitation for learners,Otjozondjupa,13,97.4
+2015,%,,Electricity,Zambezi,14,75.7
+2015,%,,Water,Zambezi,14,72.9
+2015,%,,Sanitation for learners,Zambezi,14,68.2
+2016,%,Electricity,,,,79.8
+2016,%,Water,,,,86.8
+2016,%,Sanitation for learners,,,,83.5
+2016,%,,Electricity,!Karas,1,100
+2016,%,,Water,!Karas,1,100
+2016,%,,Sanitation for learners,!Karas,1,96.2
+2016,%,,Electricity,Erongo,2,98.5
+2016,%,,Water,Erongo,2,98.5
+2016,%,,Sanitation for learners,Erongo,2,96.9
+2016,%,,Electricity,Hardap,3,100
+2016,%,,Water,Hardap,3,100
+2016,%,,Sanitation for learners,Hardap,3,98.3
+2016,%,,Electricity,Kavango East,4,68.7
+2016,%,,Water,Kavango East,4,64.4
+2016,%,,Sanitation for learners,Kavango East,4,58.3
+2016,%,,Electricity,Kavango West,5,50.6
+2016,%,,Water,Kavango West,5,67.6
+2016,%,,Sanitation for learners,Kavango West,5,55.7
+2016,%,,Electricity,Khomas,6,95.7
+2016,%,,Water,Khomas,6,99.1
+2016,%,,Sanitation for learners,Khomas,6,95.7
+2016,%,,Electricity,Kunene,7,80.8
+2016,%,,Water,Kunene,7,90.4
+2016,%,,Sanitation for learners,Kunene,7,84.9
+2016,%,,Electricity,Ohangwena,8,76.3
+2016,%,,Water,Ohangwena,8,85.2
+2016,%,,Sanitation for learners,Ohangwena,8,93.8
+2016,%,,Electricity,Omaheke,9,95.5
+2016,%,,Water,Omaheke,9,95.5
+2016,%,,Sanitation for learners,Omaheke,9,95.5
+2016,%,,Electricity,Omusati,10,81.1
+2016,%,,Water,Omusati,10,92.1
+2016,%,,Sanitation for learners,Omusati,10,87.9
+2016,%,,Electricity,Oshana,11,95.6
+2016,%,,Water,Oshana,11,99.3
+2016,%,,Sanitation for learners,Oshana,11,94.1
+2016,%,,Electricity,Oshikoto,12,71.7
+2016,%,,Water,Oshikoto,12,88.6
+2016,%,,Sanitation for learners,Oshikoto,12,78.5
+2016,%,,Electricity,Otjozondjupa,13,96.2
+2016,%,,Water,Otjozondjupa,13,97.4
+2016,%,,Sanitation for learners,Otjozondjupa,13,96.2
+2016,%,,Electricity,Zambezi,14,78
+2016,%,,Water,Zambezi,14,75.2
+2016,%,,Sanitation for learners,Zambezi,14,78
+2017,%,Electricity,,,,81.7
+2017,%,Water,,,,88.6
+2017,%,Sanitation for learners,,,,86.7
+2017,%,,Electricity,!Karas,1,100
+2017,%,,Water,!Karas,1,100
+2017,%,,Sanitation for learners,!Karas,1,98.2
+2017,%,,Electricity,Erongo,2,100
+2017,%,,Water,Erongo,2,100
+2017,%,,Sanitation for learners,Erongo,2,98.6
+2017,%,,Electricity,Hardap,3,100
+2017,%,,Water,Hardap,3,100
+2017,%,,Sanitation for learners,Hardap,3,100
+2017,%,,Electricity,Kavango East,4,71.3
+2017,%,,Water,Kavango East,4,67.1
+2017,%,,Sanitation for learners,Kavango East,4,61.6
+2017,%,,Electricity,Kavango West,5,54
+2017,%,,Water,Kavango West,5,73.3
+2017,%,,Sanitation for learners,Kavango West,5,60.2
+2017,%,,Electricity,Khomas,6,95.9
+2017,%,,Water,Khomas,6,99.2
+2017,%,,Sanitation for learners,Khomas,6,98.3
+2017,%,,Electricity,Kunene,7,89.6
+2017,%,,Water,Kunene,7,92.5
+2017,%,,Sanitation for learners,Kunene,7,94
+2017,%,,Electricity,Ohangwena,8,77.9
+2017,%,,Water,Ohangwena,8,85.5
+2017,%,,Sanitation for learners,Ohangwena,8,94.7
+2017,%,,Electricity,Omaheke,9,95.5
+2017,%,,Water,Omaheke,9,95.5
+2017,%,,Sanitation for learners,Omaheke,9,97.7
+2017,%,,Electricity,Omusati,10,82.6
+2017,%,,Water,Omusati,10,94.3
+2017,%,,Sanitation for learners,Omusati,10,92.6
+2017,%,,Electricity,Oshana,11,97.8
+2017,%,,Water,Oshana,11,99.3
+2017,%,,Sanitation for learners,Oshana,11,96.4
+2017,%,,Electricity,Oshikoto,12,72.6
+2017,%,,Water,Oshikoto,12,90.4
+2017,%,,Sanitation for learners,Oshikoto,12,82.2
+2017,%,,Electricity,Otjozondjupa,13,96.2
+2017,%,,Water,Otjozondjupa,13,97.5
+2017,%,,Sanitation for learners,Otjozondjupa,13,97.5
+2017,%,,Electricity,Zambezi,14,79.5
+2017,%,,Water,Zambezi,14,78.6
+2017,%,,Sanitation for learners,Zambezi,14,79.5
