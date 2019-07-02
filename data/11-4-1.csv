@@ -1,65 +1,65 @@
-Year,Units,Disaggregation,Value
-2008,N$ (constant 2013),,352.7502252
-2008,N$ (constant 2013),Government,251.95995630000002
-2008,N$ (constant 2013),Private,33.76696687
-2008,N$ (constant 2013),GEF,40.82012913
-2008,N$ (constant 2013),US Gov,10.87044481
-2008,N$ (constant 2013),German Gov,9.222288809
-2008,N$ (constant 2013),WWF,0.0
-2008,N$ (constant 2013),Others,6.110439235
-2009,N$ (constant 2013),,385.7741366
-2009,N$ (constant 2013),Government,279.3049643
-2009,N$ (constant 2013),Private,35.17463393
-2009,N$ (constant 2013),GEF,52.32827543
-2009,N$ (constant 2013),US Gov,0.656221741
-2009,N$ (constant 2013),German Gov,13.33041939
-2009,N$ (constant 2013),WWF,0.0
-2009,N$ (constant 2013),Others,4.979621836000001
-2010,N$ (constant 2013),,447.6181476
-2010,N$ (constant 2013),Government,326.9400957
-2010,N$ (constant 2013),Private,36.09062363
-2010,N$ (constant 2013),GEF,52.54516777
-2010,N$ (constant 2013),US Gov,9.387689332999999
-2010,N$ (constant 2013),German Gov,18.13405425
-2010,N$ (constant 2013),WWF,0.0
-2010,N$ (constant 2013),Others,4.520516881
-2011,N$ (constant 2013),,453.7950951
-2011,N$ (constant 2013),Government,341.84685460000003
-2011,N$ (constant 2013),Private,37.84430657
-2011,N$ (constant 2013),GEF,43.29614889
-2011,N$ (constant 2013),US Gov,18.25249457
-2011,N$ (constant 2013),German Gov,9.095189077
-2011,N$ (constant 2013),WWF,0.0
-2011,N$ (constant 2013),Others,3.4601014460000004
-2012,N$ (constant 2013),,505.9979358
-2012,N$ (constant 2013),Government,345.2203497
-2012,N$ (constant 2013),Private,39.36961034
-2012,N$ (constant 2013),GEF,40.15755702
-2012,N$ (constant 2013),US Gov,69.3338337
-2012,N$ (constant 2013),German Gov,8.787938147
-2012,N$ (constant 2013),WWF,0.0
-2012,N$ (constant 2013),Others,3.1286468810000003
-2013,N$ (constant 2013),,486.5364426
-2013,N$ (constant 2013),Government,302.5448202
-2013,N$ (constant 2013),Private,39.58467488
-2013,N$ (constant 2013),GEF,21.26147989
-2013,N$ (constant 2013),US Gov,102.6546767
-2013,N$ (constant 2013),German Gov,6.5773538789999995
-2013,N$ (constant 2013),WWF,11.03720204
-2013,N$ (constant 2013),Others,2.8762350480000003
-2014,N$ (constant 2013),,470.64470769999997
-2014,N$ (constant 2013),Government,308.92519060000006
-2014,N$ (constant 2013),Private,40.17245172
-2014,N$ (constant 2013),GEF,16.85686188
-2014,N$ (constant 2013),US Gov,74.63037958
-2014,N$ (constant 2013),German Gov,17.52601152
-2014,N$ (constant 2013),WWF,9.122469992000001
-2014,N$ (constant 2013),Others,3.4113424219999997
-2015,N$ (constant 2013),,480.3700628
-2015,N$ (constant 2013),Government,337.20863030000004
-2015,N$ (constant 2013),Private,40.12908459
-2015,N$ (constant 2013),GEF,12.39788212
-2015,N$ (constant 2013),US Gov,42.71782046
-2015,N$ (constant 2013),German Gov,37.86165514
-2015,N$ (constant 2013),WWF,6.130732695
-2015,N$ (constant 2013),Others,3.924257505
+Year,Units,Total,Disaggregation,Value
+2008,N$ (constant 2013),Total,,352.7502252
+2008,N$ (constant 2013),,Government,251.95995630000002
+2008,N$ (constant 2013),,Private,33.76696687
+2008,N$ (constant 2013),,GEF,40.82012913
+2008,N$ (constant 2013),,US Gov,10.87044481
+2008,N$ (constant 2013),,German Gov,9.222288809
+2008,N$ (constant 2013),,WWF,0.0
+2008,N$ (constant 2013),,Others,6.110439235
+2009,N$ (constant 2013),Total,,385.7741366
+2009,N$ (constant 2013),,Government,279.3049643
+2009,N$ (constant 2013),,Private,35.17463393
+2009,N$ (constant 2013),,GEF,52.32827543
+2009,N$ (constant 2013),,US Gov,0.656221741
+2009,N$ (constant 2013),,German Gov,13.33041939
+2009,N$ (constant 2013),,WWF,0.0
+2009,N$ (constant 2013),,Others,4.979621836000001
+2010,N$ (constant 2013),Total,,447.6181476
+2010,N$ (constant 2013),,Government,326.9400957
+2010,N$ (constant 2013),,Private,36.09062363
+2010,N$ (constant 2013),,GEF,52.54516777
+2010,N$ (constant 2013),,US Gov,9.387689332999999
+2010,N$ (constant 2013),,German Gov,18.13405425
+2010,N$ (constant 2013),,WWF,0.0
+2010,N$ (constant 2013),,Others,4.520516881
+2011,N$ (constant 2013),Total,,453.7950951
+2011,N$ (constant 2013),,Government,341.84685460000003
+2011,N$ (constant 2013),,Private,37.84430657
+2011,N$ (constant 2013),,GEF,43.29614889
+2011,N$ (constant 2013),,US Gov,18.25249457
+2011,N$ (constant 2013),,German Gov,9.095189077
+2011,N$ (constant 2013),,WWF,0.0
+2011,N$ (constant 2013),,Others,3.4601014460000004
+2012,N$ (constant 2013),Total,,505.9979358
+2012,N$ (constant 2013),,Government,345.2203497
+2012,N$ (constant 2013),,Private,39.36961034
+2012,N$ (constant 2013),,GEF,40.15755702
+2012,N$ (constant 2013),,US Gov,69.3338337
+2012,N$ (constant 2013),,German Gov,8.787938147
+2012,N$ (constant 2013),,WWF,0.0
+2012,N$ (constant 2013),,Others,3.1286468810000003
+2013,N$ (constant 2013),Total,,486.5364426
+2013,N$ (constant 2013),,Government,302.5448202
+2013,N$ (constant 2013),,Private,39.58467488
+2013,N$ (constant 2013),,GEF,21.26147989
+2013,N$ (constant 2013),,US Gov,102.6546767
+2013,N$ (constant 2013),,German Gov,6.5773538789999995
+2013,N$ (constant 2013),,WWF,11.03720204
+2013,N$ (constant 2013),,Others,2.8762350480000003
+2014,N$ (constant 2013),Total,,470.64470769999997
+2014,N$ (constant 2013),,Government,308.92519060000006
+2014,N$ (constant 2013),,Private,40.17245172
+2014,N$ (constant 2013),,GEF,16.85686188
+2014,N$ (constant 2013),,US Gov,74.63037958
+2014,N$ (constant 2013),,German Gov,17.52601152
+2014,N$ (constant 2013),,WWF,9.122469992000001
+2014,N$ (constant 2013),,Others,3.4113424219999997
+2015,N$ (constant 2013),Total,,480.3700628
+2015,N$ (constant 2013),,Government,337.20863030000004
+2015,N$ (constant 2013),,Private,40.12908459
+2015,N$ (constant 2013),,GEF,12.39788212
+2015,N$ (constant 2013),,US Gov,42.71782046
+2015,N$ (constant 2013),,German Gov,37.86165514
+2015,N$ (constant 2013),,WWF,6.130732695
+2015,N$ (constant 2013),,Others,3.924257505
