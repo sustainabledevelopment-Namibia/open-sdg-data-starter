@@ -1,7 +1,7 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2014,Million USD,Net ODA,,,226.2
-2014,%,Net ODA/GNI [%],,,1.8
-2015,Million USD,Net ODA,,,142.4
-2015,%,Net ODA/GNI [%],,,1.2
-2016,Million USD,Net ODA,,,170
-2016,%,Net ODA/GNI [%],,,1.7
+Year,Units,Disaggregation,Value
+2014,Million USD,Net ODA,226.2
+2014,%,Net ODA/GNI [%],1.8
+2015,Million USD,Net ODA,142.4
+2015,%,Net ODA/GNI [%],1.2
+2016,Million USD,Net ODA,170
+2016,%,Net ODA/GNI [%],1.7
