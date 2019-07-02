@@ -1,16 +1,16 @@
-Year,Units,Total,Disaggregation,Region,Value
-2013,%,Total,,,11.8
-2013,%,,,!Karas,9.3
-2013,%,,,Erongo,8.3
-2013,%,,,Hardap,9.1
-2013,%,,,Kavango East,16.3
-2013,%,,,Kavango West,16.3
-2013,%,,,Khomas,9.0
-2013,%,,,Kunene,12.1
-2013,%,,,Ohangwena,11.2
-2013,%,,,Omaheke,9.1
-2013,%,,,Omusati,16.1
-2013,%,,,Oshana,13.0
-2013,%,,,Oshikoto,13.4
-2013,%,,,Otjozondjupa,10.9
-2013,%,,,Zambezi,11.4
+Year,Units,Total,Region,Value
+2013,%,Total,,11.8
+2013,%,,!Karas,9.3
+2013,%,,Erongo,8.3
+2013,%,,Hardap,9.1
+2013,%,,Kavango East,16.3
+2013,%,,Kavango West,16.3
+2013,%,,Khomas,9.0
+2013,%,,Kunene,12.1
+2013,%,,Ohangwena,11.2
+2013,%,,Omaheke,9.1
+2013,%,,Omusati,16.1
+2013,%,,Oshana,13.0
+2013,%,,Oshikoto,13.4
+2013,%,,Otjozondjupa,10.9
+2013,%,,Zambezi,11.4
