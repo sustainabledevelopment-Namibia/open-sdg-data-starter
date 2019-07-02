@@ -1,25 +1,25 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2004,per 100 000,Commercial Bank Branches,,,10.71006
-2005,per 100 000,Commercial Bank Branches,,,10.70973
-2006,per 100 000,Commercial Bank Branches,,,11.75025
-2006,per 100 000,ATMs,,,9.33581
-2007,per 100 000,Commercial Bank Branches,,,12.42863
-2007,per 100 000,ATMs,,,9.73708
-2008,per 100 000,Commercial Bank Branches,,,12.59862
-2008,per 100 000,ATMs,,,29.47455
-2009,per 100 000,Commercial Bank Branches,,,12.6644
-2009,per 100 000,ATMs,,,41.50261
-2010,per 100 000,Commercial Bank Branches,,,12.70539
-2010,per 100 000,ATMs,,,49.17733
-2011,per 100 000,Commercial Bank Branches,,,12.74914
-2011,per 100 000,ATMs,,,50.48658
-2012,per 100 000,Commercial Bank Branches,,,12.55714
-2012,per 100 000,ATMs,,,48.52588
-2013,per 100 000,Commercial Bank Branches,,,12.56824
-2013,per 100 000,ATMs,,,52.06841
-2014,per 100 000,Commercial Bank Branches,,,13.0411
-2014,per 100 000,ATMs,,,54.6516
-2015,per 100 000,Commercial Bank Branches,,,13.02764
-2015,per 100 000,ATMs,,,55.77665
-2016,per 100 000,Commercial Bank Branches,,,14.6976
-2016,per 100 000,ATMs,,,64.41384
+Year,Units,Disaggregation,Value
+2004,per 100 000,Commercial Bank Branches,10.71006
+2005,per 100 000,Commercial Bank Branches,10.70973
+2006,per 100 000,Commercial Bank Branches,11.75025
+2006,per 100 000,ATMs,9.33581
+2007,per 100 000,Commercial Bank Branches,12.42863
+2007,per 100 000,ATMs,9.73708
+2008,per 100 000,Commercial Bank Branches,12.59862
+2008,per 100 000,ATMs,29.47455
+2009,per 100 000,Commercial Bank Branches,12.6644
+2009,per 100 000,ATMs,41.50261
+2010,per 100 000,Commercial Bank Branches,12.70539
+2010,per 100 000,ATMs,49.17733
+2011,per 100 000,Commercial Bank Branches,12.74914
+2011,per 100 000,ATMs,50.48658
+2012,per 100 000,Commercial Bank Branches,12.55714
+2012,per 100 000,ATMs,48.52588
+2013,per 100 000,Commercial Bank Branches,12.56824
+2013,per 100 000,ATMs,52.06841
+2014,per 100 000,Commercial Bank Branches,13.0411
+2014,per 100 000,ATMs,54.6516
+2015,per 100 000,Commercial Bank Branches,13.02764
+2015,per 100 000,ATMs,55.77665
+2016,per 100 000,Commercial Bank Branches,14.6976
+2016,per 100 000,ATMs,64.41384
