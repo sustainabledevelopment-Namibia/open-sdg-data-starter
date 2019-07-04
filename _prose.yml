@@ -72,73 +72,78 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
-      - name: "national_indicator_available"
+      #- name: "national_indicator_available"
+      #  field:
+      #      element: text
+      #      label: "Indicator available"
+      #      scope: national
+      - name: "global_indicator_definition"
         field:
             element: text
-            label: "Indicator available"
+            label: "Global indicator definition"
             scope: national
-      - name: "national_indicator_description"
+      - name: "local_indicator_definition"
         field:
             element: text
-            label: "Indicator description"
+            label: "Local indicator definition"
             scope: national
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: national
-      - name: "computation_units"
+      - name: "unit_of_measurement"
         field:
             element: text
             label: "Unit of measurement"
             scope: national
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Definitions"
-            scope: national
-      - name: "computation_calculations"
+      - name: "disaggregation_level"
         field:
             element: text
-            label: "Calculations"
-            scope: national
-      - name: "comments_limitations"
+            label: "Disaggregation level"
+            scope: national    
+      - name: "data_source"
         field:
             element: text
-            label: "Other information"
+            label: "Data source"
             scope: national
-      - name: "national_data_update_url"
+      - name: "frequency"
         field:
-            element: hidden
-            label: "Data last updated"
+            element: text
+            label: "Frequency"
             scope: national
-      - name: "national_data_update_url_text"
+      - name: "data_provider"
         field:
-            element: hidden
-            label: "Data last updated"
+            element: text
+            label: "Data provider"
             scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
+      #- name: "national_data_update_url"
+      #  field:
+      #      element: hidden
+      #      label: "Data last updated"
+      #      scope: national
+      #- name: "national_data_update_url_text"
+      #  field:
+      #      element: hidden
+      #      label: "Data last updated"
+      #      scope: national
+      #- name: "national_metadata_update_url"
+      #  field:
+      #      element: hidden
+      #      label: "Metadata last updated"
+      #      scope: national
+      #- name: "national_metadata_update_url_text"
+      #  field:
+      #      element: hidden
+      #      label: "Metadata last updated"
+      #      scope: national
        ######### Data Info #########
       - name: "reporting_status"
         field:
             element: select
             label: "Reporting status"
             options:
-              - name: 'notstarted'
-                value: 'notstarted'
-              - name: 'inprogress'
-                value: 'inprogress'
               - name: 'complete'
                 value: 'complete'
+              - name: 'inprogress'
+                value: 'inprogress'
+              - name: 'notstarted'
+                value: 'notstarted'
             scope: data
       - name: data_non_statistical
         field:
@@ -401,7 +406,7 @@ prose:
             element: checkbox
             label: Source 4 active
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: source_organisation_4
         field:
             element: text
@@ -462,13 +467,13 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_4
-## Source 5
+      ## Source 5
       - name: source_active_5
         field:
             element: checkbox
             label: Source 5 active
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: source_organisation_5
         field:
             element: text
@@ -529,13 +534,13 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_5
-## Source 6
+      ## Source 6
       - name: source_active_6
         field:
             element: checkbox
             label: Source 6 active
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: source_organisation_6
         field:
             element: text
