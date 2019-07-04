@@ -1,14 +1,11 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2007,,,,,
-2011,,,,,
-2017,,,,,
-2007,%,Formally Banked,,,45
-2007,%,Financially Excluded,,,51
-2011,%,Formally Banked,,,62
-2011,%,Financially Excluded,,,31
-2017,%,Formally Banked,,,67.9
-2017,%,Financially Excluded,,,22
-2017,%,Financially Exlcluded (F),,,20.2
-2017,%,Financially Exlcluded (M),,,23.9
-2017,%,Financially Exlcluded (U),,,17.5
-2017,%,Financially Exlcluded (R),,,27.1
+Year,Units,Disaggregation,Value
+2007,%,Formally Banked,45
+2007,%,Financially Excluded,51
+2011,%,Formally Banked,62
+2011,%,Financially Excluded,31
+2017,%,Formally Banked,67.9
+2017,%,Financially Excluded,22
+2017,%,Female,20.2
+2017,%,Male,23.9
+2017,%,Urban,17.5
+2017,%,Rural,27.1

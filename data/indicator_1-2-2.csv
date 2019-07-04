@@ -1,18 +1,18 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2004,%,,,,11
-2010,%,,,,7.2
-2016,%,,,,6.1
-2016,%,Total (Ind. Level),Karas,1,3.6
-2016,%,Total (Ind. Level),Erongo,2,0.4
-2016,%,Total (Ind. Level),Hardap,3,2.2
-2016,%,Total (Ind. Level),Kavango East,4,22.9
-2016,%,Total (Ind. Level),Kavango West,5,11.8
-2016,%,Total (Ind. Level),Khomas,6,1.2
-2016,%,Total (Ind. Level),Kunene,7,14.9
-2016,%,Total (Ind. Level),Ohangwena,8,3.1
-2016,%,Total (Ind. Level),Omaheke,9,19.9
-2016,%,Total (Ind. Level),Omusati,10,4.6
-2016,%,Total (Ind. Level),Oshana,11,0.9
-2016,%,Total (Ind. Level),Oshikoto,12,3.6
-2016,%,Total (Ind. Level),Otjozondjupa,13,8.8
-2016,%,Total (Ind. Level),Zambezi,14,15
+Year,Units,Total,Region,Value
+2004,%,Total (Ind. Level),,11
+2010,%,Total (Ind. Level),,7.2
+2016,%,Total (Ind. Level),,6.1
+2016,%,,Karas,3.6
+2016,%,,Erongo,0.4
+2016,%,,Hardap,2.2
+2016,%,,Kavango East,22.9
+2016,%,,Kavango West,11.8
+2016,%,,Khomas,1.2
+2016,%,,Kunene,14.9
+2016,%,,Ohangwena,3.1
+2016,%,,Omaheke,19.9
+2016,%,,Omusati,4.6
+2016,%,,Oshana,0.9
+2016,%,,Oshikoto,3.6
+2016,%,,Otjozondjupa,8.8
+2016,%,,Zambezi,15

@@ -1,190 +1,478 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2012,%,,,,27.4
-2013,%,,,,29.6
-2014,%,,,,28.1
-2016,%,Total,,,34
-2012,%,Total F,,,31.8
-2012,%,Total M,,,22.9
-2012,%,Urban,,,28.3
-2012,%,Rural,,,26.2
-2012,%,Total,!Karas,1,23.9
-2012,%,Total F,!Karas,1,30.7
-2012,%,Total M,!Karas,1,17.6
-2012,%,Total,Erongo,2,25.5
-2012,%,Total F,Erongo,2,34.5
-2012,%,Total M,Erongo,2,18.9
-2012,%,Total,Hardap,3,28.8
-2012,%,Total F,Hardap,3,39
-2012,%,Total M,Hardap,3,21.5
-2012,%,Total,Kavango East,4,29.8
-2012,%,Total F,Kavango East,4,31.7
-2012,%,Total M,Kavango East,4,27.3
-2012,%,Total,Kavango West,5,29.8
-2012,%,Total F,Kavango West,5,31.7
-2012,%,Total M,Kavango West,5,27.3
-2012,%,Total,Khomas,6,26.5
-2012,%,Total F,Khomas,6,31
-2012,%,Total M,Khomas,6,22.7
-2012,%,Total,Kunene,7,27
-2012,%,Total F,Kunene,7,35.4
-2012,%,Total M,Kunene,7,20
-2012,%,Total,Ohangwena,8,34.6
-2012,%,Total F,Ohangwena,8,34.9
-2012,%,Total M,Ohangwena,8,34.2
-2012,%,Total,Omaheke,9,34.1
-2012,%,Total F,Omaheke,9,47.1
-2012,%,Total M,Omaheke,9,23.6
-2012,%,Total,Omusati,10,28.9
-2012,%,Total F,Omusati,10,29.1
-2012,%,Total M,Omusati,10,28.7
-2012,%,Total,Oshana,11,24.5
-2012,%,Total F,Oshana,11,23.5
-2012,%,Total M,Oshana,11,26.1
-2012,%,Total,Oshikoto,12,26.4
-2012,%,Total F,Oshikoto,12,28.1
-2012,%,Total M,Oshikoto,12,24.1
-2012,%,Total,Otjozondjupa,13,25.3
-2012,%,Total F,Otjozondjupa,13,37.9
-2012,%,Total M,Otjozondjupa,13,15.4
-2012,%,Total,Zambezi,14,28
-2012,%,Total F,Zambezi,14,33.5
-2012,%,Total M,Zambezi,14,21.3
-2013,%,Total F,,,33.1
-2013,%,Total M,,,25.8
-2013,%,Urban,,,29.1
-2013,%,Rural,,,30.2
-2013,%,Total,!Karas,1,21.6
-2013,%,Total F,!Karas,1,30
-2013,%,Total M,!Karas,1,21.6
-2013,%,Total,Erongo,2,23.7
-2013,%,Total F,Erongo,2,32.4
-2013,%,Total M,Erongo,2,16.3
-2013,%,Total,Hardap,3,32.2
-2013,%,Total F,Hardap,3,41.2
-2013,%,Total M,Hardap,3,32.2
-2013,%,Total,Kavango East,4,35.6
-2013,%,Total F,Kavango East,4,35.3
-2013,%,Total M,Kavango East,4,35.6
-2013,%,Total,Kavango West,5,35.6
-2013,%,Total F,Kavango West,5,35.3
-2013,%,Total M,Kavango West,5,35.6
-2013,%,Total,Khomas,6,27.7
-2013,%,Total F,Khomas,6,32.2
-2013,%,Total M,Khomas,6,23.4
-2013,%,Total,Kunene,7,39.8
-2013,%,Total F,Kunene,7,51.8
-2013,%,Total M,Kunene,7,27.4
-2013,%,Total,Ohangwena,8,32.7
-2013,%,Total F,Ohangwena,8,28.6
-2013,%,Total M,Ohangwena,8,40.1
-2013,%,Total,Omaheke,9,26.1
-2013,%,Total F,Omaheke,9,35.2
-2013,%,Total M,Omaheke,9,18.4
-2013,%,Total,Omusati,10,28.8
-2013,%,Total F,Omusati,10,24.3
-2013,%,Total M,Omusati,10,37.1
-2013,%,Total,Oshana,11,33.6
-2013,%,Total F,Oshana,11,33.9
-2013,%,Total M,Oshana,11,33.1
-2013,%,Total,Oshikoto,12,31.5
-2013,%,Total F,Oshikoto,12,34.6
-2013,%,Total M,Oshikoto,12,27.9
-2013,%,Total,Otjozondjupa,13,25.3
-2013,%,Total F,Otjozondjupa,13,36.7
-2013,%,Total M,Otjozondjupa,13,16.5
-2013,%,Total,Zambezi,14,29.5
-2013,%,Total F,Zambezi,14,35.8
-2013,%,Total M,Zambezi,14,35.8
-2014,%,Total F,,,31.7
-2014,%,Total M,,,24.3
-2014,%,Urban,,,26.2
-2014,%,Rural,,,30.2
-2014,%,Total,!Karas,1,25
-2014,%,Total F,!Karas,1,31.7
-2014,%,Total M,!Karas,1,19.6
-2014,%,Total,Erongo,2,23.9
-2014,%,Total F,Erongo,2,31.9
-2014,%,Total M,Erongo,2,18
-2014,%,Total,Hardap,3,29.7
-2014,%,Total F,Hardap,3,39.3
-2014,%,Total M,Hardap,3,21.7
-2014,%,Total,Kavango East,4,36.3
-2014,%,Total F,Kavango East,4,39.2
-2014,%,Total M,Kavango East,4,32.4
-2014,%,Total,Kavango West,5,26.4
-2014,%,Total F,Kavango West,5,28.5
-2014,%,Total M,Kavango West,5,23.9
-2014,%,Total,Khomas,6,22.3
-2014,%,Total F,Khomas,6,26
-2014,%,Total M,Khomas,6,19
-2014,%,Total,Kunene,7,32.6
-2014,%,Total F,Kunene,7,39.6
-2014,%,Total M,Kunene,7,26.5
-2014,%,Total,Ohangwena,8,38.2
-2014,%,Total F,Ohangwena,8,32.7
-2014,%,Total M,Ohangwena,8,46.2
-2014,%,Total,Omaheke,9,26.9
-2014,%,Total F,Omaheke,9,42.3
-2014,%,Total M,Omaheke,9,15.2
-2014,%,Total,Omusati,10,22.9
-2014,%,Total F,Omusati,10,20.5
-2014,%,Total M,Omusati,10,26.8
-2014,%,Total,Oshana,11,32.6
-2014,%,Total F,Oshana,11,32.8
-2014,%,Total M,Oshana,11,32.3
-2014,%,Total,Oshikoto,12,27.6
-2014,%,Total F,Oshikoto,12,30.9
-2014,%,Total M,Oshikoto,12,23.8
-2014,%,Total,Otjozondjupa,13,33.2
-2014,%,Total F,Otjozondjupa,13,46.2
-2014,%,Total M,Otjozondjupa,13,22.8
-2014,%,Total,Zambezi,14,31.9
-2014,%,Total F,Zambezi,14,37.3
-2014,%,Total M,Zambezi,14,26.3
-2016,%,Total F,,,38.3
-2016,%,Total M,,,29.8
-2016,%,Urban,,,30.3
-2016,%,Rural,,,39.2
-2016,%,Total,!Karas,1,23
-2016,%,Total F,!Karas,1,30.5
-2016,%,Total M,!Karas,1,16.7
-2016,%,Total,Erongo,2,29.2
-2016,%,Total F,Erongo,2,29.2
-2016,%,Total M,Erongo,2,16.2
-2016,%,Total,Hardap,3,37.7
-2016,%,Total F,Hardap,3,47.9
-2016,%,Total M,Hardap,3,29.6
-2016,%,Total,Kavango East,4,39.6
-2016,%,Total F,Kavango East,4,42.8
-2016,%,Total M,Kavango East,4,35.2
-2016,%,Total,Kavango West,5,36.4
-2016,%,Total F,Kavango West,5,40.2
-2016,%,Total M,Kavango West,5,31.5
-2016,%,Total,Khomas,6,28.4
-2016,%,Total F,Khomas,6,30.3
-2016,%,Total M,Khomas,6,26.7
-2016,%,Total,Kunene,7,52.2
-2016,%,Total F,Kunene,7,62.8
-2016,%,Total M,Kunene,7,42.9
-2016,%,Total,Ohangwena,8,45.4
-2016,%,Total F,Ohangwena,8,46.6
-2016,%,Total M,Ohangwena,8,43.9
-2016,%,Total,Omaheke,9,26.9
-2016,%,Total F,Omaheke,9,39.3
-2016,%,Total M,Omaheke,9,17.7
-2016,%,Total,Omusati,10,40.2
-2016,%,Total F,Omusati,10,37.6
-2016,%,Total M,Omusati,10,43.8
-2016,%,Total,Oshana,11,29.5
-2016,%,Total F,Oshana,11,28.7
-2016,%,Total M,Oshana,11,30.4
-2016,%,Total,Oshikoto,12,39.8
-2016,%,Total F,Oshikoto,12,44
-2016,%,Total M,Oshikoto,12,35.4
-2016,%,Total,Otjozondjupa,13,35.9
-2016,%,Total F,Otjozondjupa,13,45
-2016,%,Total M,Otjozondjupa,13,28.5
-2016,%,Total,Zambezi,14,48
-2016,%,Total F,Zambezi,14,58.3
-2016,%,Total M,Zambezi,14,48
-2021,%,NDP5 Target,,,24.2
+Year,Units,Disaggregation,Region,Total,GeoCode,Value
+2012,%,,,Total,,27.4
+2012,%,,,Total Youth unemployement,,37.8
+2012,%,Total Youth Female,,,,43.9
+2012,%,Total Youth Male,,,,31.7
+2012,%,Total Youth Urban,,,,36.1
+2012,%,Total Youth Rural,,,,40
+2012,%,Total Female Youth Urban,,,,42.2
+2012,%,Total Female Youth Rural,,,,46.2
+2012,%,Total Male Youth Urban,,,,29.9
+2012,%,Total Male Youth Rural,,,,34
+2012,%,Total F,,,,31.8
+2012,%,Total M,,,,22.9
+2012,%,Urban,,,,28.3
+2012,%,Rural,,,,26.2
+2012,%,,!Karas,,1,23.9
+2012,%,Youth Female,!Karas,,1,39.2
+2012,%,Youth Male,!Karas,,1,21.2
+2012,%,Youth,!Karas,,1,31.1
+2012,%,Total F,!Karas,,1,30.7
+2012,%,Total M,!Karas,,1,17.6
+2012,%,Youth,Erongo,,2,32.2
+2012,%,Youth Female,Erongo,,2,43
+2012,%,Youth Male,Erongo,,2,23.3
+2012,%,,Erongo,,2,25.5
+2012,%,Total F,Erongo,,2,34.5
+2012,%,Total M,Erongo,,2,18.9
+2012,%,,Hardap,,3,28.8
+2012,%,Youth,Hardap,,3,34.9
+2012,%,Total F,Hardap,,3,39
+2012,%,Youth Female,Hardap,,3,46.9
+2012,%,Youth Male,Hardap,,3,24.2
+2012,%,Total M,Hardap,,3,21.5
+2012,%,,Kavango East,,4,29.8
+2012,%,Total F,Kavango East,,4,31.7
+2012,%,Youth,Kavango East,,4,41.7
+2012,%,Youth Female,Kavango East,,4,44.4
+2012,%,Youth Male,Kavango East,,4,40.4
+2012,%,Total M,Kavango East,,4,27.3
+2012,%,Youth,Kavango West,,4,41.7
+2012,%,,Kavango West,,5,29.8
+2012,%,Youth Female,Kavango West,,5,44.4
+2012,%,Youth Male,Kavango West,,5,40.4
+2012,%,Total F,Kavango West,,5,31.7
+2012,%,Total M,Kavango West,,5,27.3
+2012,%,,Khomas,,6,26.5
+2012,%,Youth,Khomas,,6,36.6
+2012,%,Youth Female,Khomas,,6,42
+2012,%,Youth Male,Khomas,,6,30.7
+2012,%,Total F,Khomas,,6,31
+2012,%,Total M,Khomas,,6,22.7
+2012,%,,Kunene,,7,27
+2012,%,Youth,Kunene,,7,29.7
+2012,%,Total F,Kunene,,7,35.4
+2012,%,Youth Female,Kunene,,7,36.7
+2012,%,Youth Male,Kunene,,7,25
+2012,%,Total M,Kunene,,7,20
+2012,%,,Ohangwena,,8,34.6
+2012,%,Youth,Ohangwena,,8,41.5
+2012,%,Youth Female,Ohangwena,,8,43.7
+2012,%,Youth Male,Ohangwena,,8,41.6
+2012,%,Total F,Ohangwena,,8,34.9
+2012,%,Total M,Ohangwena,,8,34.2
+2012,%,,Omaheke,,9,34.1
+2012,%,Youth Female,Omaheke,,9,59.5
+2012,%,Youth Male,Omaheke,,9,30.4
+2012,%,Total F,Omaheke,,9,47.1
+2012,%,Youth,Omaheke,,9,42.5
+2012,%,Total M,Omaheke,,9,23.6
+2012,%,,Omusati,,10,28.9
+2012,%,Total F,Omusati,,10,29.1
+2012,%,Youth Female,Omusati,,10,47.7
+2012,%,Youth Male,Omusati,,10,46.3
+2012,%,Youth,Omusati,,10,46.8
+2012,%,Total M,Omusati,,10,28.7
+2012,%,,Oshana,,11,24.5
+2012,%,Total F,Oshana,,11,23.5
+2012,%,Youth Female,Oshana,,11,40.1
+2012,%,Youth Male,Oshana,,11,42.1
+2012,%,Youth,Oshana,,11,39.8
+2012,%,Total M,Oshana,,11,26.1
+2012,%,,Oshikoto,,12,26.4
+2012,%,Total F,Oshikoto,,12,28.1
+2012,%,Youth Female,Oshikoto,,12,48.1
+2012,%,Youth Male,Oshikoto,,12,37.9
+2012,%,Youth,Oshikoto,,12,43.1
+2012,%,Total M,Oshikoto,,12,24.1
+2012,%,,Otjozondjupa,,13,25.3
+2012,%,Youth Female,Otjozondjupa,,13,44.1
+2012,%,Youth Male,Otjozondjupa,,13,20.5
+2012,%,Youth,Otjozondjupa,,13,31.9
+2012,%,Total F,Otjozondjupa,,13,37.9
+2012,%,Total M,Otjozondjupa,,13,15.4
+2012,%,,Zambezi,,14,28
+2012,%,Youth,Zambezi,,14,39.3
+2012,%,Youth Female,Zambezi,,14,43.9
+2012,%,Youth Male,Zambezi,,14,30.9
+2012,%,Total F,Zambezi,,14,33.5
+2012,%,Total M,Zambezi,,14,21.3
+2013,%,,,Total,,29.6
+2013,%,,,Youth unemployement,,42.4
+2013,%,Total Youth Female,,,,47.2
+2013,%,Total Youth Male,,,,37.2
+2013,%,Total Youth Urban,,,,37.7
+2013,%,Total Youth Rural,,,,48.3
+2013,%,Total Female Youth Urban,,,,43
+2013,%,Total Female Youth Rural,,,,52.9
+2013,%,Total Male Youth Urban,,,,32.1
+2013,%,Total Male Youth Rural,,,,43.7
+2013,%,Total F,,,,33.1
+2013,%,Total M,,,,25.8
+2013,%,Urban,,,,29.1
+2013,%,Rural,,,,30.2
+2013,%,,!Karas,,1,21.6
+2013,%,Youth Female,!Karas,,1,37.4
+2013,%,Youth Male,!Karas,,1,24.9
+2013,%,Total F,!Karas,,1,30
+2013,%,Youth,!Karas,,1,30
+2013,%,Total M,!Karas,,1,21.6
+2013,%,,Erongo,,2,23.7
+2013,%,Youth Female,Erongo,,2,39.5
+2013,%,Youth Male,Erongo,,2,23.7
+2013,%,Youth,Erongo,,2,31.9
+2013,%,Total F,Erongo,,2,32.4
+2013,%,Total M,Erongo,,2,16.3
+2013,%,,Hardap,,3,32.2
+2013,%,Youth Female,Hardap,,3,53.2
+2013,%,Youth Male,Hardap,,3,38.9
+2013,%,Youth,Hardap,,3,43.1
+2013,%,Total F,Hardap,,3,41.2
+2013,%,Total M,Hardap,,3,32.2
+2013,%,,Kavango East,,4,35.6
+2013,%,Youth Female,Kavango East,,4,54.6
+2013,%,Youth Male,Kavango East,,4,55.6
+2013,%,Total F,Kavango East,,4,35.3
+2013,%,Youth,Kavango East,,4,53.3
+2013,%,Total M,Kavango East,,4,35.6
+2013,%,,Kavango West,,5,35.6
+2013,%,Youth Female,Kavango West,,5,54.6
+2013,%,Youth Male,Kavango West,,5,55.6
+2013,%,Total F,Kavango West,,5,35.3
+2013,%,Total M,Kavango West,,5,35.6
+2013,%,Youth,Kavango West,,5,53.3
+2013,%,,Khomas,,6,27.7
+2013,%,Youth Female,Khomas,,6,41.8
+2013,%,Youth Male,Khomas,,6,31
+2013,%,Total F,Khomas,,6,32.2
+2013,%,Total M,Khomas,,6,23.4
+2013,%,Youth,Khomas,,6,36.7
+2013,%,,Kunene,,7,39.8
+2013,%,Youth Female,Kunene,,7,56.6
+2013,%,Youth Male,Kunene,,7,36
+2013,%,Total F,Kunene,,7,51.8
+2013,%,Youth,Kunene,,7,47.2
+2013,%,Total M,Kunene,,7,27.4
+2013,%,,Ohangwena,,8,32.7
+2013,%,Youth Female,Ohangwena,,8,51.8
+2013,%,Youth Male,Ohangwena,,8,63.6
+2013,%,Total F,Ohangwena,,8,28.6
+2013,%,Total M,Ohangwena,,8,40.1
+2013,%,Youth,Ohangwena,,8,54.8
+2013,%,,Omaheke,,9,26.1
+2013,%,Youth Female,Omaheke,,9,41.8
+2013,%,Youth Male,Omaheke,,9,20.1
+2013,%,Total F,Omaheke,,9,35.2
+2013,%,Youth,Omaheke,,9,28.6
+2013,%,Total M,Omaheke,,9,18.4
+2013,%,,Omusati,,10,28.8
+2013,%,Youth Female,Omusati,,10,52.7
+2013,%,Youth Male,Omusati,,10,66.3
+2013,%,Total F,Omusati,,10,24.3
+2013,%,Youth,Omusati,,10,57.1
+2013,%,Total M,Omusati,,10,37.1
+2013,%,,Oshana,,11,33.6
+2013,%,Youth Female,Oshana,,11,50.1
+2013,%,Youth Male,Oshana,,11,45.7
+2013,%,Total F,Oshana,,11,33.9
+2013,%,Total M,Oshana,,11,33.1
+2013,%,Youth,Oshana,,11,47.6
+2013,%,,Oshikoto,,12,31.5
+2013,%,Youth Female,Oshikoto,,12,46.2
+2013,%,Youth Male,Oshikoto,,12,33.8
+2013,%,Total F,Oshikoto,,12,34.6
+2013,%,Total M,Oshikoto,,12,27.9
+2013,%,Youth,Oshikoto,,12,38.6
+2013,%,,Otjozondjupa,,13,25.3
+2013,%,Youth Female,Otjozondjupa,,13,48
+2013,%,Youth Male,Otjozondjupa,,13,22.5
+2013,%,Total F,Otjozondjupa,,13,36.7
+2013,%,Youth,Otjozondjupa,,13,33.8
+2013,%,Total M,Otjozondjupa,,13,16.5
+2013,%,,Zambezi,,14,29.5
+2013,%,Youth,Zambezi,,14,37.8
+2013,%,Youth Female,Zambezi,,14,44.4
+2013,%,Youth Male,Zambezi,,14,28.9
+2013,%,Total F,Zambezi,,14,35.8
+2013,%,Total M,Zambezi,,14,35.8
+2014,%,,,Total,,28.1
+2014,%,,,Youth unemployement,,39
+2014,%,Total Youth Female,,,,44.4
+2014,%,Total Youth Male,,,,33.5
+2014,%,Total Youth Urban,,,,34.9
+2014,%,Total Youth Rural,,,,44.3
+2014,%,Total Female Youth Urban,,,,39.7
+2014,%,Total Female Youth Rural,,,,50.7
+2014,%,Total Male Youth Urban,,,,29.9
+2014,%,Total Male Youth Rural,,,,38.1
+2014,%,Total F,,,,31.7
+2014,%,Total M,,,,24.3
+2014,%,Urban,,,,26.2
+2014,%,Rural,,,,30.2
+2014,%,,!Karas,,1,25
+2014,%,Youth Female,!Karas,,1,44.3
+2014,%,Youth Male,!Karas,,1,27
+2014,%,Total F,!Karas,,1,31.7
+2014,%,Youth,!Karas,,1,24.8
+2014,%,Total M,!Karas,,1,19.6
+2014,%,,Erongo,,2,23.9
+2014,%,Youth Female,Erongo,,2,37.5
+2014,%,Youth Male,Erongo,,2,24.8
+2014,%,Total F,Erongo,,2,31.9
+2014,%,Youth,Erongo,,2,24.2
+2014,%,Total M,Erongo,,2,18
+2014,%,,Hardap,,3,29.7
+2014,%,Youth Female,Hardap,,3,48.1
+2014,%,Youth Male,Hardap,,3,31
+2014,%,Total F,Hardap,,3,39.3
+2014,%,Youth,Hardap,,3,29.6
+2014,%,Total M,Hardap,,3,21.7
+2014,%,,Kavango East,,4,36.3
+2014,%,Youth Female,Kavango East,,4,51.5
+2014,%,Youth Male,Kavango East,,4,42.1
+2014,%,Total F,Kavango East,,4,39.2
+2014,%,Youth,Kavango East,,4,42.5
+2014,%,Total M,Kavango East,,4,32.4
+2014,%,,Kavango West,,5,26.4
+2014,%,Youth Female,Kavango West,,5,40.4
+2014,%,Youth Male,Kavango West,,5,33.7
+2014,%,Total F,Kavango West,,5,28.5
+2014,%,Youth,Kavango West,,5,33.2
+2014,%,Total M,Kavango West,,5,23.9
+2014,%,,Khomas,,6,22.3
+2014,%,Youth Female,Khomas,,6,36.2
+2014,%,Youth Male,Khomas,,6,27.7
+2014,%,Total F,Khomas,,6,26
+2014,%,Total M,Khomas,,6,19
+2014,%,Youth,Khomas,,6,28.4
+2014,%,,Kunene,,7,32.6
+2014,%,Youth Female,Kunene,,7,46.1
+2014,%,Youth Male,Kunene,,7,34.6
+2014,%,Total F,Kunene,,7,39.6
+2014,%,Youth,Kunene,,7,34.3
+2014,%,Total M,Kunene,,7,26.5
+2014,%,,Ohangwena,,8,38.2
+2014,%,Youth Female,Ohangwena,,8,51.5
+2014,%,Youth Male,Ohangwena,,8,60.5
+2014,%,Total F,Ohangwena,,8,32.7
+2014,%,Youth,Ohangwena,,8,62.6
+2014,%,Total M,Ohangwena,,8,46.2
+2014,%,,Omaheke,,9,26.9
+2014,%,Youth Female,Omaheke,,9,44.2
+2014,%,Youth Male,Omaheke,,9,18.1
+2014,%,Total F,Omaheke,,9,42.3
+2014,%,Total M,Omaheke,,9,15.2
+2014,%,Youth,Omaheke,,9,18.6
+2014,%,,Omusati,,10,22.9
+2014,%,Youth Female,Omusati,,10,40.6
+2014,%,Youth Male,Omusati,,10,44.4
+2014,%,Total F,Omusati,,10,20.5
+2014,%,Total M,Omusati,,10,26.8
+2014,%,Youth,Omusati,,10,44.2
+2014,%,,Oshana,,11,32.6
+2014,%,Youth Female,Oshana,,11,50.6
+2014,%,Youth Male,Oshana,,11,44.4
+2014,%,Total F,Oshana,,11,32.8
+2014,%,Youth,Oshana,,11,44.6
+2014,%,Total M,Oshana,,11,32.3
+2014,%,,Oshikoto,,12,27.6
+2014,%,Youth Female,Oshikoto,,12,44.7
+2014,%,Youth Male,Oshikoto,,12,28.9
+2014,%,Youth,Oshikoto,,12,29.4
+2014,%,Total F,Oshikoto,,12,30.9
+2014,%,Total M,Oshikoto,,12,23.8
+2014,%,,Otjozondjupa,,13,33.2
+2014,%,Youth Female,Otjozondjupa,,13,57.5
+2014,%,Youth Male,Otjozondjupa,,13,27.2
+2014,%,Total F,Otjozondjupa,,13,46.2
+2014,%,Youth,Otjozondjupa,,13,27.6
+2014,%,Total M,Otjozondjupa,,13,22.8
+2014,%,,Zambezi,,14,31.9
+2014,%,Youth Female,Zambezi,,14,49
+2014,%,Youth Male,Zambezi,,14,39.1
+2014,%,Total F,Zambezi,,14,37.3
+2014,%,Youth,Zambezi,,14,39.2
+2014,%,Total M,Zambezi,,14,26.3
+2016,%,,,Total,,34
+2016,%,,,Youth unemployement,,43.4
+2016,%,Total Youth Female,,,,49.4
+2016,%,Total Youth Male,,,,37.5
+2016,%,Total Youth Urban,,,,38.1
+2016,%,Total Youth Rural,,,,51.4
+2016,%,Total Female Youth Urban,,,,42.7
+2016,%,Total Female Youth Rural,,,,59.9
+2016,%,Total Male Youth Urban,,,,33.3
+2016,%,Total Male Youth Rural,,,,43.4
+2016,%,Total F,,,,38.3
+2016,%,Total M,,,,29.8
+2016,%,Urban,,,,30.3
+2016,%,Rural,,,,39.2
+2016,%,,!Karas,,1,23
+2016,%,Youth Female,!Karas,,1,38.4
+2016,%,Youth Male,!Karas,,1,24.1
+2016,%,Total F,!Karas,,1,30.5
+2016,%,Total M,!Karas,,1,16.7
+2016,%,Youth,!Karas,,1,30.9
+2016,%,,Erongo,,2,29.2
+2016,%,Youth Female,Erongo,,2,33.2
+2016,%,Youth Male,Erongo,,2,20.5
+2016,%,Total F,Erongo,,2,29.2
+2016,%,Total M,Erongo,,2,16.2
+2016,%,Youth,Erongo,,2,26.3
+2016,%,,Hardap,,3,37.7
+2016,%,Youth Female,Hardap,,3,61.2
+2016,%,Youth Male,Hardap,,3,33.3
+2016,%,Total F,Hardap,,3,47.9
+2016,%,Youth,Hardap,,3,45.9
+2016,%,Total M,Hardap,,3,29.6
+2016,%,,Kavango East,,4,39.6
+2016,%,Youth Female,Kavango East,,4,49.5
+2016,%,Youth Male,Kavango East,,4,40.8
+2016,%,Total F,Kavango East,,4,42.8
+2016,%,Youth,Kavango East,,4,45.8
+2016,%,Total M,Kavango East,,4,35.2
+2016,%,,Kavango West,,5,36.4
+2016,%,Youth Female,Kavango West,,5,59.5
+2016,%,Youth Male,Kavango West,,5,42.8
+2016,%,Total F,Kavango West,,5,40.2
+2016,%,Youth,Kavango West,,5,52.6
+2016,%,Total M,Kavango West,,5,31.5
+2016,%,,Khomas,,6,28.4
+2016,%,Youth Female,Khomas,,6,40.9
+2016,%,Youth Male,Khomas,,6,34.1
+2016,%,Total F,Khomas,,6,30.3
+2016,%,Youth,Khomas,,6,37.5
+2016,%,Total M,Khomas,,6,26.7
+2016,%,,Kunene,,7,52.2
+2016,%,Youth Female,Kunene,,7,72.1
+2016,%,Youth Male,Kunene,,7,55
+2016,%,Total F,Kunene,,7,62.8
+2016,%,Youth,Kunene,,7,63.2
+2016,%,Total M,Kunene,,7,42.9
+2016,%,,Ohangwena,,8,45.4
+2016,%,Youth Female,Ohangwena,,8,58
+2016,%,Youth Male,Ohangwena,,8,52.9
+2016,%,Total F,Ohangwena,,8,46.6
+2016,%,Total M,Ohangwena,,8,43.9
+2016,%,Youth,Ohangwena,,8,55.7
+2016,%,,Omaheke,,9,26.9
+2016,%,Youth Female,Omaheke,,9,47.1
+2016,%,Youth Male,Omaheke,,9,22.2
+2016,%,Total F,Omaheke,,9,39.3
+2016,%,Youth,Omaheke,,9,32.8
+2016,%,Total M,Omaheke,,9,17.7
+2016,%,,Omusati,,10,40.2
+2016,%,Youth Female,Omusati,,10,56.3
+2016,%,Youth Male,Omusati,,10,52.4
+2016,%,Total F,Omusati,,10,37.6
+2016,%,Youth,Omusati,,10,54.5
+2016,%,Total M,Omusati,,10,43.8
+2016,%,,Oshana,,11,29.5
+2016,%,Youth Female,Oshana,,11,42.9
+2016,%,Youth Male,Oshana,,11,40.1
+2016,%,Youth,Oshana,,11,41.6
+2016,%,Total F,Oshana,,11,28.7
+2016,%,Total M,Oshana,,11,30.4
+2016,%,,Oshikoto,,12,39.8
+2016,%,Youth Female,Oshikoto,,12,54.2
+2016,%,Youth Male,Oshikoto,,12,41.3
+2016,%,Total F,Oshikoto,,12,44
+2016,%,Youth,Oshikoto,,12,47.6
+2016,%,Total M,Oshikoto,,12,35.4
+2016,%,,Otjozondjupa,,13,35.9
+2016,%,Youth Female,Otjozondjupa,,13,55.6
+2016,%,Youth Male,Otjozondjupa,,13,34.8
+2016,%,Total F,Otjozondjupa,,13,45
+2016,%,Total M,Otjozondjupa,,13,28.5
+2016,%,Youth,Otjozondjupa,,13,44.3
+2016,%,,Zambezi,,14,48
+2016,%,Youth Female,Zambezi,,14,70.4
+2016,%,Youth Male,Zambezi,,14,49.6
+2016,%,Total F,Zambezi,,14,58.3
+2016,%,Youth,Zambezi,,14,60
+2016,%,Total M,Zambezi,,14,48
+2018,%,,,Total,,33.4
+2018,%,,,Youth unemployement,,46.1
+2018,%,Total F,,,,34.3
+2018,%,Total M,,,,32.5
+2018,%,Urban,,,,33.4
+2018,%,Rural,,,,33.5
+2018,%,Total Youth Female,,,,48.5
+2018,%,Total Youth Male,,,,43.7
+2018,%,Total Youth Urban,,,,44
+2018,%,Total Youth Rural,,,,49.1
+2018,%,Total Female Youth Urban,,,,45.4
+2018,%,Total Female Youth Rural,,,,53.3
+2018,%,Total Male Youth Urban,,,,42.6
+2018,%,Total Male Youth Rural,,,,45.1
+2018,%,Youth,!Karas,,1,44.7
+2018,%,Youth Female,!Karas,,1,48.6
+2018,%,Youth Male,!Karas,,1,41
+2018,%,Total F,!Karas,,1,35.1
+2018,%,Total M,!Karas,,1,29.7
+2018,%,Youth,Erongo,,2,36.8
+2018,%,Youth Female,Erongo,,2,36.5
+2018,%,Youth Male,Erongo,,2,37
+2018,%,Total F,Erongo,,2,31.2
+2018,%,Total M,Erongo,,2,28.6
+2018,%,Youth,Hardap,,3,41.9
+2018,%,Youth Female,Hardap,,3,47.6
+2018,%,Youth Male,Hardap,,3,37.4
+2018,%,Total F,Hardap,,3,39.2
+2018,%,Total M,Hardap,,3,30.9
+2018,%,Youth,Kavango East,,4,62.5
+2018,%,Youth Female,Kavango East,,4,62.9
+2018,%,Youth Male,Kavango East,,4,62
+2018,%,Total F,Kavango East,,4,48.7
+2018,%,Total M,Kavango East,,4,47.5
+2018,%,Youth,Kavango West,,5,46.8
+2018,%,Youth Female,Kavango West,,5,48.4
+2018,%,Youth Male,Kavango West,,5,44.6
+2018,%,Total F,Kavango West,,5,33.8
+2018,%,Total M,Kavango West,,5,32
+2018,%,Youth,Khomas,,6,43
+2018,%,Youth Female,Khomas,,6,46
+2018,%,Youth Male,Khomas,,6,40
+2018,%,Total F,Khomas,,6,32.7
+2018,%,Total M,Khomas,,6,30.3
+2018,%,Youth,Kunene,,7,53
+2018,%,Youth Female,Kunene,,7,55.2
+2018,%,Youth Male,Kunene,,7,50.8
+2018,%,Total F,Kunene,,7,45
+2018,%,Total M,Kunene,,7,38.5
+2018,%,Youth,Ohangwena,,8,51.4
+2018,%,Youth Female,Ohangwena,,8,53.4
+2018,%,Youth Male,Ohangwena,,8,48.8
+2018,%,Total F,Ohangwena,,8,33.1
+2018,%,Total M,Ohangwena,,8,33.6
+2018,%,Youth,Omaheke,,9,46.6
+2018,%,Youth Female,Omaheke,,9,61
+2018,%,Youth Male,Omaheke,,9,35.8
+2018,%,Total F,Omaheke,,9,50.2
+2018,%,Total M,Omaheke,,9,30.5
+2018,%,Youth,Omusati,,10,39.7
+2018,%,Youth Female,Omusati,,10,41.3
+2018,%,Youth Male,Omusati,,10,38.1
+2018,%,Total F,Omusati,,10,21.5
+2018,%,Total M,Omusati,,10,27.6
+2018,%,Youth,Oshana,,11,47.2
+2018,%,Youth Female,Oshana,,11,46
+2018,%,Youth Male,Oshana,,11,48.5
+2018,%,Total F,Oshana,,11,30.2
+2018,%,Total M,Oshana,,11,35.7
+2018,%,Youth,Oshikoto,,12,50.2
+2018,%,Youth Female,Oshikoto,,12,49.9
+2018,%,Youth Male,Oshikoto,,12,50.4
+2018,%,Total F,Oshikoto,,12,35.3
+2018,%,Total M,Oshikoto,,12,37.1
+2018,%,Youth,Otjozondjupa,,13,47.4
+2018,%,Youth Female,Otjozondjupa,,13,52.9
+2018,%,Youth Male,Otjozondjupa,,13,42.5
+2018,%,Total F,Otjozondjupa,,13,41.5
+2018,%,Total M,Otjozondjupa,,13,31.3
+2018,%,Youth,Zambezi,,14,49.7
+2018,%,Youth Female,Zambezi,,14,51.4
+2018,%,Youth Male,Zambezi,,14,47.8
+2018,%,Total F,Zambezi,,14,39.99
+2018,%,Total M,Zambezi,,14,35.31
+2018,%,NDP5 Target,,,,24.2

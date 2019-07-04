@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Total,Disaggregation,Value
+2005,Per 100000,Total,,10.4
+2005,Per 100000,,Female,4.2
+2005,Per 100000,,Male,16.9
+2010,Per 100000,Total,,10.4
+2010,Per 100000,,Female,4.3
+2010,Per 100000,,Male,16.9
+2015,Per 100000,Total,,9
+2015,Per 100000,,Female,3.8
+2015,Per 100000,,Male,14.5
+2016,Per 100000,Total,,8.7
+2016,Per 100000,,Female,3.6
+2016,Per 100000,,Male,14.1

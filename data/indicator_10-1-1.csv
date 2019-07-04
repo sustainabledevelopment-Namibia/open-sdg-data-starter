@@ -1,6 +1,6 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2004,%,,,,9.57
-2010,%,,,,12.98
-2016,%,,,,11.82
-2010,%,Growth Rate per HH (bt 40 %/ Total Exp) (6y interval),,,273.6
-2016,%,Growth Rate per HH (bt 40 %/ Total Exp) (6y interval),,,75
+Year,Units,Disaggregation,Value
+2004,%,Contribution to Total Exp. By bt  40%,9.57
+2010,%,Growth Rate per HH (bt 40 %/ Total Exp) (6y interval),273.6
+2010,%,Contribution to Total Exp. By bt  40%,12.98
+2016,%,Growth Rate per HH (bt 40 %/ Total Exp) (6y interval),75
+2016,%,Contribution to Total Exp. By bt  40%,11.82

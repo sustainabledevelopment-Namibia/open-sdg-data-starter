@@ -1,5 +1,5 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2010,%,Total,,,17.8
-2016,%,Total,,,20.9
-2010,%,Parity Index,,,1.1
-2016,%,Parity Index,,,1.1
+Year,Units,Disaggregation,Value
+2010,%,,17.8
+2010,Ratio,Parity Index,1.1
+2016,%,,20.9
+2016,Ratio,Parity Index,1.1

@@ -1,17 +1,17 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2013,N$,Total,,,6802
-2013,N$,Total F,,,6125
-2013,N$,Total M,,,7315
-2013,N$,Parity Index,,,1.19428571428571
-2014,N$,Total,,,6626
-2014,N$,Total F,,,6164
-2014,N$,Total M,,,6965
-2014,N$,Parity Index,,,1.12994808565866
-2016,N$,Total,,,6759
-2016,N$,Total F,,,6642
-2016,N$,Total M,,,6850
-2016,N$,Parity Index,,,1.03131586871424
-2018,N$,Total,,,7935
-2018,N$,Total F,,,7789
-2018,N$,Total M,,,8052
-2018,N$,Parity Index,,,1.03376556682501
+Year,Units,Total,Disaggregation,Value
+2013,N$,Total,,6802
+2013,N$,,Female,6125
+2013,N$,,Male,7315
+2013,Ratio,,Parity Index,1.194285714
+2014,N$,Total,,6626
+2014,N$,,Female,6164
+2014,N$,,Male,6965
+2014,Ratio,,Parity Index,1.129948086
+2016,N$,Total,,6759
+2016,N$,,Female,6642
+2016,N$,,Male,6850
+2016,Ratio,,Parity Index,1.031315869
+2018,N$,Total,,7935
+2018,N$,,Female,7789
+2018,N$,,Male,8052
+2018,Ratio,,Parity Index,1.033765567

@@ -1,8 +1,8 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2013,%,,,,33
-2014,%,,,,35.42662939
-2017,%,,,,33
-2015,%,,,,34.8
-2016,%,,,,30.98576963
-2016,%,Tax Revenue Proportion,,,29.02239333
-2014,%,Tax Revenue Proportion,,,33.23210966
+Year,Units,Disaggregation,Value
+2013,%,Total Revenue Proportion,33
+2014,%,Total Revenue Proportion,35.42662939
+2014,%,Tax Revenue Proportion,33.23210966
+2015,%,Total Revenue Proportion,34.8
+2016,%,Total Revenue Proportion,30.98576963
+2016,%,Tax Revenue Proportion,29.02239333
+2017,%,Total Revenue Proportion,33

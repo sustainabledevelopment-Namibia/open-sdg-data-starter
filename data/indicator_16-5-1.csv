@@ -1,7 +1,6 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,Value
+2006,%,Government Official,71.9
+2009,%,Traditional Leader,51.8
+2015,%,Traditional Leader,75.8
+2018,%,Government Official,81.2
+2018,%,Traditional Leader,69.5

@@ -1,54 +1,54 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2010,%,,,,83.7
-2011,%,,,,80
-2016,%,,,,92.9
-2010,%,Urban,,,99
-2010,%,Rural,,,71.9
-2010,%,Total,!Karas,1,94.7
-2010,%,Total,Erongo,2,98.6
-2010,%,Total,Hardap,3,95.4
-2010,%,Total,Kavango East,4,76.7
-2010,%,Total,Kavango West,5,76.7
-2010,%,Total,Khomas,6,99.3
-2010,%,Total,Kunene,7,83.2
-2010,%,Total,Ohangwena,8,48.9
-2010,%,Total,Omaheke,9,97.7
-2010,%,Total,Omusati,10,55.4
-2010,%,Total,Oshana,11,91.6
-2010,%,Total,Oshikoto,12,77.4
-2010,%,Total,Otjozondjupa,13,98
-2010,%,Total,Zambezi,14,80.6
-2011,%,Urban,,,97.7
-2011,%,Rural,,,62.8
-2011,%,Total,!Karas,1,92.4
-2011,%,Total,Erongo,2,96.3
-2011,%,Total,Hardap,3,93.3
-2011,%,Total,Kavango East,4,66.1
-2011,%,Total,Kavango West,5,66.1
-2011,%,Total,Khomas,6,98.9
-2011,%,Total,Kunene,7,67.1
-2011,%,Total,Ohangwena,8,56.4
-2011,%,Total,Omaheke,9,85.1
-2011,%,Total,Omusati,10,51.6
-2011,%,Total,Oshana,11,84.2
-2011,%,Total,Oshikoto,12,69.7
-2011,%,Total,Otjozondjupa,13,94.5
-2011,%,Total,Zambezi,14,73.2
-2016,%,Urban,,,99.4
-2016,%,Rural,,,85
-2016,%,Total,!Karas,1,97.4
-2016,%,Total,Erongo,2,97.5
-2016,%,Total,Hardap,3,97.6
-2016,%,Total,Kavango East,4,85.9
-2016,%,Total,Kavango West,5,76.3
-2016,%,Total,Khomas,6,99.6
-2016,%,Total,Kunene,7,74.6
-2016,%,Total,Ohangwena,8,86.2
-2016,%,Total,Omaheke,9,96
-2016,%,Total,Omusati,10,85.6
-2016,%,Total,Oshana,11,98.4
-2016,%,Total,Oshikoto,12,93
-2016,%,Total,Otjozondjupa,13,98.3
-2016,%,Total,Zambezi,14,85.9
-2021,%,NDP5 Target Rural,,,95.5
-2021,%,NDP5 Target Urban,,,100
+Year,Units,Total,Disaggregation,NDP 5 Targets,Region,GeoCode,Value
+2010,%,Total,,,,,83.7
+2010,%,,Urban,,,,99
+2010,%,,Rural,,,,71.9
+2010,%,,,,!Karas,1,94.7
+2010,%,,,,Erongo,2,98.6
+2010,%,,,,Hardap,3,95.4
+2010,%,,,,Kavango East,4,76.7
+2010,%,,,,Kavango West,5,76.7
+2010,%,,,,Khomas,6,99.3
+2010,%,,,,Kunene,7,83.2
+2010,%,,,,Ohangwena,8,48.9
+2010,%,,,,Omaheke,9,97.7
+2010,%,,,,Omusati,10,55.4
+2010,%,,,,Oshana,11,91.6
+2010,%,,,,Oshikoto,12,77.4
+2010,%,,,,Otjozondjupa,13,98
+2010,%,,,,Zambezi,14,80.6
+2011,%,Total,,,,,80
+2011,%,,Urban,,,,97.7
+2011,%,,Rural,,,,62.8
+2011,%,,,,!Karas,1,92.4
+2011,%,,,,Erongo,2,96.3
+2011,%,,,,Hardap,3,93.3
+2011,%,,,,Kavango East,4,66.1
+2011,%,,,,Kavango West,5,66.1
+2011,%,,,,Khomas,6,98.9
+2011,%,,,,Kunene,7,67.1
+2011,%,,,,Ohangwena,8,56.4
+2011,%,,,,Omaheke,9,85.1
+2011,%,,,,Omusati,10,51.6
+2011,%,,,,Oshana,11,84.2
+2011,%,,,,Oshikoto,12,69.7
+2011,%,,,,Otjozondjupa,13,94.5
+2011,%,,,,Zambezi,14,73.2
+2016,%,Total,,,,,92.9
+2016,%,,Urban,,,,99.4
+2016,%,,Rural,,,,85
+2016,%,,,,!Karas,1,97.4
+2016,%,,,,Erongo,2,97.5
+2016,%,,,,Hardap,3,97.6
+2016,%,,,,Kavango East,4,85.9
+2016,%,,,,Kavango West,5,76.3
+2016,%,,,,Khomas,6,99.6
+2016,%,,,,Kunene,7,74.6
+2016,%,,,,Ohangwena,8,86.2
+2016,%,,,,Omaheke,9,96
+2016,%,,,,Omusati,10,85.6
+2016,%,,,,Oshana,11,98.4
+2016,%,,,,Oshikoto,12,93
+2016,%,,,,Otjozondjupa,13,98.3
+2016,%,,,,Zambezi,14,85.9
+2021,%,,,NDP5 Target Rural,,,95.5
+2021,%,,,NDP5 Target Urban,,,100

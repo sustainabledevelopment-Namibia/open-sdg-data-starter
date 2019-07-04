@@ -1,5 +1,4 @@
-Year,Units,Disaggregation,Region,GeoCode,Value
-2014,,,,,
-2014,%,Small,,,19
-2014,%,Medium,,,31
-2014,%,Large,,,13
+Year,Units,Disaggregation,Value
+2014,%,Small,19
+2014,%,Medium,31
+2014,%,Large,13
