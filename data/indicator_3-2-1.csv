@@ -1,44 +1,45 @@
-Year,Units,Total,Disaggregation,Region,GeoCode,Value
-2000,per 1000,Total,,,,62
-2000,per 1000,,Female,,,54
-2000,per 1000,,Male,,,66.5
-2000,per 1000,,Urban,,,49.5
-2000,per 1000,,Rural,,,66.1
-2006,per 1000,Total,,,,69
-2006,per 1000,,Female,,,58
-2006,per 1000,,Male,,,79
-2006,per 1000,,Urban,,,60
-2006,per 1000,,Rural,,,76
-2006,per 1000,,,!Karas,1,59
-2006,per 1000,,,Erongo,2,65
-2006,per 1000,,,Hardap,3,73
-2006,per 1000,,,Kavango East,4,67
-2006,per 1000,,,Kavango West,5,67
-2006,per 1000,,,Khomas,6,52
-2006,per 1000,,,Kunene,7,49
-2006,per 1000,,,Ohangwena,8,95
-2006,per 1000,,,Omaheke,9,63
-2006,per 1000,,,Omusati,10,76
-2006,per 1000,,,Oshana,11,74
-2006,per 1000,,,Oshikoto,12,64
-2006,per 1000,,,Otjozondjupa,13,67
-2006,per 1000,,,Zambezi,14,93
-2013,per 1000,,Female,,,54
-2013,per 1000,,Male,,,64
-2013,per 1000,,Urban,,,54
-2013,per 1000,,Rural,,,64
-2013,per 1000,Total,,,,54
-2013,per 1000,,,!Karas,1,44
-2013,per 1000,,,Erongo,2,53
-2013,per 1000,,,Hardap,3,38
-2013,per 1000,,,Kavango East,4,97
-2013,per 1000,,,Kavango West,5,97
-2013,per 1000,,,Khomas,6,41
-2013,per 1000,,,Kunene,7,45
-2013,per 1000,,,Ohangwena,8,79
-2013,per 1000,,,Omaheke,9,46
-2013,per 1000,,,Omusati,10,45
-2013,per 1000,,,Oshana,11,46
-2013,per 1000,,,Oshikoto,12,68
-2013,per 1000,,,Otjozondjupa,13,51
-2013,per 1000,,,Zambezi,14,73
+Year,Units,Total,Disaggregation,Region,NDP 5 Target,GeoCode,Value
+2000,per 1000,Total,,,,,62
+2000,per 1000,,Female,,,,54
+2000,per 1000,,Male,,,,66.5
+2000,per 1000,,Urban,,,,49.5
+2000,per 1000,,Rural,,,,66.1
+2006,per 1000,Total,,,,,69
+2006,per 1000,,Female,,,,58
+2006,per 1000,,Male,,,,79
+2006,per 1000,,Urban,,,,60
+2006,per 1000,,Rural,,,,76
+2006,per 1000,Total,,!Karas,,1,59
+2006,per 1000,Total,,Erongo,,2,65
+2006,per 1000,Total,,Hardap,,3,73
+2006,per 1000,Total,,Kavango East,,4,67
+2006,per 1000,Total,,Kavango West,,5,67
+2006,per 1000,Total,,Khomas,,6,52
+2006,per 1000,Total,,Kunene,,7,49
+2006,per 1000,Total,,Ohangwena,,8,95
+2006,per 1000,Total,,Omaheke,,9,63
+2006,per 1000,Total,,Omusati,,10,76
+2006,per 1000,Total,,Oshana,,11,74
+2006,per 1000,Total,,Oshikoto,,12,64
+2006,per 1000,Total,,Otjozondjupa,,13,67
+2006,per 1000,Total,,Zambezi,,14,93
+2013,per 1000,,Female,,,,54
+2013,per 1000,,Male,,,,64
+2013,per 1000,,Urban,,,,54
+2013,per 1000,,Rural,,,,64
+2013,per 1000,Total,,,,,54
+2013,per 1000,Total,,!Karas,,1,44
+2013,per 1000,Total,,Erongo,,2,53
+2013,per 1000,Total,,Hardap,,3,38
+2013,per 1000,Total,,Kavango East,,4,97
+2013,per 1000,Total,,Kavango West,,5,97
+2013,per 1000,Total,,Khomas,,6,41
+2013,per 1000,Total,,Kunene,,7,45
+2013,per 1000,Total,,Ohangwena,,8,79
+2013,per 1000,Total,,Omaheke,,9,46
+2013,per 1000,Total,,Omusati,,10,45
+2013,per 1000,Total,,Oshana,,11,46
+2013,per 1000,Total,,Oshikoto,,12,68
+2013,per 1000,Total,,Otjozondjupa,,13,51
+2013,per 1000,Total,,Zambezi,,14,73
+2019,,,,,NDP 5 Target,,48
