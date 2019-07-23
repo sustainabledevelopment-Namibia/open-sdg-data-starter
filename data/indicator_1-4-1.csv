@@ -1,4 +1,4 @@
-Year,Units,Total,Disaggregation,NDP 5 Target,Region,Value
+Year,Units,Total,Disaggregation,NDP 5 Target,Regional Total,Value
 2010,%,Total,,,,76.2
 2010,%,,Total F,,,79.4
 2010,%,,Total M,,,73.7
@@ -9,8 +9,8 @@ Year,Units,Total,Disaggregation,NDP 5 Target,Region,Value
 2016,%,,Total M,,,77.8
 2016,%,,Urban,,,70.4
 2016,%,,Rural,,,90.9
-2016,%,,,,Karas,82
-2016,%,,,,Erongo,67
+2016,%,Total,,,Karas,82
+2016,%,Total,,,Erongo,67
 2016,%,,,,Hardap,74.8
 2016,%,,,,Kavango East,95.6
 2016,%,,,,Kavango West,97
