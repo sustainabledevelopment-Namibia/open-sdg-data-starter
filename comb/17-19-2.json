@@ -1,1 +1,1 @@
-{"data":{"Year":[2011,2016,2016,2016],"Units":["%","%","%","%"],"Disaggregation":[null,null,"Urban Coverage","Rural Coverage"],"Value":[92.0,89.3,93.5,85.5]},"edges":[]}
+{"data":{"Year":[2011,2016,2016,2016],"Units":["%","%","%","%"],"Total":["Total","Total",null,null],"Disaggregation":[null,null,"Urban","Rural"],"Value":[92.0,89.3,93.5,85.5]},"edges":[]}

@@ -1,5 +1,5 @@
-Year,Units,Disaggregation,Value
-2011,%,,92.0
-2016,%,,89.3
-2016,%,Urban Coverage,93.5
-2016,%,Rural Coverage,85.5
+Year,Units,Total,Disaggregation,Value
+2011,%,Total,,92.0
+2016,%,Total,,89.3
+2016,%,,Urban,93.5
+2016,%,,Rural,85.5
