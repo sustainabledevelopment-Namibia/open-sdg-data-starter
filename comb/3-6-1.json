@@ -1,1 +1,1 @@
-{"data":{"Year":[2013,2014,2015],"Units":["per 100000","per 100000","per 100000"],"Disaggregation":["Death rate","Death rate","Death rate"],"Value":[26.8,28.05,28.26]},"edges":[]}
+{"data":{"Year":[2013,2014,2015],"Units":["per 100000","per 100000","per 100000"],"Total":["Death rate","Death rate","Death rate"],"Value":[26.8,28.05,28.26]},"edges":[]}
