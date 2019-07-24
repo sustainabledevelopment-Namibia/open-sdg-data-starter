@@ -11,88 +11,88 @@ Year,Units,Total,Disaggregation,Region,NDP 5 Target,GeoCode,Value
 2012,%,,Total Male Youth Rural,,,,34.0
 2012,%,,Total F,,,,31.8
 2012,%,,Total M,,,,22.9
-2012,%,,Urban,,,,28.3
-2012,%,,Rural,,,,26.2
-2012,%,,,!Karas,,1.0,23.9
+2012,%,,Total Urban,,,,28.3
+2012,%,,Total Rural,,,,26.2
+2012,%,Total,,!Karas,,1.0,23.9
 2012,%,,Youth Female,!Karas,,1.0,39.2
 2012,%,,Youth Male,!Karas,,1.0,21.2
-2012,%,,Youth,!Karas,,1.0,31.1
+2012,%,Total Youth unemployment,Youth,!Karas,,1.0,31.1
 2012,%,,Total F,!Karas,,1.0,30.7
 2012,%,,Total M,!Karas,,1.0,17.6
-2012,%,,Youth,Erongo,,2.0,32.2
+2012,%,Total Youth unemployment,,Erongo,,2.0,32.2
 2012,%,,Youth Female,Erongo,,2.0,43.0
 2012,%,,Youth Male,Erongo,,2.0,23.3
-2012,%,,,Erongo,,2.0,25.5
+2012,%,Total,,Erongo,,2.0,25.5
 2012,%,,Total F,Erongo,,2.0,34.5
 2012,%,,Total M,Erongo,,2.0,18.9
-2012,%,,,Hardap,,3.0,28.8
-2012,%,,Youth,Hardap,,3.0,34.9
+2012,%,Total,,Hardap,,3.0,28.8
+2012,%,Total Youth unemployment,,Hardap,,3.0,34.9
 2012,%,,Total F,Hardap,,3.0,39.0
 2012,%,,Youth Female,Hardap,,3.0,46.9
 2012,%,,Youth Male,Hardap,,3.0,24.2
 2012,%,,Total M,Hardap,,3.0,21.5
-2012,%,,,Kavango East,,4.0,29.8
+2012,%,Total,,Kavango East,,4.0,29.8
 2012,%,,Total F,Kavango East,,4.0,31.7
-2012,%,,Youth,Kavango East,,4.0,41.7
+2012,%,Total Youth unemployment,,Kavango East,,4.0,41.7
 2012,%,,Youth Female,Kavango East,,4.0,44.4
 2012,%,,Youth Male,Kavango East,,4.0,40.4
 2012,%,,Total M,Kavango East,,4.0,27.3
-2012,%,,Youth,Kavango West,,4.0,41.7
-2012,%,,,Kavango West,,5.0,29.8
+2012,%,Total Youth unemployment,,Kavango West,,4.0,41.7
+2012,%,Total,,Kavango West,,5.0,29.8
 2012,%,,Youth Female,Kavango West,,5.0,44.4
 2012,%,,Youth Male,Kavango West,,5.0,40.4
 2012,%,,Total F,Kavango West,,5.0,31.7
 2012,%,,Total M,Kavango West,,5.0,27.3
-2012,%,,,Khomas,,6.0,26.5
-2012,%,,Youth,Khomas,,6.0,36.6
+2012,%,Total,,Khomas,,6.0,26.5
+2012,%,Total Youth unemployment,,Khomas,,6.0,36.6
 2012,%,,Youth Female,Khomas,,6.0,42.0
 2012,%,,Youth Male,Khomas,,6.0,30.7
 2012,%,,Total F,Khomas,,6.0,31.0
 2012,%,,Total M,Khomas,,6.0,22.7
-2012,%,,,Kunene,,7.0,27.0
-2012,%,,Youth,Kunene,,7.0,29.7
+2012,%,Total,,Kunene,,7.0,27.0
+2012,%,Total Youth unemployment,,Kunene,,7.0,29.7
 2012,%,,Total F,Kunene,,7.0,35.4
 2012,%,,Youth Female,Kunene,,7.0,36.7
 2012,%,,Youth Male,Kunene,,7.0,25.0
 2012,%,,Total M,Kunene,,7.0,20.0
-2012,%,,,Ohangwena,,8.0,34.6
-2012,%,,Youth,Ohangwena,,8.0,41.5
+2012,%,Total,,Ohangwena,,8.0,34.6
+2012,%,Total Youth unemployment,,Ohangwena,,8.0,41.5
 2012,%,,Youth Female,Ohangwena,,8.0,43.7
 2012,%,,Youth Male,Ohangwena,,8.0,41.6
 2012,%,,Total F,Ohangwena,,8.0,34.9
 2012,%,,Total M,Ohangwena,,8.0,34.2
-2012,%,,,Omaheke,,9.0,34.1
+2012,%,Total,,Omaheke,,9.0,34.1
 2012,%,,Youth Female,Omaheke,,9.0,59.5
 2012,%,,Youth Male,Omaheke,,9.0,30.4
 2012,%,,Total F,Omaheke,,9.0,47.1
-2012,%,,Youth,Omaheke,,9.0,42.5
+2012,%,Total Youth unemployment,,Omaheke,,9.0,42.5
 2012,%,,Total M,Omaheke,,9.0,23.6
-2012,%,,,Omusati,,10.0,28.9
+2012,%,Total,,Omusati,,10.0,28.9
 2012,%,,Total F,Omusati,,10.0,29.1
 2012,%,,Youth Female,Omusati,,10.0,47.7
 2012,%,,Youth Male,Omusati,,10.0,46.3
-2012,%,,Youth,Omusati,,10.0,46.8
+2012,%,Total Youth unemployment,,Omusati,,10.0,46.8
 2012,%,,Total M,Omusati,,10.0,28.7
-2012,%,,,Oshana,,11.0,24.5
+2012,%,Total,,Oshana,,11.0,24.5
 2012,%,,Total F,Oshana,,11.0,23.5
 2012,%,,Youth Female,Oshana,,11.0,40.1
 2012,%,,Youth Male,Oshana,,11.0,42.1
-2012,%,,Youth,Oshana,,11.0,39.8
+2012,%,Total Youth unemployment,,Oshana,,11.0,39.8
 2012,%,,Total M,Oshana,,11.0,26.1
-2012,%,,,Oshikoto,,12.0,26.4
+2012,%,Total,,Oshikoto,,12.0,26.4
 2012,%,,Total F,Oshikoto,,12.0,28.1
 2012,%,,Youth Female,Oshikoto,,12.0,48.1
 2012,%,,Youth Male,Oshikoto,,12.0,37.9
-2012,%,,Youth,Oshikoto,,12.0,43.1
+2012,%,Total Youth unemployment,,Oshikoto,,12.0,43.1
 2012,%,,Total M,Oshikoto,,12.0,24.1
-2012,%,,,Otjozondjupa,,13.0,25.3
+2012,%,Total,,Otjozondjupa,,13.0,25.3
 2012,%,,Youth Female,Otjozondjupa,,13.0,44.1
 2012,%,,Youth Male,Otjozondjupa,,13.0,20.5
-2012,%,,Youth,Otjozondjupa,,13.0,31.9
+2012,%,Total Youth unemployment,,Otjozondjupa,,13.0,31.9
 2012,%,,Total F,Otjozondjupa,,13.0,37.9
 2012,%,,Total M,Otjozondjupa,,13.0,15.4
-2012,%,,,Zambezi,,14.0,28.0
-2012,%,,Youth,Zambezi,,14.0,39.3
+2012,%,Total,,Zambezi,,14.0,28.0
+2012,%,Total Youth unemployment,,Zambezi,,14.0,39.3
 2012,%,,Youth Female,Zambezi,,14.0,43.9
 2012,%,,Youth Male,Zambezi,,14.0,30.9
 2012,%,,Total F,Zambezi,,14.0,33.5
@@ -109,88 +109,88 @@ Year,Units,Total,Disaggregation,Region,NDP 5 Target,GeoCode,Value
 2013,%,,Total Male Youth Rural,,,,43.7
 2013,%,,Total F,,,,33.1
 2013,%,,Total M,,,,25.8
-2013,%,,Urban,,,,29.1
-2013,%,,Rural,,,,30.2
-2013,%,,,!Karas,,1.0,21.6
+2013,%,,Total Urban,,,,29.1
+2013,%,,Total Rural,,,,30.2
+2013,%,Total,,!Karas,,1.0,21.6
 2013,%,,Youth Female,!Karas,,1.0,37.4
 2013,%,,Youth Male,!Karas,,1.0,24.9
 2013,%,,Total F,!Karas,,1.0,30.0
-2013,%,,Youth,!Karas,,1.0,30.0
+2013,%,Total Youth unemployment,,!Karas,,1.0,30.0
 2013,%,,Total M,!Karas,,1.0,21.6
-2013,%,,,Erongo,,2.0,23.7
+2013,%,Total,,Erongo,,2.0,23.7
 2013,%,,Youth Female,Erongo,,2.0,39.5
 2013,%,,Youth Male,Erongo,,2.0,23.7
-2013,%,,Youth,Erongo,,2.0,31.9
+2013,%,Total Youth unemployment,,Erongo,,2.0,31.9
 2013,%,,Total F,Erongo,,2.0,32.4
 2013,%,,Total M,Erongo,,2.0,16.3
-2013,%,,,Hardap,,3.0,32.2
+2013,%,Total,,Hardap,,3.0,32.2
 2013,%,,Youth Female,Hardap,,3.0,53.2
 2013,%,,Youth Male,Hardap,,3.0,38.9
-2013,%,,Youth,Hardap,,3.0,43.1
+2013,%,Total Youth unemployment,,Hardap,,3.0,43.1
 2013,%,,Total F,Hardap,,3.0,41.2
 2013,%,,Total M,Hardap,,3.0,32.2
-2013,%,,,Kavango East,,4.0,35.6
+2013,%,Total,,Kavango East,,4.0,35.6
 2013,%,,Youth Female,Kavango East,,4.0,54.6
 2013,%,,Youth Male,Kavango East,,4.0,55.6
 2013,%,,Total F,Kavango East,,4.0,35.3
-2013,%,,Youth,Kavango East,,4.0,53.3
+2013,%,Total Youth unemployment,,Kavango East,,4.0,53.3
 2013,%,,Total M,Kavango East,,4.0,35.6
-2013,%,,,Kavango West,,5.0,35.6
+2013,%,Total,,Kavango West,,5.0,35.6
 2013,%,,Youth Female,Kavango West,,5.0,54.6
 2013,%,,Youth Male,Kavango West,,5.0,55.6
 2013,%,,Total F,Kavango West,,5.0,35.3
 2013,%,,Total M,Kavango West,,5.0,35.6
-2013,%,,Youth,Kavango West,,5.0,53.3
-2013,%,,,Khomas,,6.0,27.7
+2013,%,Total Youth unemployment,,Kavango West,,5.0,53.3
+2013,%,Total,,Khomas,,6.0,27.7
 2013,%,,Youth Female,Khomas,,6.0,41.8
 2013,%,,Youth Male,Khomas,,6.0,31.0
 2013,%,,Total F,Khomas,,6.0,32.2
 2013,%,,Total M,Khomas,,6.0,23.4
-2013,%,,Youth,Khomas,,6.0,36.7
-2013,%,,,Kunene,,7.0,39.8
+2013,%,Total Youth unemployment,,Khomas,,6.0,36.7
+2013,%,Total,,Kunene,,7.0,39.8
 2013,%,,Youth Female,Kunene,,7.0,56.6
 2013,%,,Youth Male,Kunene,,7.0,36.0
 2013,%,,Total F,Kunene,,7.0,51.8
-2013,%,,Youth,Kunene,,7.0,47.2
+2013,%,Total Youth unemployment,,Kunene,,7.0,47.2
 2013,%,,Total M,Kunene,,7.0,27.4
-2013,%,,,Ohangwena,,8.0,32.7
+2013,%,Total,,Ohangwena,,8.0,32.7
 2013,%,,Youth Female,Ohangwena,,8.0,51.8
 2013,%,,Youth Male,Ohangwena,,8.0,63.6
 2013,%,,Total F,Ohangwena,,8.0,28.6
 2013,%,,Total M,Ohangwena,,8.0,40.1
-2013,%,,Youth,Ohangwena,,8.0,54.8
-2013,%,,,Omaheke,,9.0,26.1
+2013,%,Total Youth unemployment,,Ohangwena,,8.0,54.8
+2013,%,Total,,Omaheke,,9.0,26.1
 2013,%,,Youth Female,Omaheke,,9.0,41.8
 2013,%,,Youth Male,Omaheke,,9.0,20.1
 2013,%,,Total F,Omaheke,,9.0,35.2
-2013,%,,Youth,Omaheke,,9.0,28.6
+2013,%,Total Youth unemployment,,Omaheke,,9.0,28.6
 2013,%,,Total M,Omaheke,,9.0,18.4
-2013,%,,,Omusati,,10.0,28.8
+2013,%,Total,,Omusati,,10.0,28.8
 2013,%,,Youth Female,Omusati,,10.0,52.7
 2013,%,,Youth Male,Omusati,,10.0,66.3
 2013,%,,Total F,Omusati,,10.0,24.3
-2013,%,,Youth,Omusati,,10.0,57.1
+2013,%,Total Youth unemployment,,Omusati,,10.0,57.1
 2013,%,,Total M,Omusati,,10.0,37.1
-2013,%,,,Oshana,,11.0,33.6
+2013,%,Total,,Oshana,,11.0,33.6
 2013,%,,Youth Female,Oshana,,11.0,50.1
 2013,%,,Youth Male,Oshana,,11.0,45.7
 2013,%,,Total F,Oshana,,11.0,33.9
 2013,%,,Total M,Oshana,,11.0,33.1
-2013,%,,Youth,Oshana,,11.0,47.6
-2013,%,,,Oshikoto,,12.0,31.5
+2013,%,Total Youth unemployment,,Oshana,,11.0,47.6
+2013,%,Total,,Oshikoto,,12.0,31.5
 2013,%,,Youth Female,Oshikoto,,12.0,46.2
 2013,%,,Youth Male,Oshikoto,,12.0,33.8
 2013,%,,Total F,Oshikoto,,12.0,34.6
 2013,%,,Total M,Oshikoto,,12.0,27.9
-2013,%,,Youth,Oshikoto,,12.0,38.6
-2013,%,,,Otjozondjupa,,13.0,25.3
+2013,%,Total Youth unemployment,,Oshikoto,,12.0,38.6
+2013,%,Total,,Otjozondjupa,,13.0,25.3
 2013,%,,Youth Female,Otjozondjupa,,13.0,48.0
 2013,%,,Youth Male,Otjozondjupa,,13.0,22.5
 2013,%,,Total F,Otjozondjupa,,13.0,36.7
-2013,%,,Youth,Otjozondjupa,,13.0,33.8
+2013,%,Total Youth unemployment,,Otjozondjupa,,13.0,33.8
 2013,%,,Total M,Otjozondjupa,,13.0,16.5
-2013,%,,,Zambezi,,14.0,29.5
-2013,%,,Youth,Zambezi,,14.0,37.8
+2013,%,Total,,Zambezi,,14.0,29.5
+2013,%,Total Youth unemployment,,Zambezi,,14.0,37.8
 2013,%,,Youth Female,Zambezi,,14.0,44.4
 2013,%,,Youth Male,Zambezi,,14.0,28.9
 2013,%,,Total F,Zambezi,,14.0,35.8
@@ -207,94 +207,94 @@ Year,Units,Total,Disaggregation,Region,NDP 5 Target,GeoCode,Value
 2014,%,,Total Male Youth Rural,,,,38.1
 2014,%,,Total F,,,,31.7
 2014,%,,Total M,,,,24.3
-2014,%,,Urban,,,,26.2
-2014,%,,Rural,,,,30.2
-2014,%,,,!Karas,,1.0,25.0
+2014,%,,Total Urban,,,,26.2
+2014,%,,Total Rural,,,,30.2
+2014,%,Total,,!Karas,,1.0,25.0
 2014,%,,Youth Female,!Karas,,1.0,44.3
 2014,%,,Youth Male,!Karas,,1.0,27.0
 2014,%,,Total F,!Karas,,1.0,31.7
-2014,%,,Youth,!Karas,,1.0,24.8
+2014,%,Total Youth unemployment,,!Karas,,1.0,24.8
 2014,%,,Total M,!Karas,,1.0,19.6
-2014,%,,,Erongo,,2.0,23.9
+2014,%,Total,,Erongo,,2.0,23.9
 2014,%,,Youth Female,Erongo,,2.0,37.5
 2014,%,,Youth Male,Erongo,,2.0,24.8
 2014,%,,Total F,Erongo,,2.0,31.9
-2014,%,,Youth,Erongo,,2.0,24.2
+2014,%,Total Youth unemployment,,Erongo,,2.0,24.2
 2014,%,,Total M,Erongo,,2.0,18.0
-2014,%,,,Hardap,,3.0,29.7
+2014,%,Total,,Hardap,,3.0,29.7
 2014,%,,Youth Female,Hardap,,3.0,48.1
 2014,%,,Youth Male,Hardap,,3.0,31.0
 2014,%,,Total F,Hardap,,3.0,39.3
-2014,%,,Youth,Hardap,,3.0,29.6
+2014,%,Total Youth unemployment,,Hardap,,3.0,29.6
 2014,%,,Total M,Hardap,,3.0,21.7
-2014,%,,,Kavango East,,4.0,36.3
+2014,%,Total,,Kavango East,,4.0,36.3
 2014,%,,Youth Female,Kavango East,,4.0,51.5
 2014,%,,Youth Male,Kavango East,,4.0,42.1
 2014,%,,Total F,Kavango East,,4.0,39.2
-2014,%,,Youth,Kavango East,,4.0,42.5
+2014,%,Total Youth unemployment,,Kavango East,,4.0,42.5
 2014,%,,Total M,Kavango East,,4.0,32.4
-2014,%,,,Kavango West,,5.0,26.4
+2014,%,Total,,Kavango West,,5.0,26.4
 2014,%,,Youth Female,Kavango West,,5.0,40.4
 2014,%,,Youth Male,Kavango West,,5.0,33.7
 2014,%,,Total F,Kavango West,,5.0,28.5
-2014,%,,Youth,Kavango West,,5.0,33.2
+2014,%,Total Youth unemployment,,Kavango West,,5.0,33.2
 2014,%,,Total M,Kavango West,,5.0,23.9
-2014,%,,,Khomas,,6.0,22.3
+2014,%,Total,,Khomas,,6.0,22.3
 2014,%,,Youth Female,Khomas,,6.0,36.2
 2014,%,,Youth Male,Khomas,,6.0,27.7
 2014,%,,Total F,Khomas,,6.0,26.0
 2014,%,,Total M,Khomas,,6.0,19.0
-2014,%,,Youth,Khomas,,6.0,28.4
-2014,%,,,Kunene,,7.0,32.6
+2014,%,Total Youth unemployment,,Khomas,,6.0,28.4
+2014,%,Total,,Kunene,,7.0,32.6
 2014,%,,Youth Female,Kunene,,7.0,46.1
 2014,%,,Youth Male,Kunene,,7.0,34.6
 2014,%,,Total F,Kunene,,7.0,39.6
-2014,%,,Youth,Kunene,,7.0,34.3
+2014,%,Total Youth unemployment,,Kunene,,7.0,34.3
 2014,%,,Total M,Kunene,,7.0,26.5
-2014,%,,,Ohangwena,,8.0,38.2
+2014,%,Total,,Ohangwena,,8.0,38.2
 2014,%,,Youth Female,Ohangwena,,8.0,51.5
 2014,%,,Youth Male,Ohangwena,,8.0,60.5
 2014,%,,Total F,Ohangwena,,8.0,32.7
-2014,%,,Youth,Ohangwena,,8.0,62.6
+2014,%,Total Youth unemployment,,Ohangwena,,8.0,62.6
 2014,%,,Total M,Ohangwena,,8.0,46.2
-2014,%,,,Omaheke,,9.0,26.9
+2014,%,Total,,Omaheke,,9.0,26.9
 2014,%,,Youth Female,Omaheke,,9.0,44.2
 2014,%,,Youth Male,Omaheke,,9.0,18.1
 2014,%,,Total F,Omaheke,,9.0,42.3
 2014,%,,Total M,Omaheke,,9.0,15.2
-2014,%,,Youth,Omaheke,,9.0,18.6
-2014,%,,,Omusati,,10.0,22.9
+2014,%,Total Youth unemployment,,Omaheke,,9.0,18.6
+2014,%,Total,,Omusati,,10.0,22.9
 2014,%,,Youth Female,Omusati,,10.0,40.6
 2014,%,,Youth Male,Omusati,,10.0,44.4
 2014,%,,Total F,Omusati,,10.0,20.5
 2014,%,,Total M,Omusati,,10.0,26.8
-2014,%,,Youth,Omusati,,10.0,44.2
-2014,%,,,Oshana,,11.0,32.6
+2014,%,Total Youth unemployment,,Omusati,,10.0,44.2
+2014,%,Total,,Oshana,,11.0,32.6
 2014,%,,Youth Female,Oshana,,11.0,50.6
 2014,%,,Youth Male,Oshana,,11.0,44.4
 2014,%,,Total F,Oshana,,11.0,32.8
-2014,%,,Youth,Oshana,,11.0,44.6
+2014,%,Total Youth unemployment,,Oshana,,11.0,44.6
 2014,%,,Total M,Oshana,,11.0,32.3
-2014,%,,,Oshikoto,,12.0,27.6
+2014,%,Total,,Oshikoto,,12.0,27.6
 2014,%,,Youth Female,Oshikoto,,12.0,44.7
 2014,%,,Youth Male,Oshikoto,,12.0,28.9
-2014,%,,Youth,Oshikoto,,12.0,29.4
+2014,%,Total Youth unemployment,,Oshikoto,,12.0,29.4
 2014,%,,Total F,Oshikoto,,12.0,30.9
 2014,%,,Total M,Oshikoto,,12.0,23.8
-2014,%,,,Otjozondjupa,,13.0,33.2
+2014,%,Total,,Otjozondjupa,,13.0,33.2
 2014,%,,Youth Female,Otjozondjupa,,13.0,57.5
 2014,%,,Youth Male,Otjozondjupa,,13.0,27.2
 2014,%,,Total F,Otjozondjupa,,13.0,46.2
-2014,%,,Youth,Otjozondjupa,,13.0,27.6
+2014,%,Total Youth unemployment,,Otjozondjupa,,13.0,27.6
 2014,%,,Total M,Otjozondjupa,,13.0,22.8
-2014,%,,,Zambezi,,14.0,31.9
+2014,%,Total,,Zambezi,,14.0,31.9
 2014,%,,Youth Female,Zambezi,,14.0,49.0
 2014,%,,Youth Male,Zambezi,,14.0,39.1
 2014,%,,Total F,Zambezi,,14.0,37.3
-2014,%,,Youth,Zambezi,,14.0,39.2
+2014,%,Total Youth unemployment,,Zambezi,,14.0,39.2
 2014,%,,Total M,Zambezi,,14.0,26.3
 2016,%,Total,,,,,34.0
-2016,%,Total Youth unemployment,,,,,43.4
+2016,%,Youth unemployement,,,,,43.4
 2016,%,,Total Youth Female,,,,49.4
 2016,%,,Total Youth Male,,,,37.5
 2016,%,,Total Youth Urban,,,,38.1
@@ -305,98 +305,98 @@ Year,Units,Total,Disaggregation,Region,NDP 5 Target,GeoCode,Value
 2016,%,,Total Male Youth Rural,,,,43.4
 2016,%,,Total F,,,,38.3
 2016,%,,Total M,,,,29.8
-2016,%,,Urban,,,,30.3
-2016,%,,Rural,,,,39.2
-2016,%,,,!Karas,,1.0,23.0
+2016,%,,Total Urban,,,,30.3
+2016,%,,Total Rural,,,,39.2
+2016,%,Total,,!Karas,,1.0,23.0
 2016,%,,Youth Female,!Karas,,1.0,38.4
 2016,%,,Youth Male,!Karas,,1.0,24.1
 2016,%,,Total F,!Karas,,1.0,30.5
 2016,%,,Total M,!Karas,,1.0,16.7
-2016,%,,Youth,!Karas,,1.0,30.9
-2016,%,,,Erongo,,2.0,29.2
+2016,%,Total Youth unemployment,,!Karas,,1.0,30.9
+2016,%,Total,,Erongo,,2.0,29.2
 2016,%,,Youth Female,Erongo,,2.0,33.2
 2016,%,,Youth Male,Erongo,,2.0,20.5
 2016,%,,Total F,Erongo,,2.0,29.2
 2016,%,,Total M,Erongo,,2.0,16.2
-2016,%,,Youth,Erongo,,2.0,26.3
-2016,%,,,Hardap,,3.0,37.7
+2016,%,Total Youth unemployment,,Erongo,,2.0,26.3
+2016,%,Total,,Hardap,,3.0,37.7
 2016,%,,Youth Female,Hardap,,3.0,61.2
 2016,%,,Youth Male,Hardap,,3.0,33.3
 2016,%,,Total F,Hardap,,3.0,47.9
-2016,%,,Youth,Hardap,,3.0,45.9
+2016,%,Total Youth unemployment,,Hardap,,3.0,45.9
 2016,%,,Total M,Hardap,,3.0,29.6
-2016,%,,,Kavango East,,4.0,39.6
+2016,%,Total,,Kavango East,,4.0,39.6
 2016,%,,Youth Female,Kavango East,,4.0,49.5
 2016,%,,Youth Male,Kavango East,,4.0,40.8
 2016,%,,Total F,Kavango East,,4.0,42.8
-2016,%,,Youth,Kavango East,,4.0,45.8
+2016,%,Total Youth unemployment,,Kavango East,,4.0,45.8
 2016,%,,Total M,Kavango East,,4.0,35.2
-2016,%,,,Kavango West,,5.0,36.4
+2016,%,Total,,Kavango West,,5.0,36.4
 2016,%,,Youth Female,Kavango West,,5.0,59.5
 2016,%,,Youth Male,Kavango West,,5.0,42.8
 2016,%,,Total F,Kavango West,,5.0,40.2
-2016,%,,Youth,Kavango West,,5.0,52.6
+2016,%,Total Youth unemployment,,Kavango West,,5.0,52.6
 2016,%,,Total M,Kavango West,,5.0,31.5
-2016,%,,,Khomas,,6.0,28.4
+2016,%,Total,,Khomas,,6.0,28.4
 2016,%,,Youth Female,Khomas,,6.0,40.9
 2016,%,,Youth Male,Khomas,,6.0,34.1
 2016,%,,Total F,Khomas,,6.0,30.3
-2016,%,,Youth,Khomas,,6.0,37.5
+2016,%,Total Youth unemployment,,Khomas,,6.0,37.5
 2016,%,,Total M,Khomas,,6.0,26.7
-2016,%,,,Kunene,,7.0,52.2
+2016,%,Total,,Kunene,,7.0,52.2
 2016,%,,Youth Female,Kunene,,7.0,72.1
 2016,%,,Youth Male,Kunene,,7.0,55.0
 2016,%,,Total F,Kunene,,7.0,62.8
-2016,%,,Youth,Kunene,,7.0,63.2
+2016,%,Total Youth unemployment,,Kunene,,7.0,63.2
 2016,%,,Total M,Kunene,,7.0,42.9
-2016,%,,,Ohangwena,,8.0,45.4
+2016,%,Total,,Ohangwena,,8.0,45.4
 2016,%,,Youth Female,Ohangwena,,8.0,58.0
 2016,%,,Youth Male,Ohangwena,,8.0,52.9
 2016,%,,Total F,Ohangwena,,8.0,46.6
 2016,%,,Total M,Ohangwena,,8.0,43.9
-2016,%,,Youth,Ohangwena,,8.0,55.7
-2016,%,,,Omaheke,,9.0,26.9
+2016,%,Total Youth unemployment,,Ohangwena,,8.0,55.7
+2016,%,Total,,Omaheke,,9.0,26.9
 2016,%,,Youth Female,Omaheke,,9.0,47.1
 2016,%,,Youth Male,Omaheke,,9.0,22.2
 2016,%,,Total F,Omaheke,,9.0,39.3
-2016,%,,Youth,Omaheke,,9.0,32.8
+2016,%,Total Youth unemployment,,Omaheke,,9.0,32.8
 2016,%,,Total M,Omaheke,,9.0,17.7
-2016,%,,,Omusati,,10.0,40.2
+2016,%,Total,,Omusati,,10.0,40.2
 2016,%,,Youth Female,Omusati,,10.0,56.3
 2016,%,,Youth Male,Omusati,,10.0,52.4
 2016,%,,Total F,Omusati,,10.0,37.6
-2016,%,,Youth,Omusati,,10.0,54.5
+2016,%,Total Youth unemployment,,Omusati,,10.0,54.5
 2016,%,,Total M,Omusati,,10.0,43.8
-2016,%,,,Oshana,,11.0,29.5
+2016,%,Total,,Oshana,,11.0,29.5
 2016,%,,Youth Female,Oshana,,11.0,42.9
 2016,%,,Youth Male,Oshana,,11.0,40.1
-2016,%,,Youth,Oshana,,11.0,41.6
+2016,%,Total Youth unemployment,,Oshana,,11.0,41.6
 2016,%,,Total F,Oshana,,11.0,28.7
 2016,%,,Total M,Oshana,,11.0,30.4
-2016,%,,,Oshikoto,,12.0,39.8
+2016,%,Total,,Oshikoto,,12.0,39.8
 2016,%,,Youth Female,Oshikoto,,12.0,54.2
 2016,%,,Youth Male,Oshikoto,,12.0,41.3
 2016,%,,Total F,Oshikoto,,12.0,44.0
-2016,%,,Youth,Oshikoto,,12.0,47.6
+2016,%,Total Youth unemployment,,Oshikoto,,12.0,47.6
 2016,%,,Total M,Oshikoto,,12.0,35.4
-2016,%,,,Otjozondjupa,,13.0,35.9
+2016,%,Total,,Otjozondjupa,,13.0,35.9
 2016,%,,Youth Female,Otjozondjupa,,13.0,55.6
 2016,%,,Youth Male,Otjozondjupa,,13.0,34.8
 2016,%,,Total F,Otjozondjupa,,13.0,45.0
 2016,%,,Total M,Otjozondjupa,,13.0,28.5
-2016,%,,Youth,Otjozondjupa,,13.0,44.3
-2016,%,,,Zambezi,,14.0,48.0
+2016,%,Total Youth unemployment,,Otjozondjupa,,13.0,44.3
+2016,%,Total,,Zambezi,,14.0,48.0
 2016,%,,Youth Female,Zambezi,,14.0,70.4
 2016,%,,Youth Male,Zambezi,,14.0,49.6
 2016,%,,Total F,Zambezi,,14.0,58.3
-2016,%,,Youth,Zambezi,,14.0,60.0
+2016,%,Total Youth unemployment,,Zambezi,,14.0,60.0
 2016,%,,Total M,Zambezi,,14.0,48.0
 2018,%,Total,,,,,33.4
-2018,%,Total Youth unemployment,,,,,46.1
+2018,%,Youth unemployement,,,,,46.1
 2018,%,,Total F,,,,34.3
 2018,%,,Total M,,,,32.5
-2018,%,,Urban,,,,33.4
-2018,%,,Rural,,,,33.5
+2018,%,,Total Urban,,,,33.4
+2018,%,,Total Rural,,,,33.5
 2018,%,,Total Youth Female,,,,48.5
 2018,%,,Total Youth Male,,,,43.7
 2018,%,,Total Youth Urban,,,,44.0
@@ -405,74 +405,88 @@ Year,Units,Total,Disaggregation,Region,NDP 5 Target,GeoCode,Value
 2018,%,,Total Female Youth Rural,,,,53.3
 2018,%,,Total Male Youth Urban,,,,42.6
 2018,%,,Total Male Youth Rural,,,,45.1
-2018,%,,Youth,!Karas,,1.0,44.7
+2018,%,Total,,!Karas,,1.0,32.2
+2018,%,Total Youth unemployment,,!Karas,,1.0,44.7
 2018,%,,Youth Female,!Karas,,1.0,48.6
 2018,%,,Youth Male,!Karas,,1.0,41.0
 2018,%,,Total F,!Karas,,1.0,35.1
 2018,%,,Total M,!Karas,,1.0,29.7
-2018,%,,Youth,Erongo,,2.0,36.8
+2018,%,Total,,Erongo,,2.0,29.7
+2018,%,Total Youth unemployment,,Erongo,,2.0,36.8
 2018,%,,Youth Female,Erongo,,2.0,36.5
 2018,%,,Youth Male,Erongo,,2.0,37.0
 2018,%,,Total F,Erongo,,2.0,31.2
 2018,%,,Total M,Erongo,,2.0,28.6
-2018,%,,Youth,Hardap,,3.0,41.9
+2018,%,Total,,Hardap,,3.0,34.5
+2018,%,Total Youth unemployment,,Hardap,,3.0,41.9
 2018,%,,Youth Female,Hardap,,3.0,47.6
 2018,%,,Youth Male,Hardap,,3.0,37.4
 2018,%,,Total F,Hardap,,3.0,39.2
 2018,%,,Total M,Hardap,,3.0,30.9
-2018,%,,Youth,Kavango East,,4.0,62.5
+2018,%,Total,,Kavango East,,4.0,48.2
+2018,%,Total Youth unemployment,,Kavango East,,4.0,62.5
 2018,%,,Youth Female,Kavango East,,4.0,62.9
 2018,%,,Youth Male,Kavango East,,4.0,62.0
 2018,%,,Total F,Kavango East,,4.0,48.7
 2018,%,,Total M,Kavango East,,4.0,47.5
-2018,%,,Youth,Kavango West,,5.0,46.8
+2018,%,Total,,Kavango West,,5.0,33.0
+2018,%,Total Youth unemployment,,Kavango West,,5.0,46.8
 2018,%,,Youth Female,Kavango West,,5.0,48.4
 2018,%,,Youth Male,Kavango West,,5.0,44.6
 2018,%,,Total F,Kavango West,,5.0,33.8
 2018,%,,Total M,Kavango West,,5.0,32.0
-2018,%,,Youth,Khomas,,6.0,43.0
+2018,%,Total,,Khomas,,6.0,31.5
+2018,%,Total Youth unemployment,,Khomas,,6.0,43.0
 2018,%,,Youth Female,Khomas,,6.0,46.0
 2018,%,,Youth Male,Khomas,,6.0,40.0
 2018,%,,Total F,Khomas,,6.0,32.7
 2018,%,,Total M,Khomas,,6.0,30.3
-2018,%,,Youth,Kunene,,7.0,53.0
+2018,%,Total,,Kunene,,7.0,41.6
+2018,%,Total Youth unemployment,,Kunene,,7.0,53.0
 2018,%,,Youth Female,Kunene,,7.0,55.2
 2018,%,,Youth Male,Kunene,,7.0,50.8
 2018,%,,Total F,Kunene,,7.0,45.0
 2018,%,,Total M,Kunene,,7.0,38.5
-2018,%,,Youth,Ohangwena,,8.0,51.4
+2018,%,Total,,Ohangwena,,8.0,33.3
+2018,%,Total Youth unemployment,,Ohangwena,,8.0,51.4
 2018,%,,Youth Female,Ohangwena,,8.0,53.4
 2018,%,,Youth Male,Ohangwena,,8.0,48.8
 2018,%,,Total F,Ohangwena,,8.0,33.1
 2018,%,,Total M,Ohangwena,,8.0,33.6
-2018,%,,Youth,Omaheke,,9.0,46.6
+2018,%,Total,,Omaheke,,9.0,38.7
+2018,%,Total Youth unemployment,,Omaheke,,9.0,46.6
 2018,%,,Youth Female,Omaheke,,9.0,61.0
 2018,%,,Youth Male,Omaheke,,9.0,35.8
 2018,%,,Total F,Omaheke,,9.0,50.2
 2018,%,,Total M,Omaheke,,9.0,30.5
-2018,%,,Youth,Omusati,,10.0,39.7
+2018,%,Total,,Omusati,,10.0,24.0
+2018,%,Total Youth unemployment,,Omusati,,10.0,39.7
 2018,%,,Youth Female,Omusati,,10.0,41.3
 2018,%,,Youth Male,Omusati,,10.0,38.1
 2018,%,,Total F,Omusati,,10.0,21.5
 2018,%,,Total M,Omusati,,10.0,27.6
-2018,%,,Youth,Oshana,,11.0,47.2
+2018,%,Total,,Oshana,,11.0,32.5
+2018,%,Total Youth unemployment,,Oshana,,11.0,47.2
 2018,%,,Youth Female,Oshana,,11.0,46.0
 2018,%,,Youth Male,Oshana,,11.0,48.5
 2018,%,,Total F,Oshana,,11.0,30.2
 2018,%,,Total M,Oshana,,11.0,35.7
-2018,%,,Youth,Oshikoto,,12.0,50.2
+2018,%,Total,,Oshikoto,,12.0,36.2
+2018,%,Total Youth unemployment,,Oshikoto,,12.0,50.2
 2018,%,,Youth Female,Oshikoto,,12.0,49.9
 2018,%,,Youth Male,Oshikoto,,12.0,50.4
 2018,%,,Total F,Oshikoto,,12.0,35.3
 2018,%,,Total M,Oshikoto,,12.0,37.1
-2018,%,,Youth,Otjozondjupa,,13.0,47.4
+2018,%,Total,,Otjozondjupa,,13.0,36.1
+2018,%,Total Youth unemployment,,Otjozondjupa,,13.0,47.4
 2018,%,,Youth Female,Otjozondjupa,,13.0,52.9
 2018,%,,Youth Male,Otjozondjupa,,13.0,42.5
 2018,%,,Total F,Otjozondjupa,,13.0,41.5
 2018,%,,Total M,Otjozondjupa,,13.0,31.3
-2018,%,,Youth,Zambezi,,14.0,49.7
+2018,%,Total,,Zambezi,,14.0,37.7
+2018,%,Total Youth unemployment,,Zambezi,,14.0,49.7
 2018,%,,Youth Female,Zambezi,,14.0,51.4
 2018,%,,Youth Male,Zambezi,,14.0,47.8
 2018,%,,Total F,Zambezi,,14.0,39.99
 2018,%,,Total M,Zambezi,,14.0,35.31
-2021,%,,,,NDP 5 Target,,24.2
+2018,%,,,,NDP5 Target,,24.2
