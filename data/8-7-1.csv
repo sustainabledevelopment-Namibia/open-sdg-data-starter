@@ -1,4 +1,7 @@
 Year,Units,Total,Disaggregation,Value
-2016,%,Total,,3.0
-2016,%,,Female,2.0
-2016,%,,Male,3.9
+2016,%,Total Proportion,,3.0
+2016,%,,Female Proportion,2.0
+2016,%,,Male Proportion,3.9
+2016,-,Total Number,,4480.0
+2016,-,,Female Number,1542.0
+2016,-,,Male Number,2938.0

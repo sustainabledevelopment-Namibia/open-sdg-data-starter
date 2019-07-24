@@ -1,1 +1,1 @@
-{"Year":[2016,2016,2016],"Units":["%","%","%"],"Total":["Total",null,null],"Disaggregation":[null,"Female","Male"],"Value":[3.0,2.0,3.9]}
+{"Year":[2016,2016,2016,2016,2016,2016],"Units":["%","%","%","-","-","-"],"Total":["Total Proportion",null,null,"Total Number",null,null],"Disaggregation":[null,"Female Proportion","Male Proportion",null,"Female Number","Male Number"],"Value":[3.0,2.0,3.9,4480.0,1542.0,2938.0]}
