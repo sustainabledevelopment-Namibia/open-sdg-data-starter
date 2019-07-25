@@ -4,74 +4,74 @@ Year,Units,Total,Disaggregation,Region,GeoCode,Value
 2004,%,,Female,,,83.8
 2004,%,,Urban,,,93.9
 2004,%,,Rural,,,78.0
-2004,%,,,!Karas,1.0,92.0
-2004,%,,,Erongo,2.0,95.1
-2004,%,,,Hardap,3.0,82.5
-2004,%,,,Kavango East,4.0,76.8
-2004,%,,,Kavango West,5.0,76.8
-2004,%,,,Khomas,6.0,95.8
-2004,%,,,Kunene,7.0,65.2
-2004,%,,,Ohangwena,8.0,77.3
-2004,%,,,Omaheke,9.0,64.4
-2004,%,,,Omusati,10.0,83.7
-2004,%,,,Oshana,11.0,90.9
-2004,%,,,Oshikoto,12.0,84.3
-2004,%,,,Otjozondjupa,13.0,75.9
-2004,%,,,Zambezi,14.0,80.0
+2004,%,Total,,!Karas,1.0,92.0
+2004,%,Total,,Erongo,2.0,95.1
+2004,%,Total,,Hardap,3.0,82.5
+2004,%,Total,,Kavango East,4.0,76.8
+2004,%,Total,,Kavango West,5.0,76.8
+2004,%,Total,,Khomas,6.0,95.8
+2004,%,Total,,Kunene,7.0,65.2
+2004,%,Total,,Ohangwena,8.0,77.3
+2004,%,Total,,Omaheke,9.0,64.4
+2004,%,Total,,Omusati,10.0,83.7
+2004,%,Total,,Oshana,11.0,90.9
+2004,%,Total,,Oshikoto,12.0,84.3
+2004,%,Total,,Otjozondjupa,13.0,75.9
+2004,%,Total,,Zambezi,14.0,80.0
 2010,%,Total,,,,87.7
 2010,%,,Male,,,88.4
 2010,%,,Female,,,87.1
 2010,%,,Urban,,,95.5
 2010,%,,Rural,,,82.1
-2010,%,,,!Karas,1.0,93.2
-2010,%,,,Erongo,2.0,96.7
-2010,%,,,Hardap,3.0,90.9
-2010,%,,,Kavango East,4.0,80.9
-2010,%,,,Kavango West,5.0,80.9
-2010,%,,,Khomas,6.0,95.7
-2010,%,,,Kunene,7.0,67.9
-2010,%,,,Ohangwena,8.0,85.2
-2010,%,,,Omaheke,9.0,68.7
-2010,%,,,Omusati,10.0,88.5
-2010,%,,,Oshana,11.0,93.5
-2010,%,,,Oshikoto,12.0,87.0
-2010,%,,,Otjozondjupa,13.0,77.7
-2010,%,,,Zambezi,14.0,85.8
+2010,%,Total,,!Karas,1.0,93.2
+2010,%,Total,,Erongo,2.0,96.7
+2010,%,Total,,Hardap,3.0,90.9
+2010,%,Total,,Kavango East,4.0,80.9
+2010,%,Total,,Kavango West,5.0,80.9
+2010,%,Total,,Khomas,6.0,95.7
+2010,%,Total,,Kunene,7.0,67.9
+2010,%,Total,,Ohangwena,8.0,85.2
+2010,%,Total,,Omaheke,9.0,68.7
+2010,%,Total,,Omusati,10.0,88.5
+2010,%,Total,,Oshana,11.0,93.5
+2010,%,Total,,Oshikoto,12.0,87.0
+2010,%,Total,,Otjozondjupa,13.0,77.7
+2010,%,Total,,Zambezi,14.0,85.8
 2011,%,Total,,,,85.3
 2011,%,,Male,,,85.4
 2011,%,,Female,,,85.1
 2011,%,,Urban,,,93.0
 2011,%,,Rural,,,79.3
-2011,%,,,!Karas,1.0,94.0
-2011,%,,,Erongo,2.0,94.3
-2011,%,,,Hardap,3.0,88.4
-2011,%,,,Kavango East,4.0,76.4
-2011,%,,,Kavango West,5.0,76.4
-2011,%,,,Khomas,6.0,95.1
-2011,%,,,Kunene,7.0,59.4
-2011,%,,,Ohangwena,8.0,82.7
-2011,%,,,Omaheke,9.0,70.7
-2011,%,,,Omusati,10.0,85.2
-2011,%,,,Oshana,11.0,93.5
-2011,%,,,Oshikoto,12.0,84.6
-2011,%,,,Otjozondjupa,13.0,79.6
-2011,%,,,Zambezi,14.0,78.6
+2011,%,Total,,!Karas,1.0,94.0
+2011,%,Total,,Erongo,2.0,94.3
+2011,%,Total,,Hardap,3.0,88.4
+2011,%,Total,,Kavango East,4.0,76.4
+2011,%,Total,,Kavango West,5.0,76.4
+2011,%,Total,,Khomas,6.0,95.1
+2011,%,Total,,Kunene,7.0,59.4
+2011,%,Total,,Ohangwena,8.0,82.7
+2011,%,Total,,Omaheke,9.0,70.7
+2011,%,Total,,Omusati,10.0,85.2
+2011,%,Total,,Oshana,11.0,93.5
+2011,%,Total,,Oshikoto,12.0,84.6
+2011,%,Total,,Otjozondjupa,13.0,79.6
+2011,%,Total,,Zambezi,14.0,78.6
 2016,%,Total,,,,88.7
 2016,%,,Male,,,89.4
 2016,%,,Female,,,87.9
 2016,%,,Urban,,,94.1
 2016,%,,Rural,,,82.7
-2016,%,,,!Karas,1.0,96.1
-2016,%,,,Erongo,2.0,95.9
-2016,%,,,Hardap,3.0,84.7
-2016,%,,,Kavango East,4.0,84.7
-2016,%,,,Kavango West,5.0,75.6
-2016,%,,,Khomas,6.0,96.7
-2016,%,,,Kunene,7.0,66.5
-2016,%,,,Ohangwena,8.0,85.6
-2016,%,,,Omaheke,9.0,75.3
-2016,%,,,Omusati,10.0,87.6
-2016,%,,,Oshana,11.0,94.0
-2016,%,,,Oshikoto,12.0,88.0
-2016,%,,,Otjozondjupa,13.0,83.0
-2016,%,,,Zambezi,14.0,85.5
+2016,%,Total,,!Karas,1.0,96.1
+2016,%,Total,,Erongo,2.0,95.9
+2016,%,Total,,Hardap,3.0,84.7
+2016,%,Total,,Kavango East,4.0,84.7
+2016,%,Total,,Kavango West,5.0,75.6
+2016,%,Total,,Khomas,6.0,96.7
+2016,%,Total,,Kunene,7.0,66.5
+2016,%,Total,,Ohangwena,8.0,85.6
+2016,%,Total,,Omaheke,9.0,75.3
+2016,%,Total,,Omusati,10.0,87.6
+2016,%,Total,,Oshana,11.0,94.0
+2016,%,Total,,Oshikoto,12.0,88.0
+2016,%,Total,,Otjozondjupa,13.0,83.0
+2016,%,Total,,Zambezi,14.0,85.5
