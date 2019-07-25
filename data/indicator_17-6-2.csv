@@ -1,14 +1,14 @@
-Year,Units,Disaggregation,Value
-2005,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.007
-2006,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.01
-2007,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.012
-2008,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.015
-2009,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.022
-2010,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.434
-2011,%,Fixed Internet broadband subscriptions per 100 inhabitants,0.795
-2012,%,Fixed Internet broadband subscriptions per 100 inhabitants,1.062
-2013,%,Fixed Internet broadband subscriptions per 100 inhabitants,1.543
-2014,%,Fixed Internet broadband subscriptions per 100 inhabitants,1.738
-2015,%,Fixed Internet broadband subscriptions per 100 inhabitants,2.903
-2016,%,Fixed Internet broadband subscriptions per 100 inhabitants,2.595
-2017,%,Fixed Internet broadband subscriptions per 100 inhabitants,2.522
+Year,Units,Total,Value
+2005,%,Total,0.007
+2006,%,Total,0.01
+2007,%,Total,0.012
+2008,%,Total,0.015
+2009,%,Total,0.022
+2010,%,Total,0.434
+2011,%,Total,0.795
+2012,%,Total,1.062
+2013,%,Total,1.543
+2014,%,Total,1.738
+2015,%,Total,2.903
+2016,%,Total,2.595
+2017,%,Total,2.522
