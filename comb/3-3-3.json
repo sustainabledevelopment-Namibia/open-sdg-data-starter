@@ -1,1 +1,1 @@
-{"data":{"Year":[2000,2005,2010,2015,2016],"Units":["per 1000","per 1000","per 1000","per 1000","per 1000"],"Disaggregation":["Malaria incidence","Malaria incidence","Malaria incidence","Malaria incidence","Malaria incidence"],"Value":[96.0,72.83,2.5,14.4,29.23]},"edges":[]}
+{"data":{"Year":[2000,2005,2010,2015,2016],"Units":["per 1000","per 1000","per 1000","per 1000","per 1000"],"Total":["Total","Total","Total","Total","Total"],"Value":[96.0,72.83,2.5,14.4,29.23]},"edges":[]}
