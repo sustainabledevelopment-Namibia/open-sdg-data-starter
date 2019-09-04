@@ -1,11 +1,11 @@
-Year,Unit,Dissagregation,Value
-2013,Number,Number of Fatalities,629
-2014,Number,Number of Fatalities,674
-2015,Number,Number of Fatalities,718
-2016,Number,Number of Fatalities,730
-2017,Number,Number of Fatalities,695
-2013,per 100000,Death Rates due to road accidents,28.6
-2014,per 100000,Death Rates due to road accidents,30.01
-2015,per 100000,Death Rates due to road accidents,31.5
-2016,per 100000,Death Rates due to road accidents,31.4
-2017,per 100000,Death Rates due to road accidents,29.3
+Year,Units,Total,Disaggregation,Value
+2013,per 100000,,Death rate due to road accident ,28.64186557
+2013,Number,,Number of Fatalities,629
+2014,per 100000,,Death rate due to road accident ,30.11760164
+2014,Number,,Number of Fatalities,674
+2015,per 100000,,Death rate due to road accident ,31.48134182
+2015,Number,,Number of Fatalities,718
+2016,per 100000,,Death rate due to road accident ,31.40611636
+2016,Number,,Number of Fatalities,730
+2017,per 100000,,Death rate due to road accident ,29.34040655
+2017,Number,,Number of Fatalities,695
