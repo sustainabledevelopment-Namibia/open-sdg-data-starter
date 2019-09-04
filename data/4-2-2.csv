@@ -1,76 +1,76 @@
-Year,Units,Total,Disaggregation,Region,GeoCode,Value
-2012,Number,Total (6 years),,,,12340.0
-2012,Number,Total Enrollment,,,,17572.0
-2012,Number,,Female (6 Years),,,6195.0
-2012,Number,,Male (6 Years),,,6145.0
-2015,Number,Total (6 years),,,,23278.0
-2015,Number,Total Enrollment,,,,32793.0
-2015,Number,,Female (6 Years),,,11879.0
-2015,Number,,Male (6 Years),,,11399.0
-2015,%,Total Proportion (6 Years),,,,40.38094577
-2015,%,,Female Proportion  (6 Years),,,41.53932231
-2015,%,,Male Proportion (6 Years),,,39.24059348
-2015,Number,Total (6 Years),,!Karas,1.0,923.0
-2015,Number,Total (6 Years),,Erongo,2.0,1187.0
-2015,Number,Total (6 Years),,Hardap,3.0,1062.0
-2015,Number,Total (6 Years),,Kavango East,4.0,1241.0
-2015,Number,Total (6 Years),,Kavango West,5.0,1367.0
-2015,Number,Total (6 Years),,Khomas,6.0,2174.0
-2015,Number,Total (6 Years),,Kunene,7.0,1347.0
-2015,Number,Total (6 Years),,Ohangwena,8.0,2517.0
-2015,Number,Total (6 Years),,Omaheke,9.0,842.0
-2015,Number,Total (6 Years),,Omusati,10.0,2646.0
-2015,Number,Total (6 Years),,Oshana,11.0,1923.0
-2015,Number,Total (6 Years),,Oshikoto,12.0,2577.0
-2015,Number,Total (6 Years),,Otjozondjupa,13.0,1766.0
-2015,Number,Total (6 Years),,Zambezi,14.0,1706.0
-2016,Number,Total (6 Years),,,,27753.0
-2016,Number,Total Enrollment,,,,37298.0
-2016,Number,,Female (6 Years),,,14192.0
-2016,Number,,Male (6 Years),,,13561.0
-2016,Number,,Female Enrollment,,,19158.0
-2016,Number,,Male Enrollment,,,18140.0
-2016,%,Total Proportion (6 Years),,,,46.48821588
-2016,%,,Female Proportion (6 Years),,,47.92166132
-2016,%,,Male (6 Years),,,45.0771174
-2016,Number,Total (6 Years),,!Karas,1.0,1050.0
-2016,Number,Total (6 Years),,Erongo,2.0,1208.0
-2016,Number,Total (6 Years),,Hardap,3.0,1168.0
-2016,Number,Total (6 Years),,Kavango East,4.0,1727.0
-2016,Number,Total (6 Years),,Kavango West,5.0,1655.0
-2016,Number,Total (6 Years),,Khomas,6.0,2762.0
-2016,Number,Total (6 Years),,Kunene,7.0,1543.0
-2016,Number,Total (6 Years),,Ohangwena,8.0,3228.0
-2016,Number,Total (6 Years),,Omaheke,9.0,898.0
-2016,Number,Total (6 Years),,Omusati,10.0,3657.0
-2016,Number,Total (6 Years),,Oshana,11.0,1933.0
-2016,Number,Total (6 Years),,Oshikoto,12.0,3008.0
-2016,Number,Total (6 Years),,Otjozondjupa,13.0,1920.0
-2016,Number,Total (6 Years),,Zambezi,14.0,1996.0
-2017,Number,Total (6 Years),,,,30624.0
-2017,Number,Total Enrollment,,,,41607.0
-2017,Number,,Female (6 Years),,,15589.0
-2017,Number,,Male (6 Years),,,15035.0
-2017,Number,,Female Enrollment,,,21102.0
-2017,Number,,Male Enrollment,,,20505.0
-2017,%,Total Proportion (6 Years),,,,49.0
-2017,Number,Total (6 Years),,!Karas,1.0,1120.0
-2017,Number,Total (6 Years),,Erongo,2.0,1271.0
-2017,Number,Total (6 Years),,Hardap,3.0,1227.0
-2017,Number,Total (6 Years),,Kavango East,4.0,2153.0
-2017,Number,Total (6 Years),,Kavango West,5.0,1868.0
-2017,Number,Total (6 Years),,Khomas,6.0,3199.0
-2017,Number,Total (6 Years),,Kunene,7.0,1541.0
-2017,Number,Total (6 Years),,Ohangwena,8.0,3829.0
-2017,Number,Total (6 Years),,Omaheke,9.0,968.0
-2017,Number,Total (6 Years),,Omusati,10.0,3763.0
-2017,Number,Total (6 Years),,Oshana,11.0,2264.0
-2017,Number,Total (6 Years),,Oshikoto,12.0,3306.0
-2017,Number,Total (6 Years),,Otjozondjupa,13.0,2096.0
-2017,Number,Total (6 Years),,Zambezi,14.0,2019.0
-2018,Number,Total Enrollment,,,,44081.0
-2018,Number,,Female Enrollment,,,22452.0
-2018,Number,,Male Enrollment,,,21629.0
-2019,Number,Total Enrollment,,,,46323.0
-2019,Number,,Female Enrollment,,,23310.0
-2019,Number,,Male Enrollment,,,23013.0
+Year,Units,Total,Disaggregation,NDP 5 Target,Region,GeoCode,Value
+2012,Number,,Total (6 year),,,,12340.0
+2012,Number,,Female (6 year),,,,6195.0
+2012,Number,,Male (6 year),,,,6145.0
+2012,Number,,Total Enrollment,,,,17572.0
+2015,Number,,Total (6 year),,,,23278.0
+2015,Number,,Female (6 year),,,,11879.0
+2015,Number,,Male (6 year),,,,11399.0
+2015,%,,Total Proportion (6 year),,,,40.380945772473396
+2015,%,,Female Proportion (6 year),,,,41.5393223065357
+2015,%,,Male Proportion (6 year),,,,39.2405934799821
+2015,Number,,Total Enrollment,,,,32793.0
+2015,Number,,Total (6 year),,!Karas,1.0,923.0
+2015,Number,,Total (6 year),,Erongo,2.0,1187.0
+2015,Number,,Total (6 year),,Hardap,3.0,1062.0
+2015,Number,,Total (6 year),,Kavango East,4.0,1241.0
+2015,Number,,Total (6 year),,Kavango West,5.0,1367.0
+2015,Number,,Total (6 year),,Khomas,6.0,2174.0
+2015,Number,,Total (6 year),,Kunene,7.0,1347.0
+2015,Number,,Total (6 year),,Ohangwena,8.0,2517.0
+2015,Number,,Total (6 year),,Omaheke,9.0,842.0
+2015,Number,,Total (6 year),,Omusati,10.0,2646.0
+2015,Number,,Total (6 year),,Oshana,11.0,1923.0
+2015,Number,,Total (6 year),,Oshikoto,12.0,2577.0
+2015,Number,,Total (6 year),,Otjozondjupa,13.0,1766.0
+2015,Number,,Total (6 year),,Zambezi,14.0,1706.0
+2016,Number,,Total (6 year),,,,27753.0
+2016,Number,,Female (6 year),,,,14192.0
+2016,Number,,Male (6 year),,,,13561.0
+2016,%,,Total Proportion (6 year),,,,46.488215883013105
+2016,%,,Female Proportion (6 year),,,,47.9216613202769
+2016,%,,Male Proportion (6 year),,,,45.07711740460049
+2016,Number,,Total Enrollment,,,,37298.0
+2016,Number,,Female Enrollment,,,,19158.0
+2016,Number,,Male Enrollment,,,,18140.0
+2016,Number,,Total (6 year),,!Karas,1.0,1050.0
+2016,Number,,Total (6 year),,Erongo,2.0,1208.0
+2016,Number,,Total (6 year),,Hardap,3.0,1168.0
+2016,Number,,Total (6 year),,Kavango East,4.0,1727.0
+2016,Number,,Total (6 year),,Kavango West,5.0,1655.0
+2016,Number,,Total (6 year),,Khomas,6.0,2762.0
+2016,Number,,Total (6 year),,Kunene,7.0,1543.0
+2016,Number,,Total (6 year),,Ohangwena,8.0,3228.0
+2016,Number,,Total (6 year),,Omaheke,9.0,898.0
+2016,Number,,Total (6 year),,Omusati,10.0,3657.0
+2016,Number,,Total (6 year),,Oshana,11.0,1933.0
+2016,Number,,Total (6 year),,Oshikoto,12.0,3008.0
+2016,Number,,Total (6 year),,Otjozondjupa,13.0,1920.0
+2016,Number,,Total (6 year),,Zambezi,14.0,1996.0
+2017,Number,,Total (6 year),,,,30624.0
+2017,Number,,Female (6 year),,,,15589.0
+2017,Number,,Male (6 year),,,,15035.0
+2017,%,,Total Proportion (6 year),,,,49.0
+2017,Number,,Total Enrollment,,,,41607.0
+2017,Number,,Female Enrollment,,,,21102.0
+2017,Number,,Male Enrollment,,,,20505.0
+2017,Number,,Total (6 year),,!Karas,1.0,1120.0
+2017,Number,,Total (6 year),,Erongo,2.0,1271.0
+2017,Number,,Total (6 year),,Hardap,3.0,1227.0
+2017,Number,,Total (6 year),,Kavango East,4.0,2153.0
+2017,Number,,Total (6 year),,Kavango West,5.0,1868.0
+2017,Number,,Total (6 year),,Khomas,6.0,3199.0
+2017,Number,,Total (6 year),,Kunene,7.0,1541.0
+2017,Number,,Total (6 year),,Ohangwena,8.0,3829.0
+2017,Number,,Total (6 year),,Omaheke,9.0,968.0
+2017,Number,,Total (6 year),,Omusati,10.0,3763.0
+2017,Number,,Total (6 year),,Oshana,11.0,2264.0
+2017,Number,,Total (6 year),,Oshikoto,12.0,3306.0
+2017,Number,,Total (6 year),,Otjozondjupa,13.0,2096.0
+2017,Number,,Total (6 year),,Zambezi,14.0,2019.0
+2018,Number,,Total Enrollment,,,,44081.0
+2018,Number,,Female Enrollment,,,,22452.0
+2018,Number,,Male Enrollment,,,,21629.0
+2019,Number,,Total Enrollment,,,,46323.0
+2019,Number,,Female Enrollment,,,,23310.0
+2019,Number,,Male Enrollment,,,,23013.0
