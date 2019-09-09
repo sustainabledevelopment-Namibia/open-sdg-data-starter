@@ -1,7 +1,49 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaggregation,NDP 5 Target,Region,GeoCode,Value
+2010,%,Total (> =10 percent),,,,81.1
+2010,%,Male,,,,56.4
+2010,%,Female,,,,43.1
+2010,%,Urban,,,,45.5
+2010,%,Rural,,,,54.5
+2010,%,Total (>= 25 percent),,,,64.8
+2010,%,Male,,,,56.8
+2010,%,Female,,,,42.7
+2010,%,Urban,,,,51.8
+2010,%,Rural,,,,48.2
+2010,%,Total (> =10 percent),,!Karas,1,4.4
+2010,%,Total (> =10 percent),,Erongo,2,9.7
+2010,%,Total (> =10 percent),,Hardap,3,4
+2010,%,Total (> =10 percent),,Kavango East,4,11.1
+2010,%,Total (> =10 percent),,Kavango West,5,11.1
+2010,%,Total (> =10 percent),,Khomas,6,20
+2010,%,Total (> =10 percent),,Kunene,7,3.6
+2010,%,Total (> =10 percent),,Ohangwena,8,8.5
+2010,%,Total (> =10 percent),,Omaheke,9,3.2
+2010,%,Total (> =10 percent),,Omusati,10,9.8
+2010,%,Total (> =10 percent),,Oshana,11,7.8
+2010,%,Total (> =10 percent),,Oshikoto,12,6.5
+2010,%,Total (> =10 percent),,Otjozondjupa,13,5.8
+2010,%,Total (> =10 percent),,Zambezi,14,5.5
+2016,%,Total (> =10 percent),,,,52.8
+2016,%,Male,,,,54
+2016,%,Female,,,,46
+2016,%,Urban,,,,58
+2016,%,Rural,,,,42
+2016,%,Total (>= 25 percent),,,,52.8
+2016,%,Male,,,,54.3
+2016,%,Female,,,,45.7
+2016,%,Urban,,,,61.4
+2016,%,Rural,,,,38.6
+2016,%,Total (> =10 percent),,!Karas,1,4
+2016,%,Total (> =10 percent),,Erongo,2,9.2
+2016,%,Total (> =10 percent),,Hardap,3,5.2
+2016,%,Total (> =10 percent),,Kavango East,4,4.6
+2016,%,Total (> =10 percent),,Kavango West,5,3.6
+2016,%,Total (> =10 percent),,Khomas,6,22.4
+2016,%,Total (> =10 percent),,Kunene,7,2.5
+2016,%,Total (> =10 percent),,Ohangwena,8,9.6
+2016,%,Total (> =10 percent),,Omaheke,9,4.2
+2016,%,Total (> =10 percent),,Omusati,10,7.6
+2016,%,Total (> =10 percent),,Oshana,11,7.6
+2016,%,Total (> =10 percent),,Oshikoto,12,6.9
+2016,%,Total (> =10 percent),,Otjozondjupa,13,7
+2016,%,Total (> =10 percent),,Zambezi,14,5.6
